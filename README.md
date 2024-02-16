@@ -45,5 +45,5 @@ FCCloud全球节点，解锁流媒体GPT，平民价格
 
 ## clash订阅链接：
 
-<a href="https://telegeam.github.io/blog1" target="_blank">点击进入订阅</a>
+<a href="https://github.com/nodesharefree/clashfree/blob/68483c0ef8d0e2f6ca36b13a12f66b887a1e79b6/clash.yml" target="_blank">点击进入订阅</a>
 
