@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2024-02-16 01:40:07  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2024-02-17 01:40:07  
 ##  高速机场推荐1
 
 [【EFCloud】](https://www.easyfastcloud.com/#/register?code=zZbUVKvu)
@@ -45,5 +45,5 @@ FCCloud全球节点，解锁流媒体GPT，平民价格
 
 ## clash订阅链接：
 
-<a href="https://github.com/nodesharefree/clashfree/blob/68483c0ef8d0e2f6ca36b13a12f66b887a1e79b6/clash.yml" target="_blank">点击进入订阅</a>
+<a href="https://nodesharefree.github.io/" target="_blank">点击进入订阅</a>
 
