@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2024-03-13 01:40:07  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2024-03-14 01:40:07  
 ##  高速机场推荐1
 
 [【EFCloud】](https://www.easyfastcloud.com/#/register?code=zZbUVKvu)
@@ -12,21 +12,21 @@
 
 ##  高速机场推荐2
 
-[【FCCloud】](https://invite.fastconnect.cc/#/register?code=9BV1HHRM)
+[【FCCloud】](https://www.fastconnect.cc/#/register?code=9BV1HHRM)
 
 FCCloud全球节点，解锁流媒体GPT，平民价格
 
-注册地址：[【FCCloud（点击注册）】](https://invite.fastconnect.cc/#/register?code=9BV1HHRM)
+注册地址：[【FCCloud（点击注册）】](https://www.fastconnect.cc/#/register?code=9BV1HHRM)
 
 ###  高速机场推荐3 
 
-[【快猫】](https://kuaimao.work/#/register?code=TTaIXhNs)
+[【快猫】](https://ikuaimao.cc/#/register?code=TTaIXhNs)
 
 季付送小火箭，流量多，优惠多
 
 而且不限登录设备数，chatGPT 解锁奈飞、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
 
-注册地址：[【快猫官网（点击注册）】](https://kuaimao.work/#/register?code=TTaIXhNs)
+注册地址：[【快猫官网（点击注册）】](https://ikuaimao.cc/#/register?code=TTaIXhNs)
 
 ###  高速机场推荐4
 
