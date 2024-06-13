@@ -1,4 +1,13 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2024-06-12 02:50:07  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2024-06-13 02:50:07  
+
+## 高速机场推荐
+
+[【火烧云】](https://huoshaoyun.pro/#/register?code=iYoHYy6g)
+不限设备数
+
+解锁流媒体、chatGPT
+
+注册地址：[【火烧云官网（点击注册）】](https://huoshaoyun.pro/#/register?code=iYoHYy6g)
 ##  高速机场推荐1
 
 [【EFCloud】](https://www.easyfastcloud.com/#/register?code=zZbUVKvu)
