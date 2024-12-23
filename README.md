@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2024-12-22 02:50:07  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2024-12-23 02:50:07  
 
 
 ## [TG账号商店 ](https://shop.nodeshare.xyz/) ---专住于海外社交推特账号的零售批发，包括电报Telegram，小火箭独享账号，苹果各国ID推特Twitter、脸书Facebook、谷歌邮箱Gmail、Instagram、海外版抖音TikTok等账号的批发零售
@@ -57,6 +57,38 @@
 便宜是真便宜，9.9 元钱买1个月，每个月 140 G 流量。自己用了一个多月，看视频完全不卡，下载游戏也很快。
 
 最大的缺点就是太便宜了
+
+* * *
+
+### [spcloud](https://invite.spcloud.vip/#/register?code=vS77JVkP)
+
+注册链接：[spcloud.vip](https://invite.spcloud.vip/#/register?code=vS77JVkP)
+
+
+试用：
+
+最便宜的订阅有10元 100G/月。
+
+最高速率 1000Mbps , 全天不限速；IEFL专线超低延迟隐私数据传输；解锁Netfilx、Hulu、HBO、Disney+、Dazn等主流流媒体平台；全球 50+ 国家/地区支持；全平台支持，不限制设备数量
+
+* * *
+
+### [fccloud](https://www.fastconnectcloud.net/#/register?code=qGNvJ8Oy)
+
+注册链接：[fastconnectcloud.net](https://www.fastconnectcloud.net/#/register?code=qGNvJ8Oy)
+
+
+试用：无
+
+最便宜的订阅有10元 150G/月。
+
+**特性如下**
+
++   超高性价比，节点质量高，客服实时在线，晚高峰不限速，不限制设备。
++   IPLC深港、沪美、沪日专线，
++   流媒体完美解锁（包括Netflix , Disney+, HBO等）
++   完美解锁ChatGPT、Gemini、Copilot
++   支持Tiktok本土短视频运营和直播
 
 * * *
 
