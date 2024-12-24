@@ -37,9 +37,6 @@
 
 注册链接：[https://www.efcloud1.com](https://www.efcloud1.com/#/register?code=Rg3jlrsW)
 
-
-试用：无
-
 便宜是真便宜，10 块钱买1个月，每个月 200 G 流量。自己用了一个多月，看视频完全不卡，下载游戏也很快。
 
 最大的缺点就是太便宜了
@@ -49,8 +46,6 @@
 ### [星辰VPN](https://t.xcvpn.us/#/register?code=tLBWwhPs)
 
 注册链接：[t.xcvpn.us](https://t.xcvpn.us/#/register?code=tLBWwhPs)
-
-试用：
 
 最便宜的订阅有6元 60G/月。
 
@@ -64,9 +59,6 @@
 
 注册链接：[spcloud.vip](https://invite.spcloud.vip/#/register?code=vS77JVkP)
 
-
-试用：
-
 最便宜的订阅有10元 100G/月。
 
 最高速率 1000Mbps , 全天不限速；IEFL专线超低延迟隐私数据传输；解锁Netfilx、Hulu、HBO、Disney+、Dazn等主流流媒体平台；全球 50+ 国家/地区支持；全平台支持，不限制设备数量
@@ -76,9 +68,6 @@
 ### [fccloud](https://www.fastconnectcloud.net/#/register?code=qGNvJ8Oy)
 
 注册链接：[fastconnectcloud.net](https://www.fastconnectcloud.net/#/register?code=qGNvJ8Oy)
-
-
-试用：无
 
 最便宜的订阅有10元 150G/月。
 
@@ -121,7 +110,6 @@
 
 注册链接：[宇宙机场.com](https://xn--mesx3htbz31e.com/#/register?code=Cy7u71Ul)
 
-试用：
 
 最便宜的订阅有5元 1000G/月。
 
