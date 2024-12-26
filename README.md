@@ -86,9 +86,8 @@
 注册链接：[uk.sanfen.me](https://uk.sanfen.me/register?code=D3AphwEh)
 
 
-试用：
 
-最便宜的订阅有5元 5000G/月。
+最便宜的订阅有9.9元 80G/月。
 
 全球20+国家和地区的节点 包含100+节点；更高级的流媒体解锁 多地原生ip；速度更快更稳定 适合主力使用；限制5个客户端同时在线
 
@@ -98,7 +97,7 @@
 
 注册链接：[wl.awcmam.com](https://wl.awcmam.com/#/register?code=tsTYVbC0)
 
-试用：
+
 
 最便宜的订阅有5元 1000G/月。
 
@@ -122,7 +121,6 @@
 注册链接：[dginv.click](https://www.dginv.click/#/register?code=yi5aid0d)
 
 
-试用：
 
 最便宜的订阅有15.8元 160G/月。
 
@@ -136,7 +134,6 @@
 注册链接：[eded.keley02.top](https://eded.keley02.top/#/login?code=TRbo3nMf)
 
 
-试用：
 
 最便宜的订阅有25元 120G/月。
 
@@ -149,8 +146,6 @@
 注册链接：[spcloud.vip](https://invite.spcloud.vip/#/register?code=vS77JVkP)
 
 
-试用：
-
 最便宜的订阅有10元 100G/月。
 
 最高速率 1000Mbps , 全天不限速；IEFL专线超低延迟隐私数据传输；解锁Netfilx、Hulu、HBO、Disney+、Dazn等主流流媒体平台；全球 50+ 国家/地区支持；全平台支持，不限制设备数量
@@ -161,8 +156,6 @@
 
 注册链接：[fastconnectcloud.net](https://www.fastconnectcloud.net/#/register?code=qGNvJ8Oy)
 
-
-试用：无
 
 最便宜的订阅有10元 150G/月。
 
@@ -181,7 +174,6 @@
 注册链接：[goudan.site](https://goudan.site/#/register?code=LQzUg4EU)
 
 
-试用：
 
 最便宜的订阅有9元 120G/月。
 
@@ -220,8 +212,6 @@
 注册链接：[fastconnectcloud.net](https://www.fastconnectcloud.net/#/register?code=qGNvJ8Oy)
 
 
-试用：无
-
 最便宜的订阅有10元 150G/月。
 
 **特性如下**
@@ -238,7 +228,6 @@
 
 注册链接：[huoshaoyun.pro/](https://cn1.huoshaoyun.pro/#/register?code=6Y5z9uJk)
 
-试用：无
 
 最便宜的订阅有18元 100G/月。
 
@@ -251,7 +240,6 @@
 注册链接：[kuaimao.io](https://kuaimao.io/#/register?code=9xg6G0AV)
 
 
-试用：无
 
 最便宜的订阅有10元 100G/月。
 
@@ -286,8 +274,6 @@
 
 注册链接：[https://www.efcloud1.com](https://www.efcloud1.com/#/register?code=Rg3jlrsW)
 
-
-试用：无
 
 便宜是真便宜，10 块钱买1个月，每个月 200 G 流量。自己用了一个多月，看视频完全不卡，下载游戏也很快。
 
