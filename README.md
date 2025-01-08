@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-1-7 02:50:07  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-1-8 02:50:07  
 
 
 ## [TG账号商店 ](https://shop.nodeshare.xyz/) ---专住于海外社交账号的零售批发，包括电报Telegram，小火箭独享账号，苹果各国ID推特Twitter、脸书Facebook、谷歌邮箱Gmail、Instagram、海外版抖音TikTok等账号的批发零售
@@ -13,23 +13,24 @@
 点击名称可以看到详情
 
 | 机场名称 | 地址 | 试用 | 最便宜订阅 | 按流量购买 |
-| :------- | :--- | :--- | :--------- | :-------- |
-| [EF](#ef) | [www.efcloud1.com](https://www.efcloud1.com/#/register?code=Rg3jlrsW) | 无 | 10 元 200G/月 | ❌不支持 |
-| [spcloud](#ef) | [spcloud.vip](https://invite.spcloud.vip/#/register?code=vS77JVkP) | 无 | 10 元 200G/月 | ❌不支持 |
-| [FC](#ef) | [fastconnectcloud.net](https://www.fastconnectcloud.net/#/register?code=qGNvJ8Oy) | 无 | 10 元 200G/月 | ❌不支持 |
-| [星辰vpn](#%E9%BE%99%E7%8C%AB%E4%BA%91) | [t.xcvpn.us](https://t.xcvpn.us/#/register?code=tLBWwhPs) | 无 | 9.9元 140G/月 | ❌不支持 |
-| [宇宙机场](#aladdin) | [宇宙机场.com](https://xn--mesx3htbz31e.com/#/register?code=Cy7u71Ul) | 无 | 5元 1000G/月 | ❌不支持 | 暂无 |
-| [三分机场](#aladdin) | [uk.sanfen.me](https://uk.sanfen.me/register?code=D3AphwEh) | 无 | 8元 200G/季 | ❌不支持 | 暂无 |
-| [狗狗加速器](#%E9%BE%99%E7%8C%AB%E4%BA%91) | [dginv.click](https://www.dginv.click/#/register?code=yi5aid0d)| 无 | 9.9元 140G/月 | ❌不支持 |
-| [flybit](#flybit) | [goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=iV0dLWfT) | 1天2G | 10元 100G/月 | ✔支持 |
-| [冲上云霄](#%E5%86%B2%E4%B8%8A%E4%BA%91%E9%9C%84) | [https://cpdd.one](https://cpdd.one/?r=42354) | 1天 1G | 5元 150G/30天 | ✔支持 |
-| [ssone](#ssone) | [hello-ssone.com](https://hello-ssone.com/register?aff=0CNXS3Mx) | 1天 1G | 10元 100G/月 | ❌不支持 |
-| [加速啦](#%E5%8A%A0%E9%80%9F%E5%95%A6) | [https://jiasu.la/?r=42350](https://jiasu.la/?r=42350) | 1G 不限时 | 10元 60G/月 | ✔支持 |
-| [Aladdin](#aladdin) | [https://www.avatargpt.xyz/](https://www.avatargpt.xyz/register?aff=mN5ERopkOr) | 无 | 30元 390G/半年 | ❌不支持 | 暂无 |
-| [xxai](#xxai) | [xxai.uk](https://xx-ai.co?invite_code=xijJQ0UG) | 无 | 16.9元 100G/月 | ✔支持 |
-| [青云梯](#%E9%9D%92%E4%BA%91%E6%A2%AF) | [ermaozi01.qytvipaff.cc](https://ermaozi01.qytvipaff.cc/register?aff=guLyIdy0) | 无 | 25元 150G/月 | ❌不支持 |
-| [EF](#ef) | [www.efcloud1.com](https://www.efcloud1.com/#/register?code=Rg3jlrsW) | 无 | 10 元 200G/月 | ❌不支持 |
-
+| :-- | :-- | :-- | :-- | :-- |
+| [EF](https://www.efcloud1.com/#/register?code=Rg3jlrsW) | [www.efcloud1.com](https://www.efcloud1.com/#/register?code=Rg3jlrsW) |  | 10 元 200G/月 |  |
+| [spcloud](https://invite.spcloud.vip/#/register?code=vS77JVkP) | [spcloud.vip](https://invite.spcloud.vip/#/register?code=vS77JVkP) |  | 10 元 200G/月 |  |
+| [FC](https://www.fastconnectcloud.net/#/register?code=qGNvJ8Oy) | [fastconnectcloud.net](https://www.fastconnectcloud.net/#/register?code=qGNvJ8Oy) |  | 10 元 200G/月 |  |
+| [星辰vpn](https://t.xcvpn.us/#/register?code=tLBWwhPs) | [t.xcvpn.us](https://t.xcvpn.us/#/register?code=tLBWwhPs) |  | 9.9元 140G/月 |  |
+| [宇宙机场](https://xn--mesx3htbz31e.com/#/register?code=Cy7u71Ul) | [宇宙机场.com](https://xn--mesx3htbz31e.com/#/register?code=Cy7u71Ul) |  | 5元 1000G/月 |  |
+| [三分机场](https://uk.sanfen.me/register?code=D3AphwEh) | [uk.sanfen.me](https://uk.sanfen.me/register?code=D3AphwEh) |  | 8元 200G/季 |  |
+| [狗狗加速器](https://www.dginv.click/#/register?code=yi5aid0d) | [dginv.click](https://www.dginv.click/#/register?code=yi5aid0d) |  | 9.9元 140G/月 |  |
+| [flybit](https://goflybit.pages.dev/#/register?code=iV0dLWfT) | [goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=iV0dLWfT) | 1天2G | 10元 100G/月 | ✔支持 |
+| [冲上云霄](https://cpdd.one/?r=42354) | [https://cpdd.one](https://cpdd.one/?r=42354) | 1天 1G | 5元 150G/30天 | ✔支持 |
+| [ssone](https://hello-ssone.com/register?aff=0CNXS3Mx) | [hello-ssone.com](https://hello-ssone.com/register?aff=0CNXS3Mx) | 1天 1G | 10元 100G/月 |  |
+| [加速啦](https://jiasu.la/?r=42350) | [jiasu.la](https://jiasu.la/?r=42350) | 1G 不限时 | 10元 60G/月 | ✔支持 |
+| [快猫](https://kuaimao.io/#/register?code=9xg6G0AV) | [kuaimao.io](https://kuaimao.io/#/register?code=9xg6G0AV) |  | 10元 100G/月 | ✔支持 |
+| [西瓜云](https://goudan.site/#/register?code=LQzUg4EU) | [goudan.site](https://goudan.site/#/register?code=LQzUg4EU) |  | 9元 120G/月 |  |
+| [稳连云](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0) | [9kqq77hqun.com](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0) |  | 7元 100G/月 |  |
+| [EF](https://www.efcloud1.com/#/register?code=Rg3jlrsW) | [www.efcloud1.com](https://www.efcloud1.com/#/register?code=Rg3jlrsW) |  | 10 元 200G/月 |  |
+| [星链云](https://starlinkcloud.cc/#/register?code=UTNDuia8) | [starlinkcloud.cc](https://starlinkcloud.cc/#/register?code=UTNDuia8) |  | 20元 200G/月 |  |
+| [火烧云](https://huoshaoyun.pro/#/register?code=BP3fNkQd) | [huoshaoyun.pro](https://huoshaoyun.pro/#/register?code=BP3fNkQd) |  | 18元 100G/月 |  |
 
 ## [简介](#简介)
 
