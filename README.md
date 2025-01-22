@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-1-21 02:50:07  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-1-22 02:50:07  
 
 
 ## [TG账号商店 ](https://shop.nodeshare.xyz/) ---专住于海外社交账号的零售批发，包括电报Telegram，小火箭独享账号，苹果各国ID推特Twitter、脸书Facebook、谷歌邮箱Gmail、Instagram、海外版抖音TikTok等账号的批发零售
@@ -21,7 +21,6 @@
 | [星辰vpn](https://t.xcvpn.us/#/register?code=tLBWwhPs) | [t.xcvpn.us](https://t.xcvpn.us/#/register?code=tLBWwhPs) |  | 9.9元 140G/月 |  |
 | [狗狗加速器](https://www.dginv.click/#/register?code=yi5aid0d) | [dginv.click](https://www.dginv.click/#/register?code=yi5aid0d) |  | 9.9元 140G/月 |  |
 | [flybit](https://goflybit.pages.dev/#/register?code=iV0dLWfT) | [goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=iV0dLWfT) | 1天2G | 10元 100G/月 | ✔支持 |
-| [ssone](https://hello-ssone.com/register?aff=0CNXS3Mx) | [hello-ssone.com](https://hello-ssone.com/register?aff=0CNXS3Mx) | 1天 1G | 10元 100G/月 |  |
 | [加速啦](https://jiasu.la/?r=42350) | [jiasu.la](https://jiasu.la/?r=42350) | 1G 不限时 | 10元 60G/月 | ✔支持 |
 | [快猫](https://kuaimao.io/#/register?code=9xg6G0AV) | [kuaimao.io](https://kuaimao.io/#/register?code=9xg6G0AV) |  | 10元 100G/月 | ✔支持 |
 | [西瓜云](https://goudan.site/#/register?code=LQzUg4EU) | [goudan.site](https://goudan.site/#/register?code=LQzUg4EU) |  | 9元 120G/月 |  |
@@ -308,7 +307,7 @@ FCCloud全球节点，解锁流媒体GPT，平民价格
 所有免费clash节点都爬取自网络，请勿用于非法用途 。电报地址：<a href="https://t.me/+_gkN4gmsOWFjZmZl" target="_blank">免费clash节点每日更新 – Telegram</a>
 ## clash使用教程：
 
-<a href="https://www.nodeshare.xyz/p/clashclash-for-windows.html" target="_blank">clash科学上网：clash for windows 详细教程</a>
+<a href="https://www.nodeshare.xyz/" target="_blank">clash科学上网：clash for windows 详细教程</a>
 
 ## clash订阅链接：
 
