@@ -15,9 +15,6 @@
 | 机场名称 | 地址 | 试用 | 最便宜订阅 | 按流量购买 |
 | :-- | :-- | :-- | :-- | :-- |
 | [冲上云霄](https://cpdd.one/?r=42354) | [https://cpdd.one](https://cpdd.one/?r=42354) | 1天 1G | 5元 150G/30天 | ✔支持 |
-| [EF](https://kkjiasu.top/#/register?code=lhGhQflc) | [www.efcloud1.com](https://kkjiasu.top/#/register?code=lhGhQflc) |  | 10 元 200G/月 |  |
-| [spcloud](https://invite.spcloud.vip/#/register?code=vS77JVkP) | [spcloud.vip](https://invite.spcloud.vip/#/register?code=vS77JVkP) |  | 10 元 200G/月 |  |
-| [FC](https://www.fastconnectcloud.net/#/register?code=qGNvJ8Oy) | [fastconnectcloud.net](https://www.fastconnectcloud.net/#/register?code=qGNvJ8Oy) |  | 10 元 200G/月 |  |
 | [星辰vpn](https://t.xcvpn.us/#/register?code=tLBWwhPs) | [t.xcvpn.us](https://t.xcvpn.us/#/register?code=tLBWwhPs) |  | 9.9元 140G/月 |  |
 | [狗狗加速器](https://www.dginv.click/#/register?code=yi5aid0d) | [dginv.click](https://www.dginv.click/#/register?code=yi5aid0d) |  | 9.9元 140G/月 |  |
 | [flybit](https://goflybit.pages.dev/#/register?code=iV0dLWfT) | [goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=iV0dLWfT) | 1天2G | 10元 100G/月 | ✔支持 |
@@ -25,17 +22,16 @@
 | [快猫](https://kuaimao.io/#/register?code=9xg6G0AV) | [kuaimao.io](https://kuaimao.io/#/register?code=9xg6G0AV) |  | 10元 100G/月 | ✔支持 |
 | [西瓜云](https://goudan.site/#/register?code=LQzUg4EU) | [goudan.site](https://goudan.site/#/register?code=LQzUg4EU) |  | 9元 120G/月 |  |
 | [稳连云](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0) | [9kqq77hqun.com](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0) |  | 7元 100G/月 |  |
-| [EF](https://kkjiasu.top/#/register?code=lhGhQflc) | [www.efcloud1.com](https://kkjiasu.top/#/register?code=lhGhQflc) |  | 10 元 200G/月 |  |
 | [星链云](https://starlinkcloud.cc/#/register?code=UTNDuia8) | [starlinkcloud.cc](https://starlinkcloud.cc/#/register?code=UTNDuia8) |  | 20元 200G/月 |  |
 | [火烧云](https://huoshaoyun.pro/#/register?code=BP3fNkQd) | [huoshaoyun.pro](https://huoshaoyun.pro/#/register?code=BP3fNkQd) |  | 18元 100G/月 |  |
 
 ## [简介](#简介)
 
-### [EF](https://kkjiasu.top/#/register?code=lhGhQflc)
+### [KK加速](https://kkjiasu.top/#/register?code=lhGhQflc)
 
 点击注册：[https://www.efcloud1.com](https://kkjiasu.top/#/register?code=lhGhQflc)
 
-便宜是真便宜，10 块钱买1个月，每个月 200 G 流量。自己用了一个多月，看视频完全不卡，下载游戏也很快。
+便宜是真便宜，8 块钱买1个月，每个月 200 G 流量。自己用了一个多月，看视频完全不卡，下载游戏也很快。
 
 最大的缺点就是太便宜了
 
@@ -53,31 +49,6 @@
 
 * * *
 
-### [spcloud](https://invite.spcloud.vip/#/register?code=vS77JVkP)
-
-点击注册：[spcloud.vip](https://invite.spcloud.vip/#/register?code=vS77JVkP)
-
-最便宜的订阅有10元 100G/月。
-
-最高速率 1000Mbps , 全天不限速；IEFL专线超低延迟隐私数据传输；解锁Netfilx、Hulu、HBO、Disney+、Dazn等主流流媒体平台；全球 50+ 国家/地区支持；全平台支持，不限制设备数量
-
-* * *
-
-### [fccloud](https://www.fastconnectcloud.net/#/register?code=qGNvJ8Oy)
-
-点击注册：[fastconnectcloud.net](https://www.fastconnectcloud.net/#/register?code=qGNvJ8Oy)
-
-最便宜的订阅有10元 150G/月。
-
-**特性如下**
-
-+   超高性价比，节点质量高，客服实时在线，晚高峰不限速，不限制设备。
-+   IPLC深港、沪美、沪日专线，
-+   流媒体完美解锁（包括Netflix , Disney+, HBO等）
-+   完美解锁ChatGPT、Gemini、Copilot
-+   支持Tiktok本土短视频运营和直播
-
-* * *
 
 
 ### [稳连云](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0)
@@ -117,33 +88,7 @@
 
 * * *
 
-### [spcloud](https://invite.spcloud.vip/#/register?code=vS77JVkP)
 
-点击注册：[spcloud.vip](https://invite.spcloud.vip/#/register?code=vS77JVkP)
-
-
-最便宜的订阅有10元 100G/月。
-
-最高速率 1000Mbps , 全天不限速；IEFL专线超低延迟隐私数据传输；解锁Netfilx、Hulu、HBO、Disney+、Dazn等主流流媒体平台；全球 50+ 国家/地区支持；全平台支持，不限制设备数量
-
-* * *
-
-### [fccloud](https://www.fastconnectcloud.net/#/register?code=qGNvJ8Oy)
-
-点击注册：[fastconnectcloud.net](https://www.fastconnectcloud.net/#/register?code=qGNvJ8Oy)
-
-
-最便宜的订阅有10元 150G/月。
-
-**特性如下**
-
-+   超高性价比，节点质量高，客服实时在线，晚高峰不限速，不限制设备。
-+   IPLC深港、沪美、沪日专线，
-+   流媒体完美解锁（包括Netflix , Disney+, HBO等）
-+   完美解锁ChatGPT、Gemini、Copilot
-+   支持Tiktok本土短视频运营和直播
-
-* * *
 
 ### [西游云](https://goudan.site/#/register?code=LQzUg4EU)
 
@@ -180,23 +125,6 @@
 最便宜的订阅有10元 60G/月。
 
 全自研开发面板，海外团队运营，专线节点1倍率，安全好用省心无日志纪录，节点质量高，客服实时在线，晚高峰不限速，不限制设备。
-
-* * *
-
-### [fccloud](https://www.fastconnectcloud.net/#/register?code=qGNvJ8Oy)
-
-点击注册：[fastconnectcloud.net](https://www.fastconnectcloud.net/#/register?code=qGNvJ8Oy)
-
-
-最便宜的订阅有10元 150G/月。
-
-**特性如下**
-
-+   超高性价比，节点质量高，客服实时在线，晚高峰不限速，不限制设备。
-+   IPLC深港、沪美、沪日专线，
-+   流媒体完美解锁（包括Netflix , Disney+, HBO等）
-+   完美解锁ChatGPT、Gemini、Copilot
-+   支持Tiktok本土短视频运营和直播
 
 * * *
 
@@ -246,12 +174,12 @@
 
 * * *
 
-### [EF](https://kkjiasu.top/#/register?code=lhGhQflc)
+### [KK加速](https://kkjiasu.top/#/register?code=lhGhQflc)
 
 点击注册：[https://www.efcloud1.com](https://kkjiasu.top/#/register?code=lhGhQflc)
 
 
-便宜是真便宜，10 块钱买1个月，每个月 200 G 流量。自己用了一个多月，看视频完全不卡，下载游戏也很快。
+便宜是真便宜，8 块钱买1个月，每个月 200 G 流量。自己用了一个多月，看视频完全不卡，下载游戏也很快。
 
 最大的缺点就是太便宜了
 
@@ -267,22 +195,17 @@
 注册地址：[【火烧云官网（点击注册）】](https://huoshaoyun.pro/#/register?code=iYoHYy6g)
 ##  高速机场推荐1
 
-[【EFCloud】](https://kkjiasu.top/#/register?code=lhGhQflc)
+[【KK加速】](https://kkjiasu.top/#/register?code=lhGhQflc)
 不限设备数
 
 解锁流媒体、chatGPT
 
-注册地址：[【EFCloud官网（点击注册）】](https://kkjiasu.top/#/register?code=lhGhQflc)
+注册地址：[【KK加速官网（点击注册）】](https://kkjiasu.top/#/register?code=lhGhQflc)
 
 
 
 ##  高速机场推荐2
 
-[【FCCloud】](https://www.fccloud1.com/#/register?code=9BV1HHRM)
-
-FCCloud全球节点，解锁流媒体GPT，平民价格
-
-注册地址：[【FCCloud（点击注册）】](https://www.fccloud1.com/#/register?code=9BV1HHRM)
 
 ###  高速机场推荐3 
 
