@@ -14,22 +14,22 @@
 
 | 机场名称 | 地址 | 试用 | 最便宜订阅 | 按流量购买 |
 | :-- | :-- | :-- | :-- | :-- |
-| [冲上云霄](https://cpdd.one/?r=42354) | [https://cpdd.one](https://cpdd.one/?r=42354) | 1天 1G | 5元 150G/30天 | ✔支持 |
-| [星辰vpn](https://t.xcvpn.us/#/register?code=tLBWwhPs) | [t.xcvpn.us](https://t.xcvpn.us/#/register?code=tLBWwhPs) |  | 9.9元 140G/月 |  |
-| [狗狗加速器](https://www.dginv.click/#/register?code=yi5aid0d) | [dginv.click](https://www.dginv.click/#/register?code=yi5aid0d) |  | 9.9元 140G/月 |  |
-| [flybit](https://goflybit.pages.dev/#/register?code=iV0dLWfT) | [goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=iV0dLWfT) | 1天2G | 10元 100G/月 | ✔支持 |
-| [加速啦](https://jiasu.la/?r=42350) | [jiasu.la](https://jiasu.la/?r=42350) | 1G 不限时 | 10元 60G/月 | ✔支持 |
-| [快猫](https://kuaimao.io/#/register?code=9xg6G0AV) | [kuaimao.io](https://kuaimao.io/#/register?code=9xg6G0AV) |  | 10元 100G/月 | ✔支持 |
-| [西瓜云](https://goudan.site/#/register?code=LQzUg4EU) | [goudan.site](https://goudan.site/#/register?code=LQzUg4EU) |  | 9元 120G/月 |  |
-| [稳连云](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0) | [9kqq77hqun.com](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0) |  | 7元 100G/月 |  |
-| [星链云](https://starlinkcloud.cc/#/register?code=UTNDuia8) | [starlinkcloud.cc](https://starlinkcloud.cc/#/register?code=UTNDuia8) |  | 20元 200G/月 |  |
-| [火烧云](https://huoshaoyun.pro/#/register?code=BP3fNkQd) | [huoshaoyun.pro](https://huoshaoyun.pro/#/register?code=BP3fNkQd) |  | 18元 100G/月 |  |
+| [冲上云霄](https://cpdd.one/?r=42354) | [点击进入](https://cpdd.one/?r=42354) | 1天 1G | 5元 150G/30天 | ✔支持 |
+| [星辰vpn](https://t.xcvpn.us/#/register?code=tLBWwhPs) | [点击进入](https://t.xcvpn.us/#/register?code=tLBWwhPs) |  | 9.9元 140G/月 |  |
+| [狗狗加速器](https://www.dginv.click/#/register?code=yi5aid0d) | [点击进入](https://www.dginv.click/#/register?code=yi5aid0d) |  | 9.9元 140G/月 |  |
+| [flybit](https://goflybit.pages.dev/#/register?code=iV0dLWfT) | [点击进入](https://goflybit.pages.dev/#/register?code=iV0dLWfT) | 1天2G | 10元 100G/月 | ✔支持 |
+| [加速啦](https://jiasu.la/?r=42350) | [点击进入](https://jiasu.la/?r=42350) | 1G 不限时 | 10元 60G/月 | ✔支持 |
+| [快猫](https://kuaimao.io/#/register?code=9xg6G0AV) | [点击进入](https://kuaimao.io/#/register?code=9xg6G0AV) |  | 10元 100G/月 | ✔支持 |
+| [西瓜云](https://goudan.site/#/register?code=LQzUg4EU) | [点击进入](https://goudan.site/#/register?code=LQzUg4EU) |  | 9元 120G/月 |  |
+| [稳连云](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0) | [点击进入](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0) |  | 7元 100G/月 |  |
+| [星链云](https://starlinkcloud.cc/#/register?code=UTNDuia8) | [点击进入](https://starlinkcloud.cc/#/register?code=UTNDuia8) |  | 20元 200G/月 |  |
+| [火烧云](https://huoshaoyun.pro/#/register?code=BP3fNkQd) | [点击进入](https://huoshaoyun.pro/#/register?code=BP3fNkQd) |  | 18元 100G/月 |  |
 
 ## [简介](#简介)
 
 ### [KK加速](https://kkjiasu.top/#/register?code=lhGhQflc)
 
-点击注册：[https://www.efcloud1.com](https://kkjiasu.top/#/register?code=lhGhQflc)
+点击注册：[点击进入](https://kkjiasu.top/#/register?code=lhGhQflc)
 
 便宜是真便宜，8 块钱买1个月，每个月 200 G 流量。自己用了一个多月，看视频完全不卡，下载游戏也很快。
 
@@ -39,7 +39,7 @@
 
 ### [星辰VPN](https://t.xcvpn.us/#/register?code=tLBWwhPs)
 
-点击注册：[t.xcvpn.us](https://t.xcvpn.us/#/register?code=tLBWwhPs)
+点击注册：[点击进入](https://t.xcvpn.us/#/register?code=tLBWwhPs)
 
 最便宜的订阅有6元 60G/月。
 
@@ -51,21 +51,9 @@
 
 
 
-### [稳连云](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0)
-
-点击注册：[wl.awcmam.com](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0)
-
-
-
-最便宜的订阅有5元 1000G/月。
-
-流媒体解锁；支持协议vmess；仅限本人使用；不限制本人设备数；500M 峰值带宽
-
-* * *
-
 ### [狗狗加速器](https://www.dginv.click/#/register?code=yi5aid0d)
 
-点击注册：[dginv.click](https://www.dginv.click/#/register?code=yi5aid0d)
+点击注册：[点击进入](https://www.dginv.click/#/register?code=yi5aid0d)
 
 
 
@@ -78,7 +66,7 @@
 
 ### [可乐云](https://eded.keley02.top/#/login?code=TRbo3nMf)
 
-点击注册：[eded.keley02.top](https://eded.keley02.top/#/login?code=TRbo3nMf)
+点击注册：[点击进入](https://eded.keley02.top/#/login?code=TRbo3nMf)
 
 
 
@@ -92,7 +80,7 @@
 
 ### [西游云](https://goudan.site/#/register?code=LQzUg4EU)
 
-点击注册：[goudan.site](https://goudan.site/#/register?code=LQzUg4EU)
+点击注册：[点击进入](https://goudan.site/#/register?code=LQzUg4EU)
 
 
 
@@ -104,7 +92,7 @@
 
 ### [flybit](https://goflybit.pages.dev/#/register?code=iV0dLWfT)
 
-点击注册：[goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=iV0dLWfT)
+点击注册：[点击进入](https://goflybit.pages.dev/#/register?code=iV0dLWfT)
 
 
 试用：1天 2G
@@ -117,7 +105,7 @@
 
 ### [加速啦](https://jiasu.la/?r=42350)
 
-点击注册：[jiasu.la](https://jiasu.la/?r=42350)
+点击注册：[点击进入](https://jiasu.la/?r=42350)
 
 
 试用：1G 不限时
@@ -130,7 +118,7 @@
 
 ### [火烧云](https://cn1.huoshaoyun.pro/#/register?code=6Y5z9uJk)
 
-点击注册：[huoshaoyun.pro/](https://cn1.huoshaoyun.pro/#/register?code=6Y5z9uJk)
+点击注册：[点击进入](https://cn1.huoshaoyun.pro/#/register?code=6Y5z9uJk)
 
 
 最便宜的订阅有18元 100G/月。
@@ -141,7 +129,7 @@
 
 ### [快猫](https://kuaimao.io/#/register?code=9xg6G0AV)
 
-点击注册：[kuaimao.io](https://kuaimao.io/#/register?code=9xg6G0AV)
+点击注册：[点击进入](https://kuaimao.io/#/register?code=9xg6G0AV)
 
 
 
@@ -152,7 +140,7 @@
 * * *
 ### [xxai](https://xx-ai.co?invite_code=xijJQ0UG)
 
-点击注册：[xxai.uk](https://xx-ai.co?invite_code=xijJQ0UG)
+点击注册：[点击进入](https://xx-ai.co?invite_code=xijJQ0UG)
 
 
 最便宜的订阅有16.9元 100G/月。
@@ -164,7 +152,7 @@
 
 ### [冲上云霄](https://cpdd.one/?r=32083)
 
-点击注册：[cpdd.one](https://cpdd.one/?r=32083)
+点击注册：[点击进入](https://cpdd.one/?r=32083)
 
 试用：1天 1G
 
@@ -176,7 +164,7 @@
 
 ### [KK加速](https://kkjiasu.top/#/register?code=lhGhQflc)
 
-点击注册：[https://www.efcloud1.com](https://kkjiasu.top/#/register?code=lhGhQflc)
+点击注册：[点击进入](https://kkjiasu.top/#/register?code=lhGhQflc)
 
 
 便宜是真便宜，8 块钱买1个月，每个月 200 G 流量。自己用了一个多月，看视频完全不卡，下载游戏也很快。
