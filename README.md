@@ -28,9 +28,9 @@
 
 
 
-### [冲上云霄](https://cpdd.one/?r=32083)
+### [冲上云霄](https://cpdd.one/?r=42354)
 
-点击注册：[点击进入](https://cpdd.one/?r=32083)
+点击注册：[点击进入](https://cpdd.one/?r=42354)
 
 试用：1天 1G
 
