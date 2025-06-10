@@ -18,15 +18,28 @@
 | [星辰vpn](https://t.xcvpn.us/#/register?code=tLBWwhPs) | [点击进入](https://t.xcvpn.us/#/register?code=tLBWwhPs) |  | 9.9元 140G/月 |  |
 | [狗狗加速器](https://www.dginv.click/#/register?code=yi5aid0d) | [点击进入](https://www.dginv.click/#/register?code=yi5aid0d) |  | 9.9元 140G/月 |  |
 | [flybit](https://goflybit.pages.dev/#/register?code=iV0dLWfT) | [点击进入](https://goflybit.pages.dev/#/register?code=iV0dLWfT) | 1天2G | 10元 100G/月 | ✔支持 |
-| [加速啦](https://jiasu.la/?r=42350) | [点击进入](https://jiasu.la/?r=42350) | 1G 不限时 | 10元 60G/月 | ✔支持 |
 | [快猫](https://kuaimao.io/#/register?code=9xg6G0AV) | [点击进入](https://kuaimao.io/#/register?code=9xg6G0AV) |  | 10元 100G/月 | ✔支持 |
 | [西瓜云](https://goudan.site/#/register?code=LQzUg4EU) | [点击进入](https://goudan.site/#/register?code=LQzUg4EU) |  | 9元 120G/月 |  |
-| [稳连云](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0) | [点击进入](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0) |  | 7元 100G/月 |  |
 | [星链云](https://starlinkcloud.cc/#/register?code=UTNDuia8) | [点击进入](https://starlinkcloud.cc/#/register?code=UTNDuia8) |  | 20元 200G/月 |  |
 | [火烧云](https://huoshaoyun.pro/#/register?code=BP3fNkQd) | [点击进入](https://huoshaoyun.pro/#/register?code=BP3fNkQd) |  | 18元 100G/月 |  |
 | [冰灵加速](https://sulian.info/#/register?code=3R5DYYrL) | [轻云](https://sulian.info/#/register?code=3R5DYYrL)  |  | 8.9元 129G/月 |  |
 
 ## [简介](#简介)
+
+
+
+### [冲上云霄](https://cpdd.one/?r=32083)
+
+点击注册：[点击进入](https://cpdd.one/?r=32083)
+
+试用：1天 1G
+
+最便宜的订阅有5元 150G/30天。
+
+这是目前来看最便宜的机场，用户也比较多，节点质量过关。缺点是购买稍微麻烦一点，需要购买充值码进行充值后才能购买套餐。
+
+* * *
+
 
 
 
@@ -57,19 +70,6 @@
 * * *
 
 
-### [可乐云](https://eded.keley02.top/#/login?code=TRbo3nMf)
-
-点击注册：[点击进入](https://eded.keley02.top/#/login?code=TRbo3nMf)
-
-
-
-最便宜的订阅有25元 120G/月。
-
-全球10个国家；99.99% SLA保证；1Gbps带宽保证；1个设备终端在线；IEPL 国际专线
-
-* * *
-
-
 
 ### [西游云](https://goudan.site/#/register?code=LQzUg4EU)
 
@@ -96,18 +96,6 @@
 
 * * *
 
-### [加速啦](https://jiasu.la/?r=42350)
-
-点击注册：[点击进入](https://jiasu.la/?r=42350)
-
-
-试用：1G 不限时
-
-最便宜的订阅有10元 60G/月。
-
-全自研开发面板，海外团队运营，专线节点1倍率，安全好用省心无日志纪录，节点质量高，客服实时在线，晚高峰不限速，不限制设备。
-
-* * *
 
 ### [火烧云](https://cn1.huoshaoyun.pro/#/register?code=6Y5z9uJk)
 
@@ -131,16 +119,7 @@
 机场比较稳定，解锁Chatgpt，Tiktok及各大流媒体，四年老牌专线，最便宜套餐 98 一年每月 60g，折合每个月 8 元。
 
 * * *
-### [xxai](https://xx-ai.co?invite_code=xijJQ0UG)
 
-点击注册：[点击进入](https://xx-ai.co?invite_code=xijJQ0UG)
-
-
-最便宜的订阅有16.9元 100G/月。
-
-节点质量非常硬。全 IEPL 专线节点、低延迟游戏 & 直播专线、AI 工具 & 流媒体视频解锁。支持按流量购买。
-
-* * *
 
 
 ### [冲上云霄](https://cpdd.one/?r=32083)
