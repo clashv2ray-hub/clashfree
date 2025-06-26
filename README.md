@@ -20,11 +20,11 @@
 | [冲上云霄](https://cpdd.one/?r=42354) | [点击进入](https://cpdd.one/?r=42354) | 1天 1G | 5元 150G/30天 | ✔支持 |
 | [星辰vpn](https://t.xcvpn.us/#/register?code=jWv0CnPO) | [点击进入](https://t.xcvpn.us/#/register?code=jWv0CnPO) |  | 9.9元 140G/月 |  |
 | [狗狗加速器](https://www.dginv.click/#/register?code=yi5aid0d) | [点击进入](https://www.dginv.click/#/register?code=yi5aid0d) |  | 9.9元 140G/月 |  |
-| [flybit](https://goflybit.pages.dev/#/register?code=iV0dLWfT) | [点击进入](https://goflybit.pages.dev/#/register?code=iV0dLWfT) | 1天2G | 10元 100G/月 | ✔支持 |
-| [快猫](https://kuaimao.io/#/register?code=9xg6G0AV) | [点击进入](https://kuaimao.io/#/register?code=9xg6G0AV) |  | 10元 100G/月 | ✔支持 |
-| [西瓜云](https://88cloud.dpdns.org/#/register?code=LSpR3sOK) | [点击进入](https://88cloud.dpdns.org/#/register?code=LSpR3sOK) |  | 9元 120G/月 |  |
+| [flybit](https://flybit.my/#/register?code=iV0dLWfT) | [点击进入](https://flybit.my/#/register?code=iV0dLWfT) | 1天2G | 10元 100G/月 | ✔支持 |
+| [快猫](https://cf2.ikuaimao.world/#/register?code=9xg6G0AV) | [点击进入](https://cf2.ikuaimao.world/#/register?code=9xg6G0AV) |  | 10元 100G/月 | ✔支持 |
+| [西瓜云](https://goudan.site/#/register?code=2mVFWPT1) | [点击进入](https://goudan.site/#/register?code=2mVFWPT1)|  | 9元 120G/月 |  |
 | [星链云](https://starlinkcloud.cc/#/register?code=UTNDuia8) | [点击进入](https://starlinkcloud.cc/#/register?code=UTNDuia8) |  | 20元 200G/月 |  |
-| [火烧云](https://huoshaoyun.pro/#/register?code=BP3fNkQd) | [点击进入](https://huoshaoyun.pro/#/register?code=BP3fNkQd) |  | 18元 100G/月 |  |
+| [火烧云](https://cn1.huoshaoyun.pro/#/register?code=BP3fNkQd) | [点击进入](https://cn1.huoshaoyun.pro/#/register?code=BP3fNkQd) |  | 18元 100G/月 |  |
 | [冰灵加速](https://sulian.info/#/register?code=3R5DYYrL) | [轻云](https://sulian.info/#/register?code=3R5DYYrL)  |  | 8.9元 129G/月 |  |
 
 ## [简介](#简介)
@@ -88,9 +88,9 @@
 
 
 
-### [西游云](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
+### [西游云](https://goudan.site/#/register?code=2mVFWPT1)
 
-点击注册：[点击进入](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
+点击注册：[点击进入](https://goudan.site/#/register?code=2mVFWPT1)
 
 
 
@@ -100,9 +100,9 @@
 
 * * *
 
-### [flybit](https://goflybit.pages.dev/#/register?code=iV0dLWfT)
+### [flybit](https://flybit.my/#/register?code=iV0dLWfT)
 
-点击注册：[点击进入](https://goflybit.pages.dev/#/register?code=iV0dLWfT)
+点击注册：[点击进入](https://flybit.my/#/register?code=iV0dLWfT)
 
 
 试用：1天 2G
@@ -125,9 +125,9 @@
 
 * * *
 
-### [快猫](https://kuaimao.io/#/register?code=9xg6G0AV)
+### [快猫](https://cf2.ikuaimao.world/#/register?code=9xg6G0AV)
 
-点击注册：[点击进入](https://kuaimao.io/#/register?code=9xg6G0AV)
+点击注册：[点击进入](https://cf2.ikuaimao.world/#/register?code=9xg6G0AV)
 
 
 
@@ -155,20 +155,20 @@
 
 
 
-[【火烧云】](https://huoshaoyun.pro/#/register?code=iYoHYy6g)
+[【火烧云】](https://cn1.huoshaoyun.pro/#/register?code=iYoHYy6g)
 不限设备数
 
 解锁流媒体、chatGPT
 
-注册地址：[【火烧云官网（点击注册）】](https://huoshaoyun.pro/#/register?code=iYoHYy6g)
+注册地址：[【火烧云官网（点击注册）】](https://cn1.huoshaoyun.pro/#/register?code=iYoHYy6g)
 ##  高速机场推荐1
 
-[【KK加速】](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
+[【88加速】](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 不限设备数
 
 解锁流媒体、chatGPT
 
-注册地址：[【KK加速官网（点击注册）】](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
+注册地址：[【88加速官网（点击注册）】](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
 
 
@@ -177,13 +177,13 @@
 
 ###  高速机场推荐3 
 
-[【快猫】](https://kuaimao.io/#/register?code=TTaIXhNs)
+[【快猫】](https://cf2.ikuaimao.world/#/register?code=TTaIXhNs)
 
 季付送小火箭，流量多，优惠多
 
 而且不限登录设备数，chatGPT 解锁奈飞、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
 
-注册地址：[【快猫官网（点击注册）】](https://kuaimao.io/#/register?code=TTaIXhNs)
+注册地址：[【快猫官网（点击注册）】](https://cf2.ikuaimao.world/#/register?code=TTaIXhNs)
 
 ###  高速机场推荐4
 
