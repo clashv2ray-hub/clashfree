@@ -22,11 +22,11 @@ jobs:
           current_date=$(date +'%Y-%m-%d')
 
           # 检查 README.md 是否包含创建和修改日期
-          if ! grep -q "更新时间" README.md; then
-            echo "更新时间 $current_date" | cat - README.md > temp && mv temp README.md
+          if ! grep -q "## 更新时间" README.md; then
+            echo "## 更新时间 $current_date" | cat - README.md > temp && mv temp README.md
           else
             # 将日期更新放到文件顶部
-            sed -i "1s/^/更新时间 $current_date\n/" README.md
+            sed -i "1s/^/## 更新时间 $current_date\n/" README.md
           fi
 
 
