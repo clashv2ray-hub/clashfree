@@ -17,7 +17,7 @@
 
 | 机场名称 | 地址 | 试用 | 最便宜订阅 | 按流量购买 |
 | :-- | :-- | :-- | :-- | :-- |
-| [88云加速](https://88cloud.dpdns.org/#/register?code=LSpR3sOK) | [点击进入](https://88cloud.dpdns.org/#/register?code=LSpR3sOK) | 1天2G 	 | 10元 100G/月 |✔支持  |
+| [88云加速](https://88cloud.pages.dev/#/register?code=LSpR3sOK) | [点击进入](https://88cloud.pages.dev/#/register?code=LSpR3sOK) | 1天2G 	 | 10元 100G/月 |✔支持  |
 | [冲上云霄](https://cpdd.one/?r=42354) | [点击进入](https://cpdd.one/?r=42354) | 1天 1G | 5元 150G/30天 | ✔支持 |
 | [星辰vpn](https://t.xcvpn.us/#/register?code=jWv0CnPO) | [点击进入](https://t.xcvpn.us/#/register?code=jWv0CnPO) |  | 9.9元 140G/月 |  |
 | [狗狗加速器](https://www.dginv.click/#/register?code=yi5aid0d) | [点击进入](https://www.dginv.click/#/register?code=yi5aid0d) |  | 9.9元 140G/月 |  |
@@ -31,7 +31,7 @@
 ## [简介](#简介)
 
 
-### [【88云加速】](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
+### [【88云加速】](https://88cloud.pages.dev/#/register?code=LSpR3sOK)
 
 原生支持解锁流媒体，内容包括 Netflix、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
 
@@ -57,7 +57,14 @@
 这是目前来看最便宜的机场，用户也比较多，节点质量过关。缺点是购买稍微麻烦一点，需要购买充值码进行充值后才能购买套餐。
 
 * * *
-
+<h3></h3>
+<h3><span style="color: #ff0000;">🚀 <a style="color: #ff0000;" href="https://xn--yfr044l4qfzsf.com/#/register?code=7Y5uXPTq">飞鸟加速&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 点击注册</a> </span></h3>
+<h3>· 高速·稳定·无限可能</h3>
+<h3>1. 多地专线高速节点，极速跨境体验，告别卡顿与延迟！</h3>
+<h3>2. 一键解锁Netflix、Disney+、TikTok等全球流媒体，尽享自由精彩！</h3>
+<h3>3. GPT专属线路支持，保障ChatGPT等AI服务高可用，稳定流畅！</h3>
+<h3>4. 支持多设备同时使用，无限制，畅连全球！</h3>
+<h3></h3>
 
 
 
