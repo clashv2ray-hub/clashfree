@@ -8,6 +8,7 @@
 
 ### 关注<span style="color: #ff0000;"><a style="color: #ff0000;" href="https://t.me/clashjd">「TG频道</a>」</span>可第一时间获得节点更新消息，还可解锁神秘高速节点！!!!!!!
 
+## <span style="color: #ff0000;">订阅链接网址在最下面
 
 ## 高速机场推荐
 
@@ -206,9 +207,9 @@
 所有免费clash节点都爬取自网络，请勿用于非法用途 。电报地址：<a href="https://t.me/+_gkN4gmsOWFjZmZl" target="_blank">免费clash节点每日更新 – Telegram</a>
 ## clash使用教程：
 
-<a href="https://yfuye.com/" target="_blank">clash科学上网：clash for windows 详细教程</a>
+<a href="[https://yfuye.com/](https://yfuye.com/kehuduanshiyongjiaocheng)" target="_blank">clash科学上网：clash for windows 详细教程</a>
 
 ## clash订阅链接：
 
-<a href="https://yfuye.com/" target="_blank">点击进入订阅</a>
+<a href="[https://yfuye.com/](https://yfuye.com/freenode)" target="_blank">点击进入订阅</a>
 
