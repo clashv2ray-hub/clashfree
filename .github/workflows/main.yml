@@ -29,8 +29,8 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config --global user.name 'github-actions'
-          git config --global user.email 'github-actions@users.noreply.github.com'
+          git config --global user.name 'rhyh'
+          git config --global user.email 'rggryr@ret.rhr'
           git add README.md
           git commit -m "Update date in README.md to $current_date"
           git push
