@@ -206,9 +206,9 @@
 所有免费clash节点都爬取自网络，请勿用于非法用途 。电报地址：<a href="https://t.me/+_gkN4gmsOWFjZmZl" target="_blank">免费clash节点每日更新 – Telegram</a>
 ## clash使用教程：
 
-<a href="[https://yfuye.com/](https://yfuye.com/kehuduanshiyongjiaocheng)" target="_blank">clash科学上网：clash for windows 详细教程</a>
+<a href="https://yfuye.com/kehuduanshiyongjiaocheng" target="_blank">clash科学上网：clash for windows 详细教程</a>
 
 ## clash订阅链接：
 
-<a href="[https://yfuye.com/](https://yfuye.com/freenode)" target="_blank">点击进入订阅</a>
+<a href="https://yfuye.com/freenode" target="_blank">点击进入订阅</a>
 
