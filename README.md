@@ -1,7 +1,8 @@
 ## 更新时间 2025-10-26
 
 # 公益免费 clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  
-
+## 每个小时获取1次最新的节点信息
+## 所有节点信息来自互联网
 ## [TG账号商店 ](https://shop.idbb.me/) ---专住于海外社交账号的零售批发，包括电报Telegram，小火箭独享账号，苹果各国ID推特Twitter、脸书Facebook、谷歌邮箱Gmail、Instagram、海外版抖音TikTok等账号的批发零售!!!!
 
 [点击进入TG账号商店 ](https://shop.idbb.me/)
