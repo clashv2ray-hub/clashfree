@@ -211,4 +211,4 @@
 
 <a href="https://yfuye.com/freenode" target="_blank">点击进入订阅</a>
 
-https://raw.githubusercontent.com/clashv2ray-hub/clashfree/refs/heads/main/clash.yaml
+       https://raw.githubusercontent.com/clashv2ray-hub/clashfree/refs/heads/main/clash.yaml
