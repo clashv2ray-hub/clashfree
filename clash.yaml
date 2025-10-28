@@ -16,19 +16,16 @@ proxies:
   - {name: "[Hysteria2] [Hysteria2] @AblNet7 🇺🇸 机场推荐 #2", server: 108.165.213.197, port: 23891, type: hysteria2, password: c232f411-96b5-4b07-b2f7-66a434725ffb, sni: fus01.mistea.top, skip-cert-verify: true, udp: true, tfo: false}
   - {name: "[Hysteria2] [Hysteria2] @Daily_Configs", server: 129.153.59.26, port: 30300, type: hysteria2, password: 2429bee3-e0c1-47dd-b420-75e6512b184b, sni: www.bing.com, skip-cert-verify: true, udp: true, tfo: false}
   - {name: "[Hysteria2] [Hysteria2] @Daily_Configs #2", server: xg1.mangshe.xyz, port: 2056, type: hysteria2, password: 78c2bad7-f5f3-41f2-88cc-81de9d05040b, sni: xg1.mangshe.xyz, skip-cert-verify: true, udp: true, tfo: false}
+  - {name: "[Hysteria2] [Hysteria2] @Daily_Configs #3", server: yapc-1.adamhayward.co.uk, port: 35000, type: hysteria2, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: true, udp: true, tfo: false}
   - {name: "[Hysteria2] [Hysteria2] @Daily_Configs #5", server: de3.oomz.ru, port: 30000, type: hysteria2, password: faa8b629-13ea-4ccd-94dd-ff1615cb1ba1, sni: bing.com, skip-cert-verify: true, udp: true, tfo: false}
-  - {name: "[Hysteria2] [Hysteria2] @FreakConfig", server: 206.71.158.40, port: 35000, type: hysteria2, password: 680210f5-3b5f-4947-9983-e508a15cf169, obfs: salamander, obfs-password: "@JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: jnir.pichondan.com, skip-cert-verify: true, udp: true, tfo: false}
-  - {name: "[Hysteria2] [Hysteria2] @FreakConfig #1", server: 206.71.158.41, port: 35000, type: hysteria2, password: 680210f5-3b5f-4947-9983-e508a15cf169, obfs: salamander, obfs-password: "@JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: jnir.pichondan.com, skip-cert-verify: true, udp: true, tfo: false}
+  - {name: "[Hysteria2] [Hysteria2] @FreakConfig", server: 206.71.158.41, port: 35000, type: hysteria2, password: 680210f5-3b5f-4947-9983-e508a15cf169, obfs: salamander, obfs-password: "@JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: jnir.pichondan.com, skip-cert-verify: true, udp: true, tfo: false}
+  - {name: "[Hysteria2] [Hysteria2] @FreakConfig #1", server: dir.cybsecguru.com, port: 35000, type: hysteria2, password: 680210f5-3b5f-4947-9983-e508a15cf169, obfs: salamander, obfs-password: "@JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: jnir.pichondan.com, skip-cert-verify: true, udp: true, tfo: false}
   - {name: "[Hysteria2] [Hysteria2] @FreakConfig #2", server: 141.147.52.24, port: 44001, type: hysteria2, password: 907d9a05-3bd2-4b44-b1f9-4f26dba76f88, skip-cert-verify: true, udp: true, tfo: false}
-  - {name: "[Hysteria2] [Hysteria2] @FreakConfig #3", server: dir.cybsecguru.com, port: 35000, type: hysteria2, password: 680210f5-3b5f-4947-9983-e508a15cf169, obfs: salamander, obfs-password: "@JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: jnir.pichondan.com, skip-cert-verify: true, udp: true, tfo: false}
-  - {name: "[Hysteria2] [Hysteria2] @FreakConfig #4", server: 85.208.9.189, port: 44001, type: hysteria2, password: 907d9a05-3bd2-4b44-b1f9-4f26dba76f88, sni: www.bing.com, skip-cert-verify: true, udp: true, tfo: false}
-  - {name: "[Hysteria2] [Hysteria2] @FreakConfig #5", server: 206.71.158.23, port: 45000, type: hysteria2, password: Telegram--%3E%40Ln2Ray, obfs: salamander, obfs-password: Telegram-->@Ln2Ray, sni: gavazn.55994421.xyz, skip-cert-verify: true, udp: true, tfo: false}
-  - {name: "[Hysteria2] [Hysteria2] @FreakConfig #6", server: gavazn.lnmarketplace.net, port: 45000, type: hysteria2, password: Telegram--%3E%40Ln2Ray, obfs: salamander, obfs-password: Telegram-->@Ln2Ray, sni: gavazn.55994421.xyz, skip-cert-verify: true, udp: true, tfo: false}
-  - {name: "[Hysteria2] [Hysteria2] @FreakConfig #7", server: 206.71.158.37, port: 35000, type: hysteria2, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: true, udp: true, tfo: false}
-  - {name: "[Hysteria2] [Hysteria2] @FreakConfig #8", server: yapc-1.adamhayward.co.uk, port: 35000, type: hysteria2, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: true, udp: true, tfo: false}
-  - {name: "[Hysteria2] [Hysteria2] @FreakConfig #9", server: yapc-1.adamhayward.co.uk, port: 36300, type: hysteria2, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: true, udp: true, tfo: false}
+  - {name: "[Hysteria2] [Hysteria2] @FreakConfig #2 2", server: 85.208.9.189, port: 44001, type: hysteria2, password: 907d9a05-3bd2-4b44-b1f9-4f26dba76f88, sni: www.bing.com, skip-cert-verify: true, udp: true, tfo: false}
+  - {name: "[Hysteria2] [Hysteria2] @FreakConfig #3", server: 206.71.158.23, port: 45000, type: hysteria2, password: Telegram--%3E%40Ln2Ray, obfs: salamander, obfs-password: Telegram-->@Ln2Ray, sni: gavazn.55994421.xyz, skip-cert-verify: true, udp: true, tfo: false}
+  - {name: "[Hysteria2] [Hysteria2] @FreakConfig #4", server: gavazn.lnmarketplace.net, port: 45000, type: hysteria2, password: Telegram--%3E%40Ln2Ray, obfs: salamander, obfs-password: Telegram-->@Ln2Ray, sni: gavazn.55994421.xyz, skip-cert-verify: true, udp: true, tfo: false}
+  - {name: "[Hysteria2] [Hysteria2] @FreakConfig #5", server: yapc-1.adamhayward.co.uk, port: 36300, type: hysteria2, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: true, udp: true, tfo: false}
   - {name: "[Hysteria2] [Hysteria2] @FreakConfig 2", server: 77.90.41.197, port: 35000, type: hysteria2, password: 680210f5-3b5f-4947-9983-e508a15cf169, obfs: salamander, obfs-password: "@JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: jnir.pichondan.com, skip-cert-verify: true, udp: true, tfo: false}
-  - {name: "[Hysteria2] [Hysteria2] @FreakConfig 3", server: 143.20.156.166, port: 38326, type: hysteria2, password: C298rctP35EiQTjISVZZ0zU42qOKn7aYjkjiTozTcRg%3D, obfs: salamander, obfs-password: wmufVmhTEkFcZ3qLakL9yQ==, sni: www.microsoft.com, skip-cert-verify: true, udp: true, tfo: false}
   - {name: "[Hysteria2] [Hysteria2] @Mr_Config_Group✌️", server: chervhill.hajalii.com, port: 29662, type: hysteria2, password: 10822856-7452-43ec-b35b-6f24ea33530f, obfs: salamander, obfs-password: xFGh9dsyreJV9sMs1RUnFbwRdon, sni: chervhill.hajalii.com, skip-cert-verify: true, udp: true, tfo: false}
   - {name: "[Hysteria2] [Hysteria2] @meli_proxyy #8", server: 38.45.89.97, port: 23892, type: hysteria2, password: c232f411-96b5-4b07-b2f7-66a434725ffb, sni: fus02.mistea.top, skip-cert-verify: true, udp: true, tfo: false}
   - {name: "[Hysteria2] [Hysteria2] @sunflowerplato🌻 #3", server: qing-kz.mxtn.net, port: 443, type: hysteria2, password: c3054d61-c708-4594-9797-f50acd24de2a, skip-cert-verify: true, udp: true, tfo: false}
@@ -49,10 +46,8 @@ proxies:
   - {name: "[Hysteria2] [Hysteria2] All-@V2rayAlpha--7", server: hsdg.huasuan666.top, port: 22155, type: hysteria2, password: 4ba709e6-6186-412d-a79d-bf256c7df57c, sni: hsdg.huasuan666.top, skip-cert-verify: true, udp: true, tfo: false}
   - {name: "[Hysteria2] [Hysteria2] All-@V2rayAlpha--8 #2", server: de.youyacloud.me, port: 443, type: hysteria2, password: 8da7bd17-70ab-472d-a925-cc827857dc35, obfs: salamander, obfs-password: qBbeISsJ8AK48fZW, sni: de.youyacloud.me, skip-cert-verify: true, udp: true, tfo: false}
   - {name: "[Hysteria2] [Hysteria2] Channel id: @ShadowProxy66🇩🇪", server: banmabanmabanmabanmabanmabanma2.wanlidag.top, port: 54265, type: hysteria2, password: eb86def3-d6ff-4582-9ecd-3cf61812640e, sni: banmabanmabanmabanmabanmabanma2.wanlidag.top, skip-cert-verify: true, udp: true, tfo: false}
-  - {name: "[Hysteria2] [Hysteria2] Channel id: @ShadowProxy66🇭🇰", server: 103.136.150.23, port: 22153, type: hysteria2, password: 571ec94e-613c-430a-93de-397d3d237475, sni: hsxg.huasuan666.top, skip-cert-verify: true, udp: true, tfo: false}
   - {name: "[Hysteria2] [Hysteria2] Channel id: @ShadowProxy66🇯🇵", server: 133.18.163.202, port: 443, type: hysteria2, password: fabd2b79-693a-4a37-827c-6d299e8813b1, sni: www.microsoft.com, skip-cert-verify: true, udp: true, tfo: false}
-  - {name: "[Hysteria2] [Hysteria2] Channel id: @ShadowProxy66🇺🇸", server: lsj3.mangshe.xyz, port: 2056, type: hysteria2, password: 78c2bad7-f5f3-41f2-88cc-81de9d05040b, sni: lsj3.mangshe.xyz, skip-cert-verify: true, udp: true, tfo: false}
-  - {name: "[Hysteria2] [Hysteria2] Channel id: @ShadowProxy66🇺🇸 #2", server: 212.192.15.176, port: 33079, type: hysteria2, password: a060b3f7-551e-4a7f-8138-fef404c5b012, obfs: salamander, obfs-password: NDhhNmY5YTY0MGYzOTgxYQ==, skip-cert-verify: true, udp: true, tfo: false}
+  - {name: "[Hysteria2] [Hysteria2] Channel id: @ShadowProxy66🇺🇸 #1", server: 212.192.15.176, port: 33079, type: hysteria2, password: a060b3f7-551e-4a7f-8138-fef404c5b012, obfs: salamander, obfs-password: NDhhNmY5YTY0MGYzOTgxYQ==, skip-cert-verify: true, udp: true, tfo: false}
   - {name: "[Hysteria2] [Hysteria2] MCI-@V2rayAlpha--2", server: 5.231.70.79, port: 443, type: hysteria2, password: 2b67ONZROv%2BfRVMxB94BSw%3D%3D, sni: bing.com, skip-cert-verify: true, udp: true, tfo: false}
   - {name: "[Hysteria2] [Hysteria2] MCI-@V2rayAlpha--3 #2", server: yapc-1.adamhayward.co.uk, port: 36600, type: hysteria2, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: true, udp: true, tfo: false}
   - {name: "[Hysteria2] [Hysteria2] MCI-@V2rayAlpha--5", server: hshl.huasuan666.top, port: 22157, type: hysteria2, password: 571ec94e-613c-430a-93de-397d3d237475, sni: hshl.huasuan666.top, skip-cert-verify: true, udp: true, tfo: false}
@@ -67,7 +62,9 @@ proxies:
   - {name: "[Hysteria2] [Hysteria2] telegram--MTMVPN 18", server: 195.133.79.116, port: 22157, type: hysteria2, password: 571ec94e-613c-430a-93de-397d3d237475, sni: 🔒, skip-cert-verify: true, udp: true, tfo: false}
   - {name: "[Hysteria2] [Hysteria2] telegram--MTMVPN 2", server: nl1.oomz.ru, port: 30000, type: hysteria2, password: ab858115-e0ab-4cb7-8e65-0804c35e52d5, sni: bing.com, skip-cert-verify: true, udp: true, tfo: false}
   - {name: "[Hysteria2] [Hysteria2] telegram--MTMVPN 22", server: us4.oomz.ru, port: 30000, type: hysteria2, password: ab858115-e0ab-4cb7-8e65-0804c35e52d5, sni: bing.com, skip-cert-verify: true, udp: true, tfo: false}
+  - {name: "[Hysteria2] [Hysteria2] telegram--MTMVPN 5", server: 206.71.158.40, port: 35000, type: hysteria2, password: 680210f5-3b5f-4947-9983-e508a15cf169, obfs: salamander, obfs-password: "@JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: jnir.pichondan.com, skip-cert-verify: true, udp: true, tfo: false}
   - {name: "[Hysteria2] [Hysteria2] telegram--MTMVPN 6", server: nl2.oomz.ru, port: 30000, type: hysteria2, password: ab858115-e0ab-4cb7-8e65-0804c35e52d5, sni: bing.com, skip-cert-verify: true, udp: true, tfo: false}
+  - {name: "[Hysteria2] [Hysteria2] telegram--MTMVPN10", server: 206.71.158.37, port: 35000, type: hysteria2, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: true, udp: true, tfo: false}
   - {name: "[Hysteria2] [Hysteria2] telegram-@ISVvpn", server: fra-nb-02.linlujs.pw, port: 29854, type: hysteria2, password: 6803bc9b-1157-431b-8f73-970a6deb741f, skip-cert-verify: true, udp: true, tfo: false}
   - {name: "[Hysteria2] [Hysteria2] telegram-@ISVvpn #1", server: fra-nb-01.linlujs.pw, port: 24568, type: hysteria2, password: 682c7978-e3eb-44e0-924c-607144495681, skip-cert-verify: true, udp: true, tfo: false}
   - {name: "[Hysteria2] [Hysteria2] telegram-@ISVvpn #2", server: us-nb-01.linlujs.pw, port: 25684, type: hysteria2, password: f872db91-57c2-41c7-aad0-561b4cb674bf, skip-cert-verify: true, udp: true, tfo: false}
@@ -88,10 +85,10 @@ proxies:
   - {name: "[SS] [SS] tg频道:@ripaojiedian 2", server: 3.9.17.198, port: 443, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU, udp: true, tfo: false}
   - {name: "[Trojan] [Trojan] CN_speednode_0001", server: 36.151.251.23, port: 4451, type: trojan, password: BxceQaOe, skip-cert-verify: true, udp: true, tfo: false}
   - {name: "[Trojan] [Trojan] CN_speednode_0002", server: 36.151.251.35, port: 24392, type: trojan, password: BxceQaOe, skip-cert-verify: true, udp: true, tfo: false}
+  - {name: "[VMess] 广东省云浮市 移动", server: v29.heduian.link, port: 30829, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /oooo, headers: {Host: ocbc.com}}, udp: true, tfo: false}
   - {name: "[VMess] 🇨🇦 _CA_加拿大", server: 108.181.10.17, port: 80, type: vmess, uuid: 474e8680-701f-11ee-b436-205c6d5f5d78, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
   - {name: "[SS] 🇨🇭 _CH_瑞士", server: 84.17.53.163, port: 80, type: ss, cipher: aes-256-cfb, password: asdKkaskJKfnsa, udp: true, tfo: false}
   - {name: "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国", server: 107.167.182.230, port: 80, type: vmess, uuid: efcb7d7c-c582-46f5-eeff-0e553342528d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /tg@hkaa0}, udp: true, tfo: false}
-  - {name: "[VMess] 🇨🇳 台湾省 道法法律事务所", server: 103.127.218.91, port: 54693, type: vmess, uuid: 1cef03ad-6343-408c-8121-cbd1fda2ee9d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /1cef03ad}, udp: true, tfo: false}
   - {name: "[VMess] 🇩🇪 _US_美国->🇩🇪_DE_德国", server: flkf2.shabijichang.com, port: 80, type: vmess, uuid: c458695d-6908-45c3-9512-e0c46418454c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: flkf2.shabijichang.com}}, udp: true, tfo: false}
   - {name: "[SS] 🇫🇷 _FR_法国", server: 51.158.54.209, port: 443, type: ss, cipher: aes-256-cfb, password: asdKkaskJKfnsa, udp: true, tfo: false}
   - {name: "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1", server: mrb2.shabijichang.com, port: 80, type: vmess, uuid: c458695d-6908-45c3-9512-e0c46418454c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mrb2.shabijichang.com}}, udp: true, tfo: false}
@@ -104,7 +101,7 @@ proxies:
   - {name: "[VMess] 🇭🇰 [VMess] 🇭🇰 香港3|@ripaojiedian 2", server: 43.247.134.213, port: 59516, type: vmess, uuid: 2906e19e-c99f-456e-bcb3-c5472fd594e5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true, tfo: false}
   - {name: "[VMess] 🇭🇰 [VMess] 🇭🇰 香港7|@ripaojiedian", server: 9438890c-t4whs0-t6blpv-1ldl3.hk.p5pv.com, port: 80, type: vmess, uuid: fd224a6c-addc-11ed-a8bf-f23c91cfbbc9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: broadcastlv.chat.bilibili.com}}, udp: true, tfo: false}
   - {name: "[VMess] 🇭🇰 [VMess] 🇭🇰 香港|@ripaojiedian", server: v9.heduian.link, port: 30809, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /oooo, headers: {Host: baidu.com}}, udp: true, tfo: false}
-  - {name: "[VMess] 🇭🇰 香港 电讯盈科有限公司", server: v10.heduian.link, port: 30807, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /oooo, headers: {Host: baidu.com}}, udp: true, tfo: false}
+  - {name: "[VMess] 🇭🇰 香港 Cloudie数据中心", server: 103.243.26.209, port: 8080, type: vmess, uuid: bc7e6840-ab83-4570-eaae-d9aff1e2da09, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true, tfo: false}
   - {name: "[Trojan] 🇭🇰 香港 电讯盈科有限公司", server: 58.152.46.98, port: 443, type: trojan, password: BxceQaOe, skip-cert-verify: true, udp: true, tfo: false}
   - {name: "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1", server: 104.17.18.26, port: 80, type: vmess, uuid: 5180444a-4756-43b4-960b-49eb9052e4e8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
   - {name: "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2", server: 104.26.8.44, port: 80, type: vmess, uuid: 5180444a-4756-43b4-960b-49eb9052e4e8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
@@ -127,6 +124,7 @@ proxies:
   - {name: "[VMess] 🇺🇸 _US_美国_3", server: 45.199.138.186, port: 30000, type: vmess, uuid: 4ec0ae62-de09-4029-904a-0313d4628ecf, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /path/1696682720138}, udp: true, tfo: false}
   - {name: "[VMess] 🇺🇸 _US_美国_4", server: wnd3.shabijichang.com, port: 80, type: vmess, uuid: c458695d-6908-45c3-9512-e0c46418454c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: wnd3.shabijichang.com}}, udp: true, tfo: false}
   - {name: "[VMess] 🇺🇸 _US_美国_5", server: 104.21.75.246, port: 80, type: vmess, uuid: c458695d-6908-45c3-9512-e0c46418454c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
+  - {name: "[VMess] 🇺🇸 美国 CloudFlare节点", server: 104.18.240.238, port: 80, type: vmess, uuid: d967ffca-de90-4daa-bd00-d527e5bae11f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/?BIA_TELEGRAM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1)", headers: {Host: google.whatsapp.snapp.torob.basalam.leoshopping77.ir.}}, udp: true, tfo: false}
 proxy-groups:
   - name: 🚀 全球互联
     type: select
@@ -148,19 +146,16 @@ proxy-groups:
       - "[Hysteria2] [Hysteria2] @AblNet7 🇺🇸 机场推荐 #2"
       - "[Hysteria2] [Hysteria2] @Daily_Configs"
       - "[Hysteria2] [Hysteria2] @Daily_Configs #2"
+      - "[Hysteria2] [Hysteria2] @Daily_Configs #3"
       - "[Hysteria2] [Hysteria2] @Daily_Configs #5"
       - "[Hysteria2] [Hysteria2] @FreakConfig"
       - "[Hysteria2] [Hysteria2] @FreakConfig #1"
       - "[Hysteria2] [Hysteria2] @FreakConfig #2"
+      - "[Hysteria2] [Hysteria2] @FreakConfig #2 2"
       - "[Hysteria2] [Hysteria2] @FreakConfig #3"
       - "[Hysteria2] [Hysteria2] @FreakConfig #4"
       - "[Hysteria2] [Hysteria2] @FreakConfig #5"
-      - "[Hysteria2] [Hysteria2] @FreakConfig #6"
-      - "[Hysteria2] [Hysteria2] @FreakConfig #7"
-      - "[Hysteria2] [Hysteria2] @FreakConfig #8"
-      - "[Hysteria2] [Hysteria2] @FreakConfig #9"
       - "[Hysteria2] [Hysteria2] @FreakConfig 2"
-      - "[Hysteria2] [Hysteria2] @FreakConfig 3"
       - "[Hysteria2] [Hysteria2] @Mr_Config_Group✌️"
       - "[Hysteria2] [Hysteria2] @meli_proxyy #8"
       - "[Hysteria2] [Hysteria2] @sunflowerplato🌻 #3"
@@ -181,10 +176,8 @@ proxy-groups:
       - "[Hysteria2] [Hysteria2] All-@V2rayAlpha--7"
       - "[Hysteria2] [Hysteria2] All-@V2rayAlpha--8 #2"
       - "[Hysteria2] [Hysteria2] Channel id: @ShadowProxy66🇩🇪"
-      - "[Hysteria2] [Hysteria2] Channel id: @ShadowProxy66🇭🇰"
       - "[Hysteria2] [Hysteria2] Channel id: @ShadowProxy66🇯🇵"
-      - "[Hysteria2] [Hysteria2] Channel id: @ShadowProxy66🇺🇸"
-      - "[Hysteria2] [Hysteria2] Channel id: @ShadowProxy66🇺🇸 #2"
+      - "[Hysteria2] [Hysteria2] Channel id: @ShadowProxy66🇺🇸 #1"
       - "[Hysteria2] [Hysteria2] MCI-@V2rayAlpha--2"
       - "[Hysteria2] [Hysteria2] MCI-@V2rayAlpha--3 #2"
       - "[Hysteria2] [Hysteria2] MCI-@V2rayAlpha--5"
@@ -199,7 +192,9 @@ proxy-groups:
       - "[Hysteria2] [Hysteria2] telegram--MTMVPN 18"
       - "[Hysteria2] [Hysteria2] telegram--MTMVPN 2"
       - "[Hysteria2] [Hysteria2] telegram--MTMVPN 22"
+      - "[Hysteria2] [Hysteria2] telegram--MTMVPN 5"
       - "[Hysteria2] [Hysteria2] telegram--MTMVPN 6"
+      - "[Hysteria2] [Hysteria2] telegram--MTMVPN10"
       - "[Hysteria2] [Hysteria2] telegram-@ISVvpn"
       - "[Hysteria2] [Hysteria2] telegram-@ISVvpn #1"
       - "[Hysteria2] [Hysteria2] telegram-@ISVvpn #2"
@@ -220,10 +215,10 @@ proxy-groups:
       - "[SS] [SS] tg频道:@ripaojiedian 2"
       - "[Trojan] [Trojan] CN_speednode_0001"
       - "[Trojan] [Trojan] CN_speednode_0002"
+      - "[VMess] 广东省云浮市 移动"
       - "[VMess] 🇨🇦 _CA_加拿大"
       - "[SS] 🇨🇭 _CH_瑞士"
       - "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国"
-      - "[VMess] 🇨🇳 台湾省 道法法律事务所"
       - "[VMess] 🇩🇪 _US_美国->🇩🇪_DE_德国"
       - "[SS] 🇫🇷 _FR_法国"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1"
@@ -236,7 +231,7 @@ proxy-groups:
       - "[VMess] 🇭🇰 [VMess] 🇭🇰 香港3|@ripaojiedian 2"
       - "[VMess] 🇭🇰 [VMess] 🇭🇰 香港7|@ripaojiedian"
       - "[VMess] 🇭🇰 [VMess] 🇭🇰 香港|@ripaojiedian"
-      - "[VMess] 🇭🇰 香港 电讯盈科有限公司"
+      - "[VMess] 🇭🇰 香港 Cloudie数据中心"
       - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2"
@@ -259,6 +254,7 @@ proxy-groups:
       - "[VMess] 🇺🇸 _US_美国_3"
       - "[VMess] 🇺🇸 _US_美国_4"
       - "[VMess] 🇺🇸 _US_美国_5"
+      - "[VMess] 🇺🇸 美国 CloudFlare节点"
   - name: 🎥 Netflix
     type: select
     proxies:
@@ -275,19 +271,16 @@ proxy-groups:
       - "[Hysteria2] [Hysteria2] @AblNet7 🇺🇸 机场推荐 #2"
       - "[Hysteria2] [Hysteria2] @Daily_Configs"
       - "[Hysteria2] [Hysteria2] @Daily_Configs #2"
+      - "[Hysteria2] [Hysteria2] @Daily_Configs #3"
       - "[Hysteria2] [Hysteria2] @Daily_Configs #5"
       - "[Hysteria2] [Hysteria2] @FreakConfig"
       - "[Hysteria2] [Hysteria2] @FreakConfig #1"
       - "[Hysteria2] [Hysteria2] @FreakConfig #2"
+      - "[Hysteria2] [Hysteria2] @FreakConfig #2 2"
       - "[Hysteria2] [Hysteria2] @FreakConfig #3"
       - "[Hysteria2] [Hysteria2] @FreakConfig #4"
       - "[Hysteria2] [Hysteria2] @FreakConfig #5"
-      - "[Hysteria2] [Hysteria2] @FreakConfig #6"
-      - "[Hysteria2] [Hysteria2] @FreakConfig #7"
-      - "[Hysteria2] [Hysteria2] @FreakConfig #8"
-      - "[Hysteria2] [Hysteria2] @FreakConfig #9"
       - "[Hysteria2] [Hysteria2] @FreakConfig 2"
-      - "[Hysteria2] [Hysteria2] @FreakConfig 3"
       - "[Hysteria2] [Hysteria2] @Mr_Config_Group✌️"
       - "[Hysteria2] [Hysteria2] @meli_proxyy #8"
       - "[Hysteria2] [Hysteria2] @sunflowerplato🌻 #3"
@@ -308,10 +301,8 @@ proxy-groups:
       - "[Hysteria2] [Hysteria2] All-@V2rayAlpha--7"
       - "[Hysteria2] [Hysteria2] All-@V2rayAlpha--8 #2"
       - "[Hysteria2] [Hysteria2] Channel id: @ShadowProxy66🇩🇪"
-      - "[Hysteria2] [Hysteria2] Channel id: @ShadowProxy66🇭🇰"
       - "[Hysteria2] [Hysteria2] Channel id: @ShadowProxy66🇯🇵"
-      - "[Hysteria2] [Hysteria2] Channel id: @ShadowProxy66🇺🇸"
-      - "[Hysteria2] [Hysteria2] Channel id: @ShadowProxy66🇺🇸 #2"
+      - "[Hysteria2] [Hysteria2] Channel id: @ShadowProxy66🇺🇸 #1"
       - "[Hysteria2] [Hysteria2] MCI-@V2rayAlpha--2"
       - "[Hysteria2] [Hysteria2] MCI-@V2rayAlpha--3 #2"
       - "[Hysteria2] [Hysteria2] MCI-@V2rayAlpha--5"
@@ -326,7 +317,9 @@ proxy-groups:
       - "[Hysteria2] [Hysteria2] telegram--MTMVPN 18"
       - "[Hysteria2] [Hysteria2] telegram--MTMVPN 2"
       - "[Hysteria2] [Hysteria2] telegram--MTMVPN 22"
+      - "[Hysteria2] [Hysteria2] telegram--MTMVPN 5"
       - "[Hysteria2] [Hysteria2] telegram--MTMVPN 6"
+      - "[Hysteria2] [Hysteria2] telegram--MTMVPN10"
       - "[Hysteria2] [Hysteria2] telegram-@ISVvpn"
       - "[Hysteria2] [Hysteria2] telegram-@ISVvpn #1"
       - "[Hysteria2] [Hysteria2] telegram-@ISVvpn #2"
@@ -347,10 +340,10 @@ proxy-groups:
       - "[SS] [SS] tg频道:@ripaojiedian 2"
       - "[Trojan] [Trojan] CN_speednode_0001"
       - "[Trojan] [Trojan] CN_speednode_0002"
+      - "[VMess] 广东省云浮市 移动"
       - "[VMess] 🇨🇦 _CA_加拿大"
       - "[SS] 🇨🇭 _CH_瑞士"
       - "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国"
-      - "[VMess] 🇨🇳 台湾省 道法法律事务所"
       - "[VMess] 🇩🇪 _US_美国->🇩🇪_DE_德国"
       - "[SS] 🇫🇷 _FR_法国"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1"
@@ -363,7 +356,7 @@ proxy-groups:
       - "[VMess] 🇭🇰 [VMess] 🇭🇰 香港3|@ripaojiedian 2"
       - "[VMess] 🇭🇰 [VMess] 🇭🇰 香港7|@ripaojiedian"
       - "[VMess] 🇭🇰 [VMess] 🇭🇰 香港|@ripaojiedian"
-      - "[VMess] 🇭🇰 香港 电讯盈科有限公司"
+      - "[VMess] 🇭🇰 香港 Cloudie数据中心"
       - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2"
@@ -386,6 +379,7 @@ proxy-groups:
       - "[VMess] 🇺🇸 _US_美国_3"
       - "[VMess] 🇺🇸 _US_美国_4"
       - "[VMess] 🇺🇸 _US_美国_5"
+      - "[VMess] 🇺🇸 美国 CloudFlare节点"
   - name: 📹 Youtube
     type: select
     proxies:
@@ -402,19 +396,16 @@ proxy-groups:
       - "[Hysteria2] [Hysteria2] @AblNet7 🇺🇸 机场推荐 #2"
       - "[Hysteria2] [Hysteria2] @Daily_Configs"
       - "[Hysteria2] [Hysteria2] @Daily_Configs #2"
+      - "[Hysteria2] [Hysteria2] @Daily_Configs #3"
       - "[Hysteria2] [Hysteria2] @Daily_Configs #5"
       - "[Hysteria2] [Hysteria2] @FreakConfig"
       - "[Hysteria2] [Hysteria2] @FreakConfig #1"
       - "[Hysteria2] [Hysteria2] @FreakConfig #2"
+      - "[Hysteria2] [Hysteria2] @FreakConfig #2 2"
       - "[Hysteria2] [Hysteria2] @FreakConfig #3"
       - "[Hysteria2] [Hysteria2] @FreakConfig #4"
       - "[Hysteria2] [Hysteria2] @FreakConfig #5"
-      - "[Hysteria2] [Hysteria2] @FreakConfig #6"
-      - "[Hysteria2] [Hysteria2] @FreakConfig #7"
-      - "[Hysteria2] [Hysteria2] @FreakConfig #8"
-      - "[Hysteria2] [Hysteria2] @FreakConfig #9"
       - "[Hysteria2] [Hysteria2] @FreakConfig 2"
-      - "[Hysteria2] [Hysteria2] @FreakConfig 3"
       - "[Hysteria2] [Hysteria2] @Mr_Config_Group✌️"
       - "[Hysteria2] [Hysteria2] @meli_proxyy #8"
       - "[Hysteria2] [Hysteria2] @sunflowerplato🌻 #3"
@@ -435,10 +426,8 @@ proxy-groups:
       - "[Hysteria2] [Hysteria2] All-@V2rayAlpha--7"
       - "[Hysteria2] [Hysteria2] All-@V2rayAlpha--8 #2"
       - "[Hysteria2] [Hysteria2] Channel id: @ShadowProxy66🇩🇪"
-      - "[Hysteria2] [Hysteria2] Channel id: @ShadowProxy66🇭🇰"
       - "[Hysteria2] [Hysteria2] Channel id: @ShadowProxy66🇯🇵"
-      - "[Hysteria2] [Hysteria2] Channel id: @ShadowProxy66🇺🇸"
-      - "[Hysteria2] [Hysteria2] Channel id: @ShadowProxy66🇺🇸 #2"
+      - "[Hysteria2] [Hysteria2] Channel id: @ShadowProxy66🇺🇸 #1"
       - "[Hysteria2] [Hysteria2] MCI-@V2rayAlpha--2"
       - "[Hysteria2] [Hysteria2] MCI-@V2rayAlpha--3 #2"
       - "[Hysteria2] [Hysteria2] MCI-@V2rayAlpha--5"
@@ -453,7 +442,9 @@ proxy-groups:
       - "[Hysteria2] [Hysteria2] telegram--MTMVPN 18"
       - "[Hysteria2] [Hysteria2] telegram--MTMVPN 2"
       - "[Hysteria2] [Hysteria2] telegram--MTMVPN 22"
+      - "[Hysteria2] [Hysteria2] telegram--MTMVPN 5"
       - "[Hysteria2] [Hysteria2] telegram--MTMVPN 6"
+      - "[Hysteria2] [Hysteria2] telegram--MTMVPN10"
       - "[Hysteria2] [Hysteria2] telegram-@ISVvpn"
       - "[Hysteria2] [Hysteria2] telegram-@ISVvpn #1"
       - "[Hysteria2] [Hysteria2] telegram-@ISVvpn #2"
@@ -474,10 +465,10 @@ proxy-groups:
       - "[SS] [SS] tg频道:@ripaojiedian 2"
       - "[Trojan] [Trojan] CN_speednode_0001"
       - "[Trojan] [Trojan] CN_speednode_0002"
+      - "[VMess] 广东省云浮市 移动"
       - "[VMess] 🇨🇦 _CA_加拿大"
       - "[SS] 🇨🇭 _CH_瑞士"
       - "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国"
-      - "[VMess] 🇨🇳 台湾省 道法法律事务所"
       - "[VMess] 🇩🇪 _US_美国->🇩🇪_DE_德国"
       - "[SS] 🇫🇷 _FR_法国"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1"
@@ -490,7 +481,7 @@ proxy-groups:
       - "[VMess] 🇭🇰 [VMess] 🇭🇰 香港3|@ripaojiedian 2"
       - "[VMess] 🇭🇰 [VMess] 🇭🇰 香港7|@ripaojiedian"
       - "[VMess] 🇭🇰 [VMess] 🇭🇰 香港|@ripaojiedian"
-      - "[VMess] 🇭🇰 香港 电讯盈科有限公司"
+      - "[VMess] 🇭🇰 香港 Cloudie数据中心"
       - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2"
@@ -513,6 +504,7 @@ proxy-groups:
       - "[VMess] 🇺🇸 _US_美国_3"
       - "[VMess] 🇺🇸 _US_美国_4"
       - "[VMess] 🇺🇸 _US_美国_5"
+      - "[VMess] 🇺🇸 美国 CloudFlare节点"
   - name: ▶️ Disney+
     type: select
     proxies:
@@ -529,19 +521,16 @@ proxy-groups:
       - "[Hysteria2] [Hysteria2] @AblNet7 🇺🇸 机场推荐 #2"
       - "[Hysteria2] [Hysteria2] @Daily_Configs"
       - "[Hysteria2] [Hysteria2] @Daily_Configs #2"
+      - "[Hysteria2] [Hysteria2] @Daily_Configs #3"
       - "[Hysteria2] [Hysteria2] @Daily_Configs #5"
       - "[Hysteria2] [Hysteria2] @FreakConfig"
       - "[Hysteria2] [Hysteria2] @FreakConfig #1"
       - "[Hysteria2] [Hysteria2] @FreakConfig #2"
+      - "[Hysteria2] [Hysteria2] @FreakConfig #2 2"
       - "[Hysteria2] [Hysteria2] @FreakConfig #3"
       - "[Hysteria2] [Hysteria2] @FreakConfig #4"
       - "[Hysteria2] [Hysteria2] @FreakConfig #5"
-      - "[Hysteria2] [Hysteria2] @FreakConfig #6"
-      - "[Hysteria2] [Hysteria2] @FreakConfig #7"
-      - "[Hysteria2] [Hysteria2] @FreakConfig #8"
-      - "[Hysteria2] [Hysteria2] @FreakConfig #9"
       - "[Hysteria2] [Hysteria2] @FreakConfig 2"
-      - "[Hysteria2] [Hysteria2] @FreakConfig 3"
       - "[Hysteria2] [Hysteria2] @Mr_Config_Group✌️"
       - "[Hysteria2] [Hysteria2] @meli_proxyy #8"
       - "[Hysteria2] [Hysteria2] @sunflowerplato🌻 #3"
@@ -562,10 +551,8 @@ proxy-groups:
       - "[Hysteria2] [Hysteria2] All-@V2rayAlpha--7"
       - "[Hysteria2] [Hysteria2] All-@V2rayAlpha--8 #2"
       - "[Hysteria2] [Hysteria2] Channel id: @ShadowProxy66🇩🇪"
-      - "[Hysteria2] [Hysteria2] Channel id: @ShadowProxy66🇭🇰"
       - "[Hysteria2] [Hysteria2] Channel id: @ShadowProxy66🇯🇵"
-      - "[Hysteria2] [Hysteria2] Channel id: @ShadowProxy66🇺🇸"
-      - "[Hysteria2] [Hysteria2] Channel id: @ShadowProxy66🇺🇸 #2"
+      - "[Hysteria2] [Hysteria2] Channel id: @ShadowProxy66🇺🇸 #1"
       - "[Hysteria2] [Hysteria2] MCI-@V2rayAlpha--2"
       - "[Hysteria2] [Hysteria2] MCI-@V2rayAlpha--3 #2"
       - "[Hysteria2] [Hysteria2] MCI-@V2rayAlpha--5"
@@ -580,7 +567,9 @@ proxy-groups:
       - "[Hysteria2] [Hysteria2] telegram--MTMVPN 18"
       - "[Hysteria2] [Hysteria2] telegram--MTMVPN 2"
       - "[Hysteria2] [Hysteria2] telegram--MTMVPN 22"
+      - "[Hysteria2] [Hysteria2] telegram--MTMVPN 5"
       - "[Hysteria2] [Hysteria2] telegram--MTMVPN 6"
+      - "[Hysteria2] [Hysteria2] telegram--MTMVPN10"
       - "[Hysteria2] [Hysteria2] telegram-@ISVvpn"
       - "[Hysteria2] [Hysteria2] telegram-@ISVvpn #1"
       - "[Hysteria2] [Hysteria2] telegram-@ISVvpn #2"
@@ -601,10 +590,10 @@ proxy-groups:
       - "[SS] [SS] tg频道:@ripaojiedian 2"
       - "[Trojan] [Trojan] CN_speednode_0001"
       - "[Trojan] [Trojan] CN_speednode_0002"
+      - "[VMess] 广东省云浮市 移动"
       - "[VMess] 🇨🇦 _CA_加拿大"
       - "[SS] 🇨🇭 _CH_瑞士"
       - "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国"
-      - "[VMess] 🇨🇳 台湾省 道法法律事务所"
       - "[VMess] 🇩🇪 _US_美国->🇩🇪_DE_德国"
       - "[SS] 🇫🇷 _FR_法国"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1"
@@ -617,7 +606,7 @@ proxy-groups:
       - "[VMess] 🇭🇰 [VMess] 🇭🇰 香港3|@ripaojiedian 2"
       - "[VMess] 🇭🇰 [VMess] 🇭🇰 香港7|@ripaojiedian"
       - "[VMess] 🇭🇰 [VMess] 🇭🇰 香港|@ripaojiedian"
-      - "[VMess] 🇭🇰 香港 电讯盈科有限公司"
+      - "[VMess] 🇭🇰 香港 Cloudie数据中心"
       - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2"
@@ -640,6 +629,7 @@ proxy-groups:
       - "[VMess] 🇺🇸 _US_美国_3"
       - "[VMess] 🇺🇸 _US_美国_4"
       - "[VMess] 🇺🇸 _US_美国_5"
+      - "[VMess] 🇺🇸 美国 CloudFlare节点"
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -657,19 +647,16 @@ proxy-groups:
       - "[Hysteria2] [Hysteria2] @AblNet7 🇺🇸 机场推荐 #2"
       - "[Hysteria2] [Hysteria2] @Daily_Configs"
       - "[Hysteria2] [Hysteria2] @Daily_Configs #2"
+      - "[Hysteria2] [Hysteria2] @Daily_Configs #3"
       - "[Hysteria2] [Hysteria2] @Daily_Configs #5"
       - "[Hysteria2] [Hysteria2] @FreakConfig"
       - "[Hysteria2] [Hysteria2] @FreakConfig #1"
       - "[Hysteria2] [Hysteria2] @FreakConfig #2"
+      - "[Hysteria2] [Hysteria2] @FreakConfig #2 2"
       - "[Hysteria2] [Hysteria2] @FreakConfig #3"
       - "[Hysteria2] [Hysteria2] @FreakConfig #4"
       - "[Hysteria2] [Hysteria2] @FreakConfig #5"
-      - "[Hysteria2] [Hysteria2] @FreakConfig #6"
-      - "[Hysteria2] [Hysteria2] @FreakConfig #7"
-      - "[Hysteria2] [Hysteria2] @FreakConfig #8"
-      - "[Hysteria2] [Hysteria2] @FreakConfig #9"
       - "[Hysteria2] [Hysteria2] @FreakConfig 2"
-      - "[Hysteria2] [Hysteria2] @FreakConfig 3"
       - "[Hysteria2] [Hysteria2] @Mr_Config_Group✌️"
       - "[Hysteria2] [Hysteria2] @meli_proxyy #8"
       - "[Hysteria2] [Hysteria2] @sunflowerplato🌻 #3"
@@ -690,10 +677,8 @@ proxy-groups:
       - "[Hysteria2] [Hysteria2] All-@V2rayAlpha--7"
       - "[Hysteria2] [Hysteria2] All-@V2rayAlpha--8 #2"
       - "[Hysteria2] [Hysteria2] Channel id: @ShadowProxy66🇩🇪"
-      - "[Hysteria2] [Hysteria2] Channel id: @ShadowProxy66🇭🇰"
       - "[Hysteria2] [Hysteria2] Channel id: @ShadowProxy66🇯🇵"
-      - "[Hysteria2] [Hysteria2] Channel id: @ShadowProxy66🇺🇸"
-      - "[Hysteria2] [Hysteria2] Channel id: @ShadowProxy66🇺🇸 #2"
+      - "[Hysteria2] [Hysteria2] Channel id: @ShadowProxy66🇺🇸 #1"
       - "[Hysteria2] [Hysteria2] MCI-@V2rayAlpha--2"
       - "[Hysteria2] [Hysteria2] MCI-@V2rayAlpha--3 #2"
       - "[Hysteria2] [Hysteria2] MCI-@V2rayAlpha--5"
@@ -708,7 +693,9 @@ proxy-groups:
       - "[Hysteria2] [Hysteria2] telegram--MTMVPN 18"
       - "[Hysteria2] [Hysteria2] telegram--MTMVPN 2"
       - "[Hysteria2] [Hysteria2] telegram--MTMVPN 22"
+      - "[Hysteria2] [Hysteria2] telegram--MTMVPN 5"
       - "[Hysteria2] [Hysteria2] telegram--MTMVPN 6"
+      - "[Hysteria2] [Hysteria2] telegram--MTMVPN10"
       - "[Hysteria2] [Hysteria2] telegram-@ISVvpn"
       - "[Hysteria2] [Hysteria2] telegram-@ISVvpn #1"
       - "[Hysteria2] [Hysteria2] telegram-@ISVvpn #2"
@@ -729,10 +716,10 @@ proxy-groups:
       - "[SS] [SS] tg频道:@ripaojiedian 2"
       - "[Trojan] [Trojan] CN_speednode_0001"
       - "[Trojan] [Trojan] CN_speednode_0002"
+      - "[VMess] 广东省云浮市 移动"
       - "[VMess] 🇨🇦 _CA_加拿大"
       - "[SS] 🇨🇭 _CH_瑞士"
       - "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国"
-      - "[VMess] 🇨🇳 台湾省 道法法律事务所"
       - "[VMess] 🇩🇪 _US_美国->🇩🇪_DE_德国"
       - "[SS] 🇫🇷 _FR_法国"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1"
@@ -745,7 +732,7 @@ proxy-groups:
       - "[VMess] 🇭🇰 [VMess] 🇭🇰 香港3|@ripaojiedian 2"
       - "[VMess] 🇭🇰 [VMess] 🇭🇰 香港7|@ripaojiedian"
       - "[VMess] 🇭🇰 [VMess] 🇭🇰 香港|@ripaojiedian"
-      - "[VMess] 🇭🇰 香港 电讯盈科有限公司"
+      - "[VMess] 🇭🇰 香港 Cloudie数据中心"
       - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2"
@@ -768,6 +755,7 @@ proxy-groups:
       - "[VMess] 🇺🇸 _US_美国_3"
       - "[VMess] 🇺🇸 _US_美国_4"
       - "[VMess] 🇺🇸 _US_美国_5"
+      - "[VMess] 🇺🇸 美国 CloudFlare节点"
   - name: 📲 Telegram
     type: select
     proxies:
@@ -782,7 +770,6 @@ proxy-groups:
     proxies:
       - DIRECT
       - "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国"
-      - "[VMess] 🇨🇳 台湾省 道法法律事务所"
       - "[SS] 🇭🇰 [SS] 🇭🇰 香港2|@ripaojiedian"
       - "[SS] 🇭🇰 [SS] 🇭🇰 香港2|@ripaojiedian 2"
       - "[Trojan] 🇭🇰 [Trojan] 🇭🇰 香港5|@ripaojiedian"
@@ -791,7 +778,7 @@ proxy-groups:
       - "[VMess] 🇭🇰 [VMess] 🇭🇰 香港3|@ripaojiedian 2"
       - "[VMess] 🇭🇰 [VMess] 🇭🇰 香港7|@ripaojiedian"
       - "[VMess] 🇭🇰 [VMess] 🇭🇰 香港|@ripaojiedian"
-      - "[VMess] 🇭🇰 香港 电讯盈科有限公司"
+      - "[VMess] 🇭🇰 香港 Cloudie数据中心"
       - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
   - name: Ⓜ️ 微软服务
     type: select
@@ -810,19 +797,16 @@ proxy-groups:
       - "[Hysteria2] [Hysteria2] @AblNet7 🇺🇸 机场推荐 #2"
       - "[Hysteria2] [Hysteria2] @Daily_Configs"
       - "[Hysteria2] [Hysteria2] @Daily_Configs #2"
+      - "[Hysteria2] [Hysteria2] @Daily_Configs #3"
       - "[Hysteria2] [Hysteria2] @Daily_Configs #5"
       - "[Hysteria2] [Hysteria2] @FreakConfig"
       - "[Hysteria2] [Hysteria2] @FreakConfig #1"
       - "[Hysteria2] [Hysteria2] @FreakConfig #2"
+      - "[Hysteria2] [Hysteria2] @FreakConfig #2 2"
       - "[Hysteria2] [Hysteria2] @FreakConfig #3"
       - "[Hysteria2] [Hysteria2] @FreakConfig #4"
       - "[Hysteria2] [Hysteria2] @FreakConfig #5"
-      - "[Hysteria2] [Hysteria2] @FreakConfig #6"
-      - "[Hysteria2] [Hysteria2] @FreakConfig #7"
-      - "[Hysteria2] [Hysteria2] @FreakConfig #8"
-      - "[Hysteria2] [Hysteria2] @FreakConfig #9"
       - "[Hysteria2] [Hysteria2] @FreakConfig 2"
-      - "[Hysteria2] [Hysteria2] @FreakConfig 3"
       - "[Hysteria2] [Hysteria2] @Mr_Config_Group✌️"
       - "[Hysteria2] [Hysteria2] @meli_proxyy #8"
       - "[Hysteria2] [Hysteria2] @sunflowerplato🌻 #3"
@@ -843,10 +827,8 @@ proxy-groups:
       - "[Hysteria2] [Hysteria2] All-@V2rayAlpha--7"
       - "[Hysteria2] [Hysteria2] All-@V2rayAlpha--8 #2"
       - "[Hysteria2] [Hysteria2] Channel id: @ShadowProxy66🇩🇪"
-      - "[Hysteria2] [Hysteria2] Channel id: @ShadowProxy66🇭🇰"
       - "[Hysteria2] [Hysteria2] Channel id: @ShadowProxy66🇯🇵"
-      - "[Hysteria2] [Hysteria2] Channel id: @ShadowProxy66🇺🇸"
-      - "[Hysteria2] [Hysteria2] Channel id: @ShadowProxy66🇺🇸 #2"
+      - "[Hysteria2] [Hysteria2] Channel id: @ShadowProxy66🇺🇸 #1"
       - "[Hysteria2] [Hysteria2] MCI-@V2rayAlpha--2"
       - "[Hysteria2] [Hysteria2] MCI-@V2rayAlpha--3 #2"
       - "[Hysteria2] [Hysteria2] MCI-@V2rayAlpha--5"
@@ -861,7 +843,9 @@ proxy-groups:
       - "[Hysteria2] [Hysteria2] telegram--MTMVPN 18"
       - "[Hysteria2] [Hysteria2] telegram--MTMVPN 2"
       - "[Hysteria2] [Hysteria2] telegram--MTMVPN 22"
+      - "[Hysteria2] [Hysteria2] telegram--MTMVPN 5"
       - "[Hysteria2] [Hysteria2] telegram--MTMVPN 6"
+      - "[Hysteria2] [Hysteria2] telegram--MTMVPN10"
       - "[Hysteria2] [Hysteria2] telegram-@ISVvpn"
       - "[Hysteria2] [Hysteria2] telegram-@ISVvpn #1"
       - "[Hysteria2] [Hysteria2] telegram-@ISVvpn #2"
@@ -882,10 +866,10 @@ proxy-groups:
       - "[SS] [SS] tg频道:@ripaojiedian 2"
       - "[Trojan] [Trojan] CN_speednode_0001"
       - "[Trojan] [Trojan] CN_speednode_0002"
+      - "[VMess] 广东省云浮市 移动"
       - "[VMess] 🇨🇦 _CA_加拿大"
       - "[SS] 🇨🇭 _CH_瑞士"
       - "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国"
-      - "[VMess] 🇨🇳 台湾省 道法法律事务所"
       - "[VMess] 🇩🇪 _US_美国->🇩🇪_DE_德国"
       - "[SS] 🇫🇷 _FR_法国"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1"
@@ -898,7 +882,7 @@ proxy-groups:
       - "[VMess] 🇭🇰 [VMess] 🇭🇰 香港3|@ripaojiedian 2"
       - "[VMess] 🇭🇰 [VMess] 🇭🇰 香港7|@ripaojiedian"
       - "[VMess] 🇭🇰 [VMess] 🇭🇰 香港|@ripaojiedian"
-      - "[VMess] 🇭🇰 香港 电讯盈科有限公司"
+      - "[VMess] 🇭🇰 香港 Cloudie数据中心"
       - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2"
@@ -921,6 +905,7 @@ proxy-groups:
       - "[VMess] 🇺🇸 _US_美国_3"
       - "[VMess] 🇺🇸 _US_美国_4"
       - "[VMess] 🇺🇸 _US_美国_5"
+      - "[VMess] 🇺🇸 美国 CloudFlare节点"
   - name: 🇭🇰 香港
     type: select
     proxies:
@@ -932,7 +917,7 @@ proxy-groups:
       - "[VMess] 🇭🇰 [VMess] 🇭🇰 香港3|@ripaojiedian 2"
       - "[VMess] 🇭🇰 [VMess] 🇭🇰 香港7|@ripaojiedian"
       - "[VMess] 🇭🇰 [VMess] 🇭🇰 香港|@ripaojiedian"
-      - "[VMess] 🇭🇰 香港 电讯盈科有限公司"
+      - "[VMess] 🇭🇰 香港 Cloudie数据中心"
       - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
   - name: 🇯🇵 日本
     type: select
@@ -961,11 +946,11 @@ proxy-groups:
       - "[VMess] 🇺🇸 _US_美国_3"
       - "[VMess] 🇺🇸 _US_美国_4"
       - "[VMess] 🇺🇸 _US_美国_5"
+      - "[VMess] 🇺🇸 美国 CloudFlare节点"
   - name: 🇹🇼 台湾
     type: select
     proxies:
       - "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国"
-      - "[VMess] 🇨🇳 台湾省 道法法律事务所"
   - name: 🇸🇬 新加坡
     type: select
     proxies:
