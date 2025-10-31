@@ -76,13 +76,13 @@ proxies:
   - {name: "[Hysteria2] [Hysteria2] 🇺🇸 usa-telegram-@ISVvpn", server: us-nb-01.linlujs.pw, port: 25684, type: hysteria2, password: 70197404-7b40-45e4-bb9c-8bc8995012ae, skip-cert-verify: true, udp: true, tfo: false}
   - {name: "[SS] [SS] tg频道:@ripaojiedian", server: 3.9.17.198, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true, tfo: false}
   - {name: "[SS] [SS] tg频道:@ripaojiedian 2", server: 3.9.17.198, port: 443, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU, udp: true, tfo: false}
-  - {name: "[Trojan] 广东省阳江市 移动", server: hxfz940e90d9.nfwzdm.com, port: 42765, type: trojan, password: b00abf05-5768-4ac9-8d20-6b1bd605bcf6, sni: v1-dy.ixigua.com, skip-cert-verify: true, udp: true, tfo: false}
+  - {name: "[Trojan] 广东省 移动", server: oss-cn-shanghai.letssepub.com, port: 20021, type: trojan, password: adbac894-90b9-4913-b77e-a715a8d4ebc8, sni: dingding-doc.com, skip-cert-verify: true, udp: true, tfo: false}
   - {name: "[VMess] 🇨🇦 _CA_加拿大", server: 108.181.10.17, port: 80, type: vmess, uuid: 474e8680-701f-11ee-b436-205c6d5f5d78, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
-  - {name: "[VMess] 🇨🇦 加拿大 V2CROSS.COM", server: 165.154.197.225, port: 35218, type: vmess, uuid: 1a237dd2-851c-47e1-cf7e-e447a363830a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true, tfo: false}
   - {name: "[SS] 🇨🇭 _CH_瑞士", server: 84.17.53.163, port: 80, type: ss, cipher: aes-256-cfb, password: asdKkaskJKfnsa, udp: true, tfo: false}
   - {name: "[Trojan] 🇨🇳 [Trojan] 🇨🇳 台湾|@ripaojiedian", server: hxfz940e90d9.nfwzdm.com, port: 42765, type: trojan, password: b00abf05-5768-4ac9-8d20-6b1bd605bcf6, sni: v1-dy.ixigua.com, skip-cert-verify: true, udp: true, tfo: false}
   - {name: "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国", server: 107.167.182.230, port: 80, type: vmess, uuid: efcb7d7c-c582-46f5-eeff-0e553342528d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /tg@hkaa0}, udp: true, tfo: false}
-  - {name: "[Trojan] 🇨🇳 江苏省盐城市 移动", server: 36.156.102.74, port: 43567, type: trojan, password: BxceQaOe, skip-cert-verify: true, udp: true, tfo: false}
+  - {name: "[VMess] 🇨🇳 中国 V2CROSS.COM", server: v9.heduian.link, port: 30809, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /oooo, headers: {Host: baidu.com}}, udp: true, tfo: false}
+  - {name: "[Trojan] 🇨🇳 江苏省 移动", server: 36.150.215.197, port: 9713, type: trojan, password: BxceQaOe, skip-cert-verify: true, udp: true, tfo: false}
   - {name: "[VMess] 🇩🇪 _US_美国->🇩🇪_DE_德国", server: flkf2.shabijichang.com, port: 80, type: vmess, uuid: c458695d-6908-45c3-9512-e0c46418454c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: flkf2.shabijichang.com}}, udp: true, tfo: false}
   - {name: "[SS] 🇫🇷 _FR_法国", server: 51.158.54.209, port: 443, type: ss, cipher: aes-256-cfb, password: asdKkaskJKfnsa, udp: true, tfo: false}
   - {name: "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1", server: mrb2.shabijichang.com, port: 80, type: vmess, uuid: c458695d-6908-45c3-9512-e0c46418454c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mrb2.shabijichang.com}}, udp: true, tfo: false}
@@ -93,38 +93,34 @@ proxies:
   - {name: "[Trojan] 🇭🇰 [Trojan] 🇭🇰 香港4|@ripaojiedian", server: 36.156.102.72, port: 4451, type: trojan, password: BxceQaOe, skip-cert-verify: true, udp: true, tfo: false}
   - {name: "[Trojan] 🇭🇰 [Trojan] 🇭🇰 香港5|@ripaojiedian", server: 58.152.53.3, port: 443, type: trojan, password: BxceQaOe, skip-cert-verify: true, udp: true, tfo: false}
   - {name: "[VMess] 🇭🇰 [VMess] 🇭🇰 香港|@ripaojiedian", server: v9.heduian.link, port: 30809, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /oooo, headers: {Host: baidu.com}}, udp: true, tfo: false}
-  - {name: "[VMess] 🇭🇰 香港 电讯盈科有限公司", server: c251f6b5-sv2sg0-swjbgr-1kcpe.hk.p5pv.com, port: 80, type: vmess, uuid: 3f514ea2-4662-11ed-a8bf-f23c91cfbbc9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: broadcastlv.chat.bilibili.com}}, udp: true, tfo: false}
-  - {name: "[VMess] 🇭🇰 香港 电讯盈科有限公司 2", server: eb362f92-svukg0-t12cnj-1ol97.hk.p5pv.com, port: 80, type: vmess, uuid: 93fb69fc-77cf-11ee-85ee-f23c91369f2d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: eb362f92-svukg0-t12cnj-1ol97.hk.p5pv.com}}, udp: true, tfo: false}
-  - {name: "[VMess] 🇭🇰 香港 电讯盈科有限公司 3", server: fc9a67c5-sv2sg0-svq7uu-1gevg.hk.p5pv.com, port: 80, type: vmess, uuid: f02ee2b4-d760-11ec-bd7c-f23c913c8d2b, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: broadcastlv.chat.bilibili.com}}, udp: true, tfo: false}
-  - {name: "[VMess] 🇭🇰 香港 电讯盈科有限公司 4", server: db7f4c2f-sum4g0-sya6u2-4lg6.hk.p5pv.com, port: 80, type: vmess, uuid: a4c9b7cc-a816-11ed-9f65-f23c9164ca5d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: broadcastlv.chat.bilibili.com}}, udp: true, tfo: false}
-  - {name: "[VMess] 🇭🇰 香港 电讯盈科有限公司 5", server: 58be51e1-sv2sg0-tasors-1tdqt.hk.p5pv.com, port: 80, type: vmess, uuid: 167db97c-ee01-11ef-b737-f23c91cfbbc9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 58be51e1-sv2sg0-tasors-1tdqt.hk.p5pv.com}}, udp: true, tfo: false}
-  - {name: "[VMess] 🇭🇰 香港 电讯盈科有限公司 6", server: 3e236b99-sucv40-sudq0l-1rz5s.hk.p5pv.com, port: 80, type: vmess, uuid: 40e084d6-0316-11f0-90e2-f23c913c8d2b, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: broadcastlv.chat.bilibili.com}}, udp: true, tfo: false}
-  - {name: "[VMess] 🇭🇰 香港 电讯盈科有限公司 7", server: eff0bb96-sv0xs0-t7x08i-1i87l.hk.p5pv.com, port: 80, type: vmess, uuid: 40d572ec-7f67-11ed-bf1f-f23c913c8d2b, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: broadcastlv.chat.bilibili.com}}, udp: true, tfo: false}
-  - {name: "[VMess] 🇭🇰 香港 电讯盈科有限公司 8", server: 84b1f651-svwf40-t94bdb-mrtr.hk.p5pv.com, port: 80, type: vmess, uuid: 28a8a4d0-3e02-11eb-a8bf-f23c91cfbbc9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 84b1f651-svwf40-t94bdb-mrtr.hk.p5pv.com}}, udp: true, tfo: false}
-  - {name: "[VMess] 🇭🇰 香港 电讯盈科有限公司 9", server: 9438890c-t4whs0-t6blpv-1ldl3.hk.p5pv.com, port: 80, type: vmess, uuid: fd224a6c-addc-11ed-a8bf-f23c91cfbbc9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 9438890c-t4whs0-t6blpv-1ldl3.hk.p5pv.com}}, udp: true, tfo: false}
-  - {name: "[VMess] 🇭🇰 香港 电讯盈科有限公司 10", server: 142a53ea-sv6hs0-t4v3jz-1k8ga.hk.p5pv.com, port: 80, type: vmess, uuid: f860f2da-5035-11ed-bb74-f23c9164ca5d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: broadcastlv.chat.bilibili.com}}, udp: true, tfo: false}
-  - {name: "[VMess] 🇭🇰 香港 电讯盈科有限公司 11", server: d806260c-sznls0-tifnix-1ro8s.hk.p5pv.com, port: 80, type: vmess, uuid: a18ef18e-293a-11ef-b76e-f23c91cfbbc9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: broadcastlv.chat.bilibili.com}}, udp: true, tfo: false}
-  - {name: "[VMess] 🇭🇰 香港 电讯盈科有限公司 12", server: 1dc2849f-sv2sg0-tct1rd-1o0ch.hk.p5pv.com, port: 80, type: vmess, uuid: d49e545e-0daf-11ee-a91f-f23c913c8d2b, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: broadcastlv.chat.bilibili.com}}, udp: true, tfo: false}
-  - {name: "[VMess] 🇭🇰 香港 电讯盈科有限公司 13", server: c53bf275-sv2sg0-svv72o-1e0ty.hk.p5pv.com, port: 80, type: vmess, uuid: ccd9704a-f980-11eb-a0fc-f23c913c8d2b, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: broadcastlv.chat.bilibili.com}}, udp: true, tfo: false}
-  - {name: "[VMess] 🇭🇰 香港 电讯盈科有限公司 14", server: cb0c61e4-t0fds0-tfi5fd-1imi4.hk.p5pv.com, port: 80, type: vmess, uuid: 40fb1315-191a-11ed-b0ca-f23c91cfbbc9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: broadcastlv.chat.bilibili.com}}, udp: true, tfo: false}
-  - {name: "[VMess] 🇭🇰 香港 电讯盈科有限公司 15", server: 0469094f-sv6hs0-t5qfe2-1khwf.hk.p5pv.com, port: 80, type: vmess, uuid: 92bd8c68-6434-11ee-b644-f23c91cfbbc9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: broadcastlv.chat.bilibili.com}}, udp: true, tfo: false}
-  - {name: "[VMess] 🇭🇰 香港 电讯盈科有限公司 16", server: 3cb34bed-sucv40-swr62l-lj7z.hk.p5pv.com, port: 80, type: vmess, uuid: 331cae90-f7e9-11ed-b4e2-f23c913c8d2b, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: broadcastlv.chat.bilibili.com}}, udp: true, tfo: false}
-  - {name: "[VMess] 🇭🇰 香港 电讯盈科有限公司 17", server: 7a8c402e-sv6hs0-tct1rd-1o0ch.hk.p5pv.com, port: 80, type: vmess, uuid: d49e545e-0daf-11ee-a91f-f23c913c8d2b, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: broadcastlv.chat.bilibili.com}}, udp: true, tfo: false}
-  - {name: "[VMess] 🇭🇰 香港 电讯盈科有限公司 18", server: 3aeac334-sv2sg0-t2nkut-jx5r.hk.p5pv.com, port: 80, type: vmess, uuid: 73bfcc1c-5814-5f2a-b43a-3ef6af011db8, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: broadcastlv.chat.bilibili.com}}, udp: true, tfo: false}
-  - {name: "[Trojan] 🇭🇰 香港 电讯盈科有限公司", server: 58.152.53.3, port: 443, type: trojan, password: BxceQaOe, skip-cert-verify: true, udp: true, tfo: false}
-  - {name: "[VMess] 🇭🇰 香港 电讯盈科有限公司 19", server: d87374f0-szt5s0-t197dg-yjq0.hk.p5pv.com, port: 80, type: vmess, uuid: 25b2699a-e18e-11ec-8e69-f23c91cfbbc9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: broadcastlv.chat.bilibili.com}}, udp: true, tfo: false}
-  - {name: "[VMess] 🇭🇰 香港 电讯盈科有限公司 20", server: 16033f27-sv2sg0-tcdlur-1qwom.hk.p5pv.com, port: 80, type: vmess, uuid: 8d0ec7cc-eefa-11ee-9b59-f23c91cfbbc9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: broadcastlv.chat.bilibili.com}}, udp: true, tfo: false}
-  - {name: "[VMess] 🇭🇰 香港 电讯盈科有限公司 21", server: b1d0b8c3-swkhs0-syfwbx-1k0yf.hk.p5pv.com, port: 80, type: vmess, uuid: 9cc3c03e-21fd-11ee-a642-f23c91369f2d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: b1d0b8c3-swkhs0-syfwbx-1k0yf.hk.p5pv.com}}, udp: true, tfo: false}
-  - {name: "[VMess] 🇭🇰 香港 电讯盈科有限公司 22", server: 84a663fa-sunz40-swhx5y-1q3dm.hk.p5pv.com, port: 80, type: vmess, uuid: c1785de0-212f-11ef-92aa-f23c9164ca5d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 84a663fa-sunz40-swhx5y-1q3dm.hk.p5pv.com}}, udp: true, tfo: false}
-  - {name: "[VMess] 🇭🇰 香港 电讯盈科有限公司 23", server: cf6a54ef-sv2sg0-swxjgn-1la2q.hk.p5pv.com, port: 80, type: vmess, uuid: 431026c8-7397-11ed-a8bf-f23c91cfbbc9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: broadcastlv.chat.bilibili.com}}, udp: true, tfo: false}
-  - {name: "[VMess] 🇭🇰 香港 电讯盈科有限公司 24", server: 4da7f22d-sv2sg0-tcp4th-1c4g6.hk.p5pv.com, port: 80, type: vmess, uuid: 676c67c6-5e73-11ee-9a79-f23c9164ca5d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: broadcastlv.chat.bilibili.com}}, udp: true, tfo: false}
-  - {name: "[VMess] 🇭🇰 香港 电讯盈科有限公司 25", server: 4cb1faba-sv0xs0-sypj6z-1rk9y.hk.p5pv.com, port: 80, type: vmess, uuid: 88f6e3c4-1d01-11ef-812c-f23c91cfbbc9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: broadcastlv.chat.bilibili.com}}, udp: true, tfo: false}
-  - {name: "[VMess] 🇭🇰 香港 电讯盈科有限公司 26", server: 2579f727-sv2sg0-t7udc0-1pqhp.hk.p5pv.com, port: 80, type: vmess, uuid: b02327ac-a49a-11ef-a673-f23c913c8d2b, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: broadcastlv.chat.bilibili.com}}, udp: true, tfo: false}
-  - {name: "[VMess] 🇭🇰 香港 电讯盈科有限公司 27", server: 4b87f477-t13gg0-t22v5r-1m0fq.hk.p5pv.com, port: 80, type: vmess, uuid: a698c4a6-c3c9-11ee-9693-f23c91cfbbc9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: broadcastlv.chat.bilibili.com}}, udp: true, tfo: false}
-  - {name: "[VMess] 🇭🇰 香港 电讯盈科有限公司 28", server: d271ef67-sv2sg0-t6oj1r-1pv16.hk.p5pv.com, port: 80, type: vmess, uuid: 541259a8-8df6-11ee-ace4-f23c913c8d2b, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: broadcastlv.chat.bilibili.com}}, udp: true, tfo: false}
-  - {name: "[VMess] 🇭🇰 香港 电讯盈科有限公司 29", server: 1e426046-t0fds0-t12cnj-1ol97.hk.p5pv.com, port: 80, type: vmess, uuid: 93fb69fc-77cf-11ee-85ee-f23c91369f2d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: broadcastlv.chat.bilibili.com}}, udp: true, tfo: false}
-  - {name: "[VMess] 🇭🇰 香港 电讯盈科有限公司 30", server: acf5ec1c-sv2sg0-t2y63q-1jk6u.hk.p5pv.com, port: 80, type: vmess, uuid: 45bc25b2-1a10-11ed-91c0-f23c91cfbbc9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: broadcastlv.chat.bilibili.com}}, udp: true, tfo: false}
-  - {name: "[Trojan] 🇭🇰 香港 电讯盈科有限公司 2", server: 58.152.46.98, port: 443, type: trojan, password: BxceQaOe, skip-cert-verify: true, udp: true, tfo: false}
+  - {name: "[VMess] 🇭🇰 香港 电讯盈科有限公司", server: 30451d6f-sv2sg0-t8ivpf-z65w.hk3.p5pv.com, port: 80, type: vmess, uuid: a2313fba-74a6-11ed-a8bf-f23c91cfbbc9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: broadcastlv.chat.bilibili.com}}, udp: true, tfo: false}
+  - {name: "[VMess] 🇭🇰 香港 电讯盈科有限公司 2", server: be4fe2f9-t3gn40-tdnzz0-1qtp7.hk3.p5pv.com, port: 80, type: vmess, uuid: 3653c708-df72-11ee-aec1-f23c9164ca5d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: broadcastlv.chat.bilibili.com}}, udp: true, tfo: false}
+  - {name: "[VMess] 🇭🇰 香港 电讯盈科有限公司 3", server: c92d9037-sunz40-suqjqq-1pr35.hk3.p5pv.com, port: 80, type: vmess, uuid: 6b7c1278-ff9d-11ee-84ca-f23c913c8d2b, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: c92d9037-sunz40-suqjqq-1pr35.hk3.p5pv.com}}, udp: true, tfo: false}
+  - {name: "[VMess] 🇭🇰 香港 电讯盈科有限公司 4", server: a731a8b3-sv2sg0-sy1a0y-1iyov.hk3.p5pv.com, port: 80, type: vmess, uuid: 33629870-e57e-11ec-bb74-f23c9164ca5d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: broadcastlv.chat.bilibili.com}}, udp: true, tfo: false}
+  - {name: "[VMess] 🇭🇰 香港 电讯盈科有限公司 5", server: 6bdf8f31-sv2sg0-tdh9w7-ahsb.hk3.p5pv.com, port: 80, type: vmess, uuid: 2e42c1ee-aaaa-11ec-bb74-f23c9164ca5d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: broadcastlv.chat.bilibili.com}}, udp: true, tfo: false}
+  - {name: "[VMess] 🇭🇰 香港 电讯盈科有限公司 6", server: 266007c7-sv4n40-syu0n5-1hd7v.hk3.p5pv.com, port: 80, type: vmess, uuid: f73c64bc-9e8c-11ec-bd7c-f23c913c8d2b, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: broadcastlv.chat.bilibili.com}}, udp: true, tfo: false}
+  - {name: "[VMess] 🇭🇰 香港 电讯盈科有限公司 7", server: b8ffcda3-sv2sg0-sv37gm-81nv.hk3.p5pv.com, port: 80, type: vmess, uuid: 47e91fb6-25b8-df52-bc18-3cdc8548192f, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: broadcastlv.chat.bilibili.com}}, udp: true, tfo: false}
+  - {name: "[VMess] 🇭🇰 香港 电讯盈科有限公司 8", server: dfed4efb-t4n8g0-t636g9-luwe.hk3.p5pv.com, port: 80, type: vmess, uuid: a2b0fd2b-716f-0df8-d4e2-03a1c00e5f1a, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: broadcastlv.chat.bilibili.com}}, udp: true, tfo: false}
+  - {name: "[VMess] 🇭🇰 香港 电讯盈科有限公司 9", server: 457a1492-sv4n40-t6kzbp-1h5u7.hk3.p5pv.com, port: 80, type: vmess, uuid: e3fdbd22-8c17-11ee-ace4-f23c913c8d2b, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: broadcastlv.chat.bilibili.com}}, udp: true, tfo: false}
+  - {name: "[VMess] 🇭🇰 香港 电讯盈科有限公司 10", server: 00711758-sva740-tbrhck-1thqb.hk3.p5pv.com, port: 80, type: vmess, uuid: 4f4c6876-fcf6-11ef-94aa-f23c913c8d2b, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: broadcastlv.chat.bilibili.com}}, udp: true, tfo: false}
+  - {name: "[VMess] 🇭🇰 香港 电讯盈科有限公司 11", server: bca6ef41-sv4n40-t5wcb1-13x18.hk3.p5pv.com, port: 80, type: vmess, uuid: e4499a62-0cfe-11eb-ad8c-f23c9164ca5d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: broadcastlv.chat.bilibili.com}}, udp: true, tfo: false}
+  - {name: "[VMess] 🇭🇰 香港 电讯盈科有限公司 12", server: 659ce73e-sv2sg0-tcsjnd-1tff5.hk3.p5pv.com, port: 80, type: vmess, uuid: dfb6b402-f422-11ef-80e5-f23c9164ca5d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: broadcastlv.chat.bilibili.com}}, udp: true, tfo: false}
+  - {name: "[VMess] 🇭🇰 香港 电讯盈科有限公司 13", server: a0ae8f27-sv4n40-sw5wi7-ufc0.hk3.p5pv.com, port: 80, type: vmess, uuid: 22308988-8548-11ea-a22e-f23c91cfbbc9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: broadcastlv.chat.bilibili.com}}, udp: true, tfo: false}
+  - {name: "[VMess] 🇭🇰 香港 电讯盈科有限公司 14", server: 5e392f9d-sv0xs0-svewl8-xu74.hk3.p5pv.com, port: 80, type: vmess, uuid: 715a2574-9c25-11eb-8673-f23c9164ca5d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: broadcastlv.chat.bilibili.com}}, udp: true, tfo: false}
+  - {name: "[VMess] 🇭🇰 香港 电讯盈科有限公司 15", server: 51a08fff-sv4n40-sy1a0y-1iyov.hk3.p5pv.com, port: 80, type: vmess, uuid: 33629870-e57e-11ec-bb74-f23c9164ca5d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: broadcastlv.chat.bilibili.com}}, udp: true, tfo: false}
+  - {name: "[VMess] 🇭🇰 香港 电讯盈科有限公司 16", server: 954e8f8f-sv4n40-svs488-n09f.hk3.p5pv.com, port: 80, type: vmess, uuid: 89b0ea8c-806b-11ed-94ba-f23c913c8d2b, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: broadcastlv.chat.bilibili.com}}, udp: true, tfo: false}
+  - {name: "[VMess] 🇭🇰 香港 电讯盈科有限公司 17", server: c7f55f8c-sv2sg0-t15jkc-eyem.hk3.p5pv.com, port: 80, type: vmess, uuid: 64617ed2-4823-11ef-9f2d-f23c9164ca5d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: broadcastlv.chat.bilibili.com}}, udp: true, tfo: false}
+  - {name: "[VMess] 🇭🇰 香港 电讯盈科有限公司 18", server: 2e617951-sv2sg0-taj9mo-1tco3.hk3.p5pv.com, port: 80, type: vmess, uuid: e29de954-ea01-11ef-a271-f23c91cfbbc9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: broadcastlv.chat.bilibili.com}}, udp: true, tfo: false}
+  - {name: "[VMess] 🇭🇰 香港 电讯盈科有限公司 19", server: 865c5c01-sv4n40-t65a3e-tqgz.hk3.p5pv.com, port: 80, type: vmess, uuid: 88da0d21-b25d-11ec-b9f7-f23c91cfbbc9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: broadcastlv.chat.bilibili.com}}, udp: true, tfo: false}
+  - {name: "[VMess] 🇭🇰 香港 电讯盈科有限公司 20", server: 0afadb4a-sv4n40-tc61cs-1tja8.hk3.p5pv.com, port: 80, type: vmess, uuid: d2f0bee2-02f1-11f0-8eb0-f23c9164ca5d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: broadcastlv.chat.bilibili.com}}, udp: true, tfo: false}
+  - {name: "[VMess] 🇭🇰 香港 电讯盈科有限公司 21", server: 4bbf82ea-t0bog0-ta64ri-1qzi1.hk3.p5pv.com, port: 80, type: vmess, uuid: 8f99107c-f091-11ee-9935-f23c9164ca5d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: broadcastlv.chat.bilibili.com}}, udp: true, tfo: false}
+  - {name: "[VMess] 🇭🇰 香港 电讯盈科有限公司 22", server: 5b2c09e0-suvds0-t2oosc-xm0q.hk3.p5pv.com, port: 80, type: vmess, uuid: 3437f34e-1b77-11eb-8684-f23c913c8d2b, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 5b2c09e0-suvds0-t2oosc-xm0q.hk3.p5pv.com}}, udp: true, tfo: false}
+  - {name: "[VMess] 🇭🇰 香港 电讯盈科有限公司 23", server: 7bdf5f2f-sv2sg0-t2p691-1s4hc.hk3.p5pv.com, port: 80, type: vmess, uuid: aafedc64-9c23-11ef-a79f-f23c91cfbbc9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: broadcastlv.chat.bilibili.com}}, udp: true, tfo: false}
+  - {name: "[VMess] 🇭🇰 香港 电讯盈科有限公司 24", server: c9dc37fe-szi1s0-t0y0nd-1mmbp.hk3.p5pv.com, port: 80, type: vmess, uuid: 607d365e-7ea1-11ee-95e9-f23c913c8d2b, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: broadcastlv.chat.bilibili.com}}, udp: true, tfo: false}
+  - {name: "[Trojan] 🇭🇰 香港 电讯盈科有限公司", server: 58.152.46.98, port: 443, type: trojan, password: BxceQaOe, skip-cert-verify: true, udp: true, tfo: false}
+  - {name: "[VMess] 🇭🇰 香港 电讯盈科有限公司 25", server: 34013157-sunz40-taz53d-1j0y6.hk3.p5pv.com, port: 80, type: vmess, uuid: 1cce7df2-251c-11ee-9409-f23c9164ca5d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 34013157-sunz40-taz53d-1j0y6.hk3.p5pv.com}}, udp: true, tfo: false}
+  - {name: "[VMess] 🇭🇰 香港 电讯盈科有限公司 26", server: cb884b8d-suvds0-tb6yrr-1tfcw.hk3.p5pv.com, port: 80, type: vmess, uuid: 1282cc1a-f426-11ef-9495-f23c91cfbbc9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: cb884b8d-suvds0-tb6yrr-1tfcw.hk3.p5pv.com}}, udp: true, tfo: false}
+  - {name: "[VMess] 🇭🇰 香港 电讯盈科有限公司 27", server: 88788ee2-sv4n40-t61ki5-1smhu.hk3.p5pv.com, port: 80, type: vmess, uuid: 62f2374c-891b-11ef-a3f6-f23c9164ca5d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: broadcastlv.chat.bilibili.com}}, udp: true, tfo: false}
   - {name: "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1", server: 104.17.18.26, port: 80, type: vmess, uuid: 5180444a-4756-43b4-960b-49eb9052e4e8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
   - {name: "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2", server: 104.26.8.44, port: 80, type: vmess, uuid: 5180444a-4756-43b4-960b-49eb9052e4e8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
   - {name: "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3", server: mm2.shabijichang.com, port: 80, type: vmess, uuid: c458695d-6908-45c3-9512-e0c46418454c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mm2.shabijichang.com}}, udp: true, tfo: false}
@@ -228,13 +224,13 @@ proxy-groups:
       - "[Hysteria2] [Hysteria2] 🇺🇸 usa-telegram-@ISVvpn"
       - "[SS] [SS] tg频道:@ripaojiedian"
       - "[SS] [SS] tg频道:@ripaojiedian 2"
-      - "[Trojan] 广东省阳江市 移动"
+      - "[Trojan] 广东省 移动"
       - "[VMess] 🇨🇦 _CA_加拿大"
-      - "[VMess] 🇨🇦 加拿大 V2CROSS.COM"
       - "[SS] 🇨🇭 _CH_瑞士"
       - "[Trojan] 🇨🇳 [Trojan] 🇨🇳 台湾|@ripaojiedian"
       - "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国"
-      - "[Trojan] 🇨🇳 江苏省盐城市 移动"
+      - "[VMess] 🇨🇳 中国 V2CROSS.COM"
+      - "[Trojan] 🇨🇳 江苏省 移动"
       - "[VMess] 🇩🇪 _US_美国->🇩🇪_DE_德国"
       - "[SS] 🇫🇷 _FR_法国"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1"
@@ -263,20 +259,16 @@ proxy-groups:
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 16"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 17"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 18"
-      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 19"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 20"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 21"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 22"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 23"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 24"
+      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 25"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 26"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 27"
-      - "[VMess] 🇭🇰 香港 电讯盈科有限公司 28"
-      - "[VMess] 🇭🇰 香港 电讯盈科有限公司 29"
-      - "[VMess] 🇭🇰 香港 电讯盈科有限公司 30"
-      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司 2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3"
@@ -375,13 +367,13 @@ proxy-groups:
       - "[Hysteria2] [Hysteria2] 🇺🇸 usa-telegram-@ISVvpn"
       - "[SS] [SS] tg频道:@ripaojiedian"
       - "[SS] [SS] tg频道:@ripaojiedian 2"
-      - "[Trojan] 广东省阳江市 移动"
+      - "[Trojan] 广东省 移动"
       - "[VMess] 🇨🇦 _CA_加拿大"
-      - "[VMess] 🇨🇦 加拿大 V2CROSS.COM"
       - "[SS] 🇨🇭 _CH_瑞士"
       - "[Trojan] 🇨🇳 [Trojan] 🇨🇳 台湾|@ripaojiedian"
       - "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国"
-      - "[Trojan] 🇨🇳 江苏省盐城市 移动"
+      - "[VMess] 🇨🇳 中国 V2CROSS.COM"
+      - "[Trojan] 🇨🇳 江苏省 移动"
       - "[VMess] 🇩🇪 _US_美国->🇩🇪_DE_德国"
       - "[SS] 🇫🇷 _FR_法国"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1"
@@ -410,20 +402,16 @@ proxy-groups:
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 16"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 17"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 18"
-      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 19"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 20"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 21"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 22"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 23"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 24"
+      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 25"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 26"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 27"
-      - "[VMess] 🇭🇰 香港 电讯盈科有限公司 28"
-      - "[VMess] 🇭🇰 香港 电讯盈科有限公司 29"
-      - "[VMess] 🇭🇰 香港 电讯盈科有限公司 30"
-      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司 2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3"
@@ -522,13 +510,13 @@ proxy-groups:
       - "[Hysteria2] [Hysteria2] 🇺🇸 usa-telegram-@ISVvpn"
       - "[SS] [SS] tg频道:@ripaojiedian"
       - "[SS] [SS] tg频道:@ripaojiedian 2"
-      - "[Trojan] 广东省阳江市 移动"
+      - "[Trojan] 广东省 移动"
       - "[VMess] 🇨🇦 _CA_加拿大"
-      - "[VMess] 🇨🇦 加拿大 V2CROSS.COM"
       - "[SS] 🇨🇭 _CH_瑞士"
       - "[Trojan] 🇨🇳 [Trojan] 🇨🇳 台湾|@ripaojiedian"
       - "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国"
-      - "[Trojan] 🇨🇳 江苏省盐城市 移动"
+      - "[VMess] 🇨🇳 中国 V2CROSS.COM"
+      - "[Trojan] 🇨🇳 江苏省 移动"
       - "[VMess] 🇩🇪 _US_美国->🇩🇪_DE_德国"
       - "[SS] 🇫🇷 _FR_法国"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1"
@@ -557,20 +545,16 @@ proxy-groups:
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 16"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 17"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 18"
-      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 19"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 20"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 21"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 22"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 23"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 24"
+      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 25"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 26"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 27"
-      - "[VMess] 🇭🇰 香港 电讯盈科有限公司 28"
-      - "[VMess] 🇭🇰 香港 电讯盈科有限公司 29"
-      - "[VMess] 🇭🇰 香港 电讯盈科有限公司 30"
-      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司 2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3"
@@ -669,13 +653,13 @@ proxy-groups:
       - "[Hysteria2] [Hysteria2] 🇺🇸 usa-telegram-@ISVvpn"
       - "[SS] [SS] tg频道:@ripaojiedian"
       - "[SS] [SS] tg频道:@ripaojiedian 2"
-      - "[Trojan] 广东省阳江市 移动"
+      - "[Trojan] 广东省 移动"
       - "[VMess] 🇨🇦 _CA_加拿大"
-      - "[VMess] 🇨🇦 加拿大 V2CROSS.COM"
       - "[SS] 🇨🇭 _CH_瑞士"
       - "[Trojan] 🇨🇳 [Trojan] 🇨🇳 台湾|@ripaojiedian"
       - "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国"
-      - "[Trojan] 🇨🇳 江苏省盐城市 移动"
+      - "[VMess] 🇨🇳 中国 V2CROSS.COM"
+      - "[Trojan] 🇨🇳 江苏省 移动"
       - "[VMess] 🇩🇪 _US_美国->🇩🇪_DE_德国"
       - "[SS] 🇫🇷 _FR_法国"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1"
@@ -704,20 +688,16 @@ proxy-groups:
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 16"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 17"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 18"
-      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 19"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 20"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 21"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 22"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 23"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 24"
+      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 25"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 26"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 27"
-      - "[VMess] 🇭🇰 香港 电讯盈科有限公司 28"
-      - "[VMess] 🇭🇰 香港 电讯盈科有限公司 29"
-      - "[VMess] 🇭🇰 香港 电讯盈科有限公司 30"
-      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司 2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3"
@@ -817,13 +797,13 @@ proxy-groups:
       - "[Hysteria2] [Hysteria2] 🇺🇸 usa-telegram-@ISVvpn"
       - "[SS] [SS] tg频道:@ripaojiedian"
       - "[SS] [SS] tg频道:@ripaojiedian 2"
-      - "[Trojan] 广东省阳江市 移动"
+      - "[Trojan] 广东省 移动"
       - "[VMess] 🇨🇦 _CA_加拿大"
-      - "[VMess] 🇨🇦 加拿大 V2CROSS.COM"
       - "[SS] 🇨🇭 _CH_瑞士"
       - "[Trojan] 🇨🇳 [Trojan] 🇨🇳 台湾|@ripaojiedian"
       - "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国"
-      - "[Trojan] 🇨🇳 江苏省盐城市 移动"
+      - "[VMess] 🇨🇳 中国 V2CROSS.COM"
+      - "[Trojan] 🇨🇳 江苏省 移动"
       - "[VMess] 🇩🇪 _US_美国->🇩🇪_DE_德国"
       - "[SS] 🇫🇷 _FR_法国"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1"
@@ -852,20 +832,16 @@ proxy-groups:
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 16"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 17"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 18"
-      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 19"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 20"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 21"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 22"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 23"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 24"
+      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 25"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 26"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 27"
-      - "[VMess] 🇭🇰 香港 电讯盈科有限公司 28"
-      - "[VMess] 🇭🇰 香港 电讯盈科有限公司 29"
-      - "[VMess] 🇭🇰 香港 电讯盈科有限公司 30"
-      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司 2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3"
@@ -927,20 +903,16 @@ proxy-groups:
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 16"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 17"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 18"
-      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 19"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 20"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 21"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 22"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 23"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 24"
+      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 25"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 26"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 27"
-      - "[VMess] 🇭🇰 香港 电讯盈科有限公司 28"
-      - "[VMess] 🇭🇰 香港 电讯盈科有限公司 29"
-      - "[VMess] 🇭🇰 香港 电讯盈科有限公司 30"
-      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司 2"
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -1018,13 +990,13 @@ proxy-groups:
       - "[Hysteria2] [Hysteria2] 🇺🇸 usa-telegram-@ISVvpn"
       - "[SS] [SS] tg频道:@ripaojiedian"
       - "[SS] [SS] tg频道:@ripaojiedian 2"
-      - "[Trojan] 广东省阳江市 移动"
+      - "[Trojan] 广东省 移动"
       - "[VMess] 🇨🇦 _CA_加拿大"
-      - "[VMess] 🇨🇦 加拿大 V2CROSS.COM"
       - "[SS] 🇨🇭 _CH_瑞士"
       - "[Trojan] 🇨🇳 [Trojan] 🇨🇳 台湾|@ripaojiedian"
       - "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国"
-      - "[Trojan] 🇨🇳 江苏省盐城市 移动"
+      - "[VMess] 🇨🇳 中国 V2CROSS.COM"
+      - "[Trojan] 🇨🇳 江苏省 移动"
       - "[VMess] 🇩🇪 _US_美国->🇩🇪_DE_德国"
       - "[SS] 🇫🇷 _FR_法国"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1"
@@ -1053,20 +1025,16 @@ proxy-groups:
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 16"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 17"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 18"
-      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 19"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 20"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 21"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 22"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 23"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 24"
+      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 25"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 26"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 27"
-      - "[VMess] 🇭🇰 香港 电讯盈科有限公司 28"
-      - "[VMess] 🇭🇰 香港 电讯盈科有限公司 29"
-      - "[VMess] 🇭🇰 香港 电讯盈科有限公司 30"
-      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司 2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3"
@@ -1116,20 +1084,16 @@ proxy-groups:
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 16"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 17"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 18"
-      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 19"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 20"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 21"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 22"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 23"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 24"
+      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 25"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 26"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司 27"
-      - "[VMess] 🇭🇰 香港 电讯盈科有限公司 28"
-      - "[VMess] 🇭🇰 香港 电讯盈科有限公司 29"
-      - "[VMess] 🇭🇰 香港 电讯盈科有限公司 30"
-      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司 2"
   - name: 🇯🇵 日本
     type: select
     proxies:
