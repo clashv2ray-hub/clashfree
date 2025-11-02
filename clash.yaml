@@ -92,8 +92,6 @@ proxies:
   - {name: "[VMess] 🇨🇦 加拿大 V2CROSS.COM", server: 165.154.197.225, port: 35218, type: vmess, uuid: 1a237dd2-851c-47e1-cf7e-e447a363830a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true, tfo: false}
   - {name: "[SS] 🇨🇭 _CH_瑞士", server: 84.17.53.163, port: 80, type: ss, cipher: aes-256-cfb, password: asdKkaskJKfnsa, udp: true, tfo: false}
   - {name: "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国", server: 107.167.182.230, port: 80, type: vmess, uuid: efcb7d7c-c582-46f5-eeff-0e553342528d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /tg@hkaa0}, udp: true, tfo: false}
-  - {name: "[VMess] 🇨🇳 北京市 移动", server: 36.133.73.36, port: 11819, type: vmess, uuid: de32752c-0661-467e-82d3-35bc740a787f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true, tfo: false}
-  - {name: "[Trojan] 🇨🇳 江苏省 移动", server: 36.150.215.197, port: 51825, type: trojan, password: BxceQaOe, skip-cert-verify: true, udp: true, tfo: false}
   - {name: "[VMess] 🇩🇪 _US_美国->🇩🇪_DE_德国", server: flkf2.shabijichang.com, port: 80, type: vmess, uuid: c458695d-6908-45c3-9512-e0c46418454c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: flkf2.shabijichang.com}}, udp: true, tfo: false}
   - {name: "[SS] 🇫🇷 _FR_法国", server: 51.158.54.209, port: 443, type: ss, cipher: aes-256-cfb, password: asdKkaskJKfnsa, udp: true, tfo: false}
   - {name: "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1", server: mrb2.shabijichang.com, port: 80, type: vmess, uuid: c458695d-6908-45c3-9512-e0c46418454c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mrb2.shabijichang.com}}, udp: true, tfo: false}
@@ -106,13 +104,15 @@ proxies:
   - {name: "[VMess] 🇭🇰 [VMess] 🇭🇰 香港6|@ripaojiedian", server: 36.133.73.36, port: 11819, type: vmess, uuid: de32752c-0661-467e-82d3-35bc740a787f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true, tfo: false}
   - {name: "[VMess] 🇭🇰 [VMess] 🇭🇰 香港6|@ripaojiedian 2", server: 36.133.73.36, port: 11819, type: vmess, uuid: de32752c-0661-467e-82d3-35bc740a787f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true, tfo: false}
   - {name: "[VMess] 🇭🇰 [VMess] 🇭🇰 香港|@ripaojiedian", server: v9.heduian.link, port: 30809, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /oooo, headers: {Host: baidu.com}}, udp: true, tfo: false}
-  - {name: "[Trojan] 🇭🇰 香港 电讯盈科有限公司", server: 203.198.122.129, port: 443, type: trojan, password: BxceQaOe, skip-cert-verify: true, udp: true, tfo: false}
-  - {name: "[Trojan] 🇭🇰 香港 电讯盈科有限公司 2", server: 58.152.46.98, port: 443, type: trojan, password: BxceQaOe, skip-cert-verify: true, udp: true, tfo: false}
+  - {name: "[VMess] 🇭🇰 香港 Cloudie数据中心", server: 103.243.26.209, port: 8080, type: vmess, uuid: bc7e6840-ab83-4570-eaae-d9aff1e2da09, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true, tfo: false}
+  - {name: "[Trojan] 🇭🇰 香港 电讯盈科有限公司", server: 58.152.46.98, port: 443, type: trojan, password: BxceQaOe, skip-cert-verify: true, udp: true, tfo: false}
+  - {name: "[Trojan] 🇭🇰 香港 电讯盈科有限公司 2", server: 58.152.53.3, port: 443, type: trojan, password: BxceQaOe, skip-cert-verify: true, udp: true, tfo: false}
+  - {name: "[VMess] 🇭🇰 香港 电讯盈科有限公司", server: v10.heduian.link, port: 30807, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /oooo, headers: {Host: baidu.com}}, udp: true, tfo: false}
+  - {name: "[Trojan] 🇭🇰 香港 电讯盈科有限公司 3", server: 58.152.53.42, port: 443, type: trojan, password: bca467b8c15211d189008a93c7519d3b, sni: www.nintendogames.net, skip-cert-verify: true, udp: true, tfo: false}
   - {name: "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1", server: 104.17.18.26, port: 80, type: vmess, uuid: 5180444a-4756-43b4-960b-49eb9052e4e8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
   - {name: "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2", server: 104.26.8.44, port: 80, type: vmess, uuid: 5180444a-4756-43b4-960b-49eb9052e4e8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
   - {name: "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3", server: mm2.shabijichang.com, port: 80, type: vmess, uuid: c458695d-6908-45c3-9512-e0c46418454c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mm2.shabijichang.com}}, udp: true, tfo: false}
   - {name: "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_4", server: mm3.shabijichang.com, port: 80, type: vmess, uuid: c458695d-6908-45c3-9512-e0c46418454c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mm3.shabijichang.com}}, udp: true, tfo: false}
-  - {name: "[SS] 🇮🇷 伊朗 V2CROSS.COM", server: 151.242.251.137, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: o5osZg269v5zHpYjr1xY9s, udp: true, tfo: false}
   - {name: "[SS] 🇯🇵 [SS] 🇯🇵 日本4|@ripaojiedian", server: 54.64.148.82, port: 2377, type: ss, cipher: chacha20-ietf-poly1305, password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv, udp: true, tfo: false}
   - {name: "[SS] 🇯🇵 [SS] 🇯🇵 日本4|@ripaojiedian 2", server: 54.64.148.82, port: 2377, type: ss, cipher: chacha20-ietf-poly1305, password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv, plugin: obfs, plugin-opts: {mode: tls, host: (TG @ripaojiedian)e9e4816:99990}, udp: true, tfo: false}
   - {name: "[Trojan] 🇯🇵 [Trojan] 🇯🇵 日本2|@ripaojiedian", server: 117.172.176.24, port: 1332, type: trojan, password: bca467b8c15211d189008a93c7519d3b, sni: www.nintendogames.net, skip-cert-verify: true, udp: true, tfo: false}
@@ -229,8 +229,6 @@ proxy-groups:
       - "[VMess] 🇨🇦 加拿大 V2CROSS.COM"
       - "[SS] 🇨🇭 _CH_瑞士"
       - "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国"
-      - "[VMess] 🇨🇳 北京市 移动"
-      - "[Trojan] 🇨🇳 江苏省 移动"
       - "[VMess] 🇩🇪 _US_美国->🇩🇪_DE_德国"
       - "[SS] 🇫🇷 _FR_法国"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1"
@@ -243,13 +241,15 @@ proxy-groups:
       - "[VMess] 🇭🇰 [VMess] 🇭🇰 香港6|@ripaojiedian"
       - "[VMess] 🇭🇰 [VMess] 🇭🇰 香港6|@ripaojiedian 2"
       - "[VMess] 🇭🇰 [VMess] 🇭🇰 香港|@ripaojiedian"
+      - "[VMess] 🇭🇰 香港 Cloudie数据中心"
       - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
       - "[Trojan] 🇭🇰 香港 电讯盈科有限公司 2"
+      - "[VMess] 🇭🇰 香港 电讯盈科有限公司"
+      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司 3"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_4"
-      - "[SS] 🇮🇷 伊朗 V2CROSS.COM"
       - "[SS] 🇯🇵 [SS] 🇯🇵 日本4|@ripaojiedian"
       - "[SS] 🇯🇵 [SS] 🇯🇵 日本4|@ripaojiedian 2"
       - "[Trojan] 🇯🇵 [Trojan] 🇯🇵 日本2|@ripaojiedian"
@@ -361,8 +361,6 @@ proxy-groups:
       - "[VMess] 🇨🇦 加拿大 V2CROSS.COM"
       - "[SS] 🇨🇭 _CH_瑞士"
       - "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国"
-      - "[VMess] 🇨🇳 北京市 移动"
-      - "[Trojan] 🇨🇳 江苏省 移动"
       - "[VMess] 🇩🇪 _US_美国->🇩🇪_DE_德国"
       - "[SS] 🇫🇷 _FR_法国"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1"
@@ -375,13 +373,15 @@ proxy-groups:
       - "[VMess] 🇭🇰 [VMess] 🇭🇰 香港6|@ripaojiedian"
       - "[VMess] 🇭🇰 [VMess] 🇭🇰 香港6|@ripaojiedian 2"
       - "[VMess] 🇭🇰 [VMess] 🇭🇰 香港|@ripaojiedian"
+      - "[VMess] 🇭🇰 香港 Cloudie数据中心"
       - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
       - "[Trojan] 🇭🇰 香港 电讯盈科有限公司 2"
+      - "[VMess] 🇭🇰 香港 电讯盈科有限公司"
+      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司 3"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_4"
-      - "[SS] 🇮🇷 伊朗 V2CROSS.COM"
       - "[SS] 🇯🇵 [SS] 🇯🇵 日本4|@ripaojiedian"
       - "[SS] 🇯🇵 [SS] 🇯🇵 日本4|@ripaojiedian 2"
       - "[Trojan] 🇯🇵 [Trojan] 🇯🇵 日本2|@ripaojiedian"
@@ -493,8 +493,6 @@ proxy-groups:
       - "[VMess] 🇨🇦 加拿大 V2CROSS.COM"
       - "[SS] 🇨🇭 _CH_瑞士"
       - "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国"
-      - "[VMess] 🇨🇳 北京市 移动"
-      - "[Trojan] 🇨🇳 江苏省 移动"
       - "[VMess] 🇩🇪 _US_美国->🇩🇪_DE_德国"
       - "[SS] 🇫🇷 _FR_法国"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1"
@@ -507,13 +505,15 @@ proxy-groups:
       - "[VMess] 🇭🇰 [VMess] 🇭🇰 香港6|@ripaojiedian"
       - "[VMess] 🇭🇰 [VMess] 🇭🇰 香港6|@ripaojiedian 2"
       - "[VMess] 🇭🇰 [VMess] 🇭🇰 香港|@ripaojiedian"
+      - "[VMess] 🇭🇰 香港 Cloudie数据中心"
       - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
       - "[Trojan] 🇭🇰 香港 电讯盈科有限公司 2"
+      - "[VMess] 🇭🇰 香港 电讯盈科有限公司"
+      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司 3"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_4"
-      - "[SS] 🇮🇷 伊朗 V2CROSS.COM"
       - "[SS] 🇯🇵 [SS] 🇯🇵 日本4|@ripaojiedian"
       - "[SS] 🇯🇵 [SS] 🇯🇵 日本4|@ripaojiedian 2"
       - "[Trojan] 🇯🇵 [Trojan] 🇯🇵 日本2|@ripaojiedian"
@@ -625,8 +625,6 @@ proxy-groups:
       - "[VMess] 🇨🇦 加拿大 V2CROSS.COM"
       - "[SS] 🇨🇭 _CH_瑞士"
       - "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国"
-      - "[VMess] 🇨🇳 北京市 移动"
-      - "[Trojan] 🇨🇳 江苏省 移动"
       - "[VMess] 🇩🇪 _US_美国->🇩🇪_DE_德国"
       - "[SS] 🇫🇷 _FR_法国"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1"
@@ -639,13 +637,15 @@ proxy-groups:
       - "[VMess] 🇭🇰 [VMess] 🇭🇰 香港6|@ripaojiedian"
       - "[VMess] 🇭🇰 [VMess] 🇭🇰 香港6|@ripaojiedian 2"
       - "[VMess] 🇭🇰 [VMess] 🇭🇰 香港|@ripaojiedian"
+      - "[VMess] 🇭🇰 香港 Cloudie数据中心"
       - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
       - "[Trojan] 🇭🇰 香港 电讯盈科有限公司 2"
+      - "[VMess] 🇭🇰 香港 电讯盈科有限公司"
+      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司 3"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_4"
-      - "[SS] 🇮🇷 伊朗 V2CROSS.COM"
       - "[SS] 🇯🇵 [SS] 🇯🇵 日本4|@ripaojiedian"
       - "[SS] 🇯🇵 [SS] 🇯🇵 日本4|@ripaojiedian 2"
       - "[Trojan] 🇯🇵 [Trojan] 🇯🇵 日本2|@ripaojiedian"
@@ -758,8 +758,6 @@ proxy-groups:
       - "[VMess] 🇨🇦 加拿大 V2CROSS.COM"
       - "[SS] 🇨🇭 _CH_瑞士"
       - "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国"
-      - "[VMess] 🇨🇳 北京市 移动"
-      - "[Trojan] 🇨🇳 江苏省 移动"
       - "[VMess] 🇩🇪 _US_美国->🇩🇪_DE_德国"
       - "[SS] 🇫🇷 _FR_法国"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1"
@@ -772,13 +770,15 @@ proxy-groups:
       - "[VMess] 🇭🇰 [VMess] 🇭🇰 香港6|@ripaojiedian"
       - "[VMess] 🇭🇰 [VMess] 🇭🇰 香港6|@ripaojiedian 2"
       - "[VMess] 🇭🇰 [VMess] 🇭🇰 香港|@ripaojiedian"
+      - "[VMess] 🇭🇰 香港 Cloudie数据中心"
       - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
       - "[Trojan] 🇭🇰 香港 电讯盈科有限公司 2"
+      - "[VMess] 🇭🇰 香港 电讯盈科有限公司"
+      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司 3"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_4"
-      - "[SS] 🇮🇷 伊朗 V2CROSS.COM"
       - "[SS] 🇯🇵 [SS] 🇯🇵 日本4|@ripaojiedian"
       - "[SS] 🇯🇵 [SS] 🇯🇵 日本4|@ripaojiedian 2"
       - "[Trojan] 🇯🇵 [Trojan] 🇯🇵 日本2|@ripaojiedian"
@@ -820,8 +820,11 @@ proxy-groups:
       - "[VMess] 🇭🇰 [VMess] 🇭🇰 香港6|@ripaojiedian"
       - "[VMess] 🇭🇰 [VMess] 🇭🇰 香港6|@ripaojiedian 2"
       - "[VMess] 🇭🇰 [VMess] 🇭🇰 香港|@ripaojiedian"
+      - "[VMess] 🇭🇰 香港 Cloudie数据中心"
       - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
       - "[Trojan] 🇭🇰 香港 电讯盈科有限公司 2"
+      - "[VMess] 🇭🇰 香港 电讯盈科有限公司"
+      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司 3"
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -915,8 +918,6 @@ proxy-groups:
       - "[VMess] 🇨🇦 加拿大 V2CROSS.COM"
       - "[SS] 🇨🇭 _CH_瑞士"
       - "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国"
-      - "[VMess] 🇨🇳 北京市 移动"
-      - "[Trojan] 🇨🇳 江苏省 移动"
       - "[VMess] 🇩🇪 _US_美国->🇩🇪_DE_德国"
       - "[SS] 🇫🇷 _FR_法国"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1"
@@ -929,13 +930,15 @@ proxy-groups:
       - "[VMess] 🇭🇰 [VMess] 🇭🇰 香港6|@ripaojiedian"
       - "[VMess] 🇭🇰 [VMess] 🇭🇰 香港6|@ripaojiedian 2"
       - "[VMess] 🇭🇰 [VMess] 🇭🇰 香港|@ripaojiedian"
+      - "[VMess] 🇭🇰 香港 Cloudie数据中心"
       - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
       - "[Trojan] 🇭🇰 香港 电讯盈科有限公司 2"
+      - "[VMess] 🇭🇰 香港 电讯盈科有限公司"
+      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司 3"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_4"
-      - "[SS] 🇮🇷 伊朗 V2CROSS.COM"
       - "[SS] 🇯🇵 [SS] 🇯🇵 日本4|@ripaojiedian"
       - "[SS] 🇯🇵 [SS] 🇯🇵 日本4|@ripaojiedian 2"
       - "[Trojan] 🇯🇵 [Trojan] 🇯🇵 日本2|@ripaojiedian"
@@ -966,8 +969,11 @@ proxy-groups:
       - "[VMess] 🇭🇰 [VMess] 🇭🇰 香港6|@ripaojiedian"
       - "[VMess] 🇭🇰 [VMess] 🇭🇰 香港6|@ripaojiedian 2"
       - "[VMess] 🇭🇰 [VMess] 🇭🇰 香港|@ripaojiedian"
+      - "[VMess] 🇭🇰 香港 Cloudie数据中心"
       - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
       - "[Trojan] 🇭🇰 香港 电讯盈科有限公司 2"
+      - "[VMess] 🇭🇰 香港 电讯盈科有限公司"
+      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司 3"
   - name: 🇯🇵 日本
     type: select
     proxies:
