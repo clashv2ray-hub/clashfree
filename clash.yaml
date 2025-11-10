@@ -9,7 +9,7 @@ hosts:
   .google.cn: 142.250.196.131
 proxies:
   - {name: "[Hysteria2] [Hysteria2] - SE - @freeOnlineVPN #2", server: 70.34.215.221, port: 20335, type: hysteria2, password: 80747420-96c4-4a2f-83e6-eea4e46beb09, obfs: salamander, obfs-password: U1wBrYQyFm, sni: drhystuichdfy.samanidempire.org, skip-cert-verify: true, udp: true, tfo: false}
-  - {name: "[Hysteria2] [Hysteria2] - SE - @freeOnlineVPN #3", server: drhystuichdfy.samanidempire.org, port: 20335, type: hysteria2, password: 80747420-96c4-4a2f-83e6-eea4e46beb09, obfs: salamander, obfs-password: U1wBrYQyFm, sni: drhystuichdfy.samanidempire.org, skip-cert-verify: true, udp: true, tfo: false}
+  - {name: "[Hysteria2] [Hysteria2] - SE - @freeOnlineVPN #4", server: drhystuichdfy.samanidempire.org, port: 20335, type: hysteria2, password: 80747420-96c4-4a2f-83e6-eea4e46beb09, obfs: salamander, obfs-password: U1wBrYQyFm, sni: drhystuichdfy.samanidempire.org, skip-cert-verify: true, udp: true, tfo: false}
   - {name: "[Hysteria2] [Hysteria2] @Daily_Configs", server: 191.96.11.107, port: 48361, type: hysteria2, password: JOh7tQHdp8, skip-cert-verify: true, udp: true, tfo: false}
   - {name: "[Hysteria2] [Hysteria2] @Daily_Configs #1", server: yapc-1.adamhayward.co.uk, port: 36600, type: hysteria2, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: true, udp: true, tfo: false}
   - {name: "[Hysteria2] [Hysteria2] @FreakConfig", server: 206.71.158.23, port: 45000, type: hysteria2, password: Telegram--%3E%40Ln2Ray, obfs: salamander, obfs-password: Telegram-->@Ln2Ray, sni: gavazn.55994421.xyz, skip-cert-verify: true, udp: true, tfo: false}
@@ -91,48 +91,43 @@ proxies:
   - {name: "[SS] 🇨🇭 _CH_瑞士", server: 84.17.53.163, port: 80, type: ss, cipher: aes-256-cfb, password: asdKkaskJKfnsa, udp: true, tfo: false}
   - {name: "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国", server: 107.167.182.230, port: 80, type: vmess, uuid: efcb7d7c-c582-46f5-eeff-0e553342528d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /tg@hkaa0}, udp: true, tfo: false}
   - {name: "[Trojan] 🇨🇳 广东省广州市 电信", server: oss-cn-shanghai.letssepub.com, port: 20021, type: trojan, password: adbac894-90b9-4913-b77e-a715a8d4ebc8, sni: dingding-doc.com, skip-cert-verify: true, udp: true, tfo: false}
-  - {name: "[Trojan] 🇨🇳 江苏省 移动", server: 36.150.215.248, port: 8041, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: true, udp: true, tfo: false}
+  - {name: "[Trojan] 🇨🇳 江苏省 移动", server: 36.150.215.247, port: 1251, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: true, udp: true, tfo: false}
   - {name: "[VMess] 🇩🇪 _US_美国->🇩🇪_DE_德国", server: flkf2.shabijichang.com, port: 80, type: vmess, uuid: c458695d-6908-45c3-9512-e0c46418454c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: flkf2.shabijichang.com}}, udp: true, tfo: false}
   - {name: "[SS] 🇫🇷 _FR_法国", server: 51.158.54.209, port: 443, type: ss, cipher: aes-256-cfb, password: asdKkaskJKfnsa, udp: true, tfo: false}
   - {name: "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1", server: mrb2.shabijichang.com, port: 80, type: vmess, uuid: c458695d-6908-45c3-9512-e0c46418454c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mrb2.shabijichang.com}}, udp: true, tfo: false}
   - {name: "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_2", server: ld2.shabijichang.com, port: 80, type: vmess, uuid: c458695d-6908-45c3-9512-e0c46418454c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ld2.shabijichang.com}}, udp: true, tfo: false}
   - {name: "[SS] 🇭🇰 [SS] 🇭🇰 香港2|@ripaojiedian", server: 103.103.245.158, port: 443, type: ss, cipher: aes-256-gcm, password: ccf426f1fe78, udp: true, tfo: false}
   - {name: "[SS] 🇭🇰 [SS] 🇭🇰 香港2|@ripaojiedian 2", server: 103.103.245.158, port: 443, type: ss, cipher: aes-256-gcm, password: ccf426f1fe78, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: newroot2v1.dsjsapp.com, path: /zksuapgx, tls: true, mux: true, skip-cert-verify: true}, udp: true, tfo: false}
-  - {name: "[Trojan] 🇭🇰 [Trojan] 🇭🇰 香港3|@ripaojiedian", server: 221.128.195.12, port: 3841, type: trojan, password: 1b57001bd214304027025a740b6cf1ac, sni: www.nintendogames.net, skip-cert-verify: true, udp: true, tfo: false}
+  - {name: "[Trojan] 🇭🇰 [Trojan] 🇭🇰 香港3|@ripaojiedian", server: 58.152.110.25, port: 443, type: trojan, password: 1b57001bd214304027025a740b6cf1ac, sni: www.nintendogames.net, skip-cert-verify: true, udp: true, tfo: false}
   - {name: "[Trojan] 🇭🇰 [Trojan] 🇭🇰 香港4|@ripaojiedian", server: 36.150.215.247, port: 1251, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: true, udp: true, tfo: false}
   - {name: "[Trojan] 🇭🇰 [Trojan] 🇭🇰 香港5|@ripaojiedian", server: 58.152.53.186, port: 443, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: true, udp: true, tfo: false}
-  - {name: "[VMess] 🇭🇰 [VMess] 🇭🇰 香港6|@ripaojiedian", server: 8.148.194.27, port: 11210, type: vmess, uuid: c74f0304-5b43-3772-852a-2b108c423d23, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true, tfo: false}
-  - {name: "[VMess] 🇭🇰 [VMess] 🇭🇰 香港6|@ripaojiedian 2", server: 8.148.194.27, port: 11210, type: vmess, uuid: c74f0304-5b43-3772-852a-2b108c423d23, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true, tfo: false}
+  - {name: "[VMess] 🇭🇰 [VMess] 🇭🇰 香港6|@ripaojiedian", server: 175.29.22.101, port: 28034, type: vmess, uuid: d2540325-9ad6-33d7-be86-259b5bba4ef8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true, tfo: false}
+  - {name: "[VMess] 🇭🇰 [VMess] 🇭🇰 香港6|@ripaojiedian 2", server: 175.29.22.101, port: 28034, type: vmess, uuid: d2540325-9ad6-33d7-be86-259b5bba4ef8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true, tfo: false}
   - {name: "[VMess] 🇭🇰 [VMess] 🇭🇰 香港|@ripaojiedian", server: v9.heduian.link, port: 30809, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /oooo, headers: {Host: baidu.com}}, udp: true, tfo: false}
   - {name: "[VMess] 🇭🇰 香港 特别行政区", server: 175.29.22.101, port: 28034, type: vmess, uuid: d2540325-9ad6-33d7-be86-259b5bba4ef8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true, tfo: false}
-  - {name: "[Trojan] 🇭🇰 香港 电讯盈科有限公司", server: 58.152.30.26, port: 443, type: trojan, password: BxceQaOe, sni: t.me%25252Fripaojiedian, skip-cert-verify: true, udp: true, tfo: false}
+  - {name: "[VMess] 🇭🇰 香港 特别行政区 2", server: 175.29.22.101, port: 28034, type: vmess, uuid: d2540325-9ad6-33d7-be86-259b5bba4ef8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true, tfo: false}
   - {name: "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1", server: 104.17.18.26, port: 80, type: vmess, uuid: 5180444a-4756-43b4-960b-49eb9052e4e8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
   - {name: "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2", server: 104.26.8.44, port: 80, type: vmess, uuid: 5180444a-4756-43b4-960b-49eb9052e4e8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
   - {name: "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3", server: mm2.shabijichang.com, port: 80, type: vmess, uuid: c458695d-6908-45c3-9512-e0c46418454c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mm2.shabijichang.com}}, udp: true, tfo: false}
   - {name: "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_4", server: mm3.shabijichang.com, port: 80, type: vmess, uuid: c458695d-6908-45c3-9512-e0c46418454c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mm3.shabijichang.com}}, udp: true, tfo: false}
-  - {name: "[SS] 🇯🇵 [SS] 🇯🇵 日本4|@ripaojiedian", server: 183.2.133.119, port: 10007, type: ss, cipher: chacha20-ietf-poly1305, password: 89d52514-f5a4-45c6-96ea-49e113e60129, udp: true, tfo: false}
-  - {name: "[SS] 🇯🇵 [SS] 🇯🇵 日本4|@ripaojiedian 2", server: 183.2.133.119, port: 10007, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4OWQ1MjUxNC1mNWE0LTQ1YzYtOTZlYS00OWUxMTNlNjAxMjk, udp: true, tfo: false}
   - {name: "[Trojan] 🇯🇵 [Trojan] 🇯🇵 日本2|@ripaojiedian", server: 117.172.176.22, port: 1334, type: trojan, password: 1b57001bd214304027025a740b6cf1ac, sni: www.nintendogames.net, skip-cert-verify: true, udp: true, tfo: false}
   - {name: "[Trojan] 🇯🇵 [Trojan] 🇯🇵 日本3|@ripaojiedian", server: 117.172.176.22, port: 4095, type: trojan, password: 1b57001bd214304027025a740b6cf1ac, sni: www.nintendogames.net, skip-cert-verify: true, udp: true, tfo: false}
-  - {name: "[Trojan] 🇯🇵 [Trojan] 🇯🇵 日本|@ripaojiedian", server: 36.150.215.248, port: 4011, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: true, udp: true, tfo: false}
-  - {name: "[VMess] 🇰🇷 [VMess] 🇰🇷 韩国|@ripaojiedian", server: 8.148.248.105, port: 11215, type: vmess, uuid: c74f0304-5b43-3772-852a-2b108c423d23, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true, tfo: false}
-  - {name: "[VMess] 🇰🇷 [VMess] 🇰🇷 韩国|@ripaojiedian 2", server: 8.148.248.105, port: 11215, type: vmess, uuid: c74f0304-5b43-3772-852a-2b108c423d23, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true, tfo: false}
+  - {name: "[Trojan] 🇯🇵 [Trojan] 🇯🇵 日本|@ripaojiedian", server: 36.150.215.248, port: 881, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: true, udp: true, tfo: false}
   - {name: "[VMess] 🇳🇱 _US_美国->🇳🇱_NL_荷兰", server: 45.199.138.191, port: 30000, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /path/1696251522438}, udp: true, tfo: false}
+  - {name: "[VMess] 🇷🇺 俄罗斯 V2CROSS.COM", server: nl-v2ray.freevmess.com, port: 2083, type: vmess, uuid: c3d066bc-4170-4006-a95c-0012367e8f13, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true, tfo: false}
   - {name: "[VMess] 🇸🇦 _US_美国->🇸🇦_SA_沙特阿拉伯", server: jd3.shabijichang.com, port: 80, type: vmess, uuid: c458695d-6908-45c3-9512-e0c46418454c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jd3.shabijichang.com}}, udp: true, tfo: false}
+  - {name: "[VMess] 🇸🇪 瑞典 V2CROSS.COM", server: 185.146.173.82, port: 80, type: vmess, uuid: d967ffca-de90-4daa-bd00-d527e5bae11f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/?BIA_TELEGRAM(@AZARBAYJAB1)TM(@AZARBAYJAB1)TM(@AZARBAYJAB1)TM(@AZARBAYJAB1)TM(@AZARBAYJAB1)TM(@AZARBAYJAB1)", headers: {Host: google.whatsapp.snapp.torob.basalam.leoshopping77.ir.}}, udp: true, tfo: false}
+  - {name: "[VMess] 🇸🇪 瑞典 V2CROSS.COM 2", server: 185.146.173.117, port: 80, type: vmess, uuid: d967ffca-de90-4daa-bd00-d527e5bae11f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/?BIA_TELEGRAM(@AZARBAYJAB1)TM(@AZARBAYJAB1)TM(@AZARBAYJAB1)TM(@AZARBAYJAB1)TM(@AZARBAYJAB1)TM(@AZARBAYJAB1)", headers: {Host: google.whatsapp.snapp.torob.basalam.leoshopping77.ir.}}, udp: true, tfo: false}
   - {name: "[Trojan] 🇸🇬 [Trojan] 🇸🇬 新加坡2|@ripaojiedian", server: 117.172.176.22, port: 2173, type: trojan, password: 1b57001bd214304027025a740b6cf1ac, sni: www.nintendogames.net, skip-cert-verify: true, udp: true, tfo: false}
   - {name: "[Trojan] 🇸🇬 [Trojan] 🇸🇬 新加坡3|@ripaojiedian", server: 36.150.215.248, port: 8041, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: true, udp: true, tfo: false}
   - {name: "[Trojan] 🇸🇬 [Trojan] 🇸🇬 新加坡|@ripaojiedian", server: 117.172.176.22, port: 2283, type: trojan, password: 1b57001bd214304027025a740b6cf1ac, sni: www.nintendogames.net, skip-cert-verify: true, udp: true, tfo: false}
   - {name: "[Trojan] 🇺🇸 [Trojan] 🇺🇸 美国2|@ripaojiedian", server: 117.172.176.22, port: 4173, type: trojan, password: e4e262d453466988575c397a30562337, sni: www.nintendogames.net, skip-cert-verify: true, udp: true, tfo: false}
-  - {name: "[Trojan] 🇺🇸 [Trojan] 🇺🇸 美国|@ripaojiedian", server: 153.121.44.99, port: 1328, type: trojan, password: 1b57001bd214304027025a740b6cf1ac, sni: www.nintendogames.net, skip-cert-verify: true, udp: true, tfo: false}
+  - {name: "[Trojan] 🇺🇸 [Trojan] 🇺🇸 美国|@ripaojiedian", server: 153.121.44.99, port: 5097, type: trojan, password: 1b57001bd214304027025a740b6cf1ac, sni: www.nintendogames.net, skip-cert-verify: true, udp: true, tfo: false}
   - {name: "[VMess] 🇺🇸 _US_美国_1", server: 206.168.190.219, port: 2082, type: vmess, uuid: e31ca750-71f7-11ee-b920-1239d0255272, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /vmws}, udp: true, tfo: false}
   - {name: "[VMess] 🇺🇸 _US_美国_2", server: wnd2.shabijichang.com, port: 80, type: vmess, uuid: c458695d-6908-45c3-9512-e0c46418454c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: wnd2.shabijichang.com}}, udp: true, tfo: false}
   - {name: "[VMess] 🇺🇸 _US_美国_3", server: 45.199.138.186, port: 30000, type: vmess, uuid: 4ec0ae62-de09-4029-904a-0313d4628ecf, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /path/1696682720138}, udp: true, tfo: false}
   - {name: "[VMess] 🇺🇸 _US_美国_4", server: wnd3.shabijichang.com, port: 80, type: vmess, uuid: c458695d-6908-45c3-9512-e0c46418454c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: wnd3.shabijichang.com}}, udp: true, tfo: false}
   - {name: "[VMess] 🇺🇸 _US_美国_5", server: 104.21.75.246, port: 80, type: vmess, uuid: c458695d-6908-45c3-9512-e0c46418454c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
-  - {name: "[VMess] 🇺🇸 美国 CloudFlare节点", server: 141.101.121.120, port: 80, type: vmess, uuid: d967ffca-de90-4daa-bd00-d527e5bae11f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/?BIA_TELEGRAM(@AZARBAYJAB1)TM(@AZARBAYJAB1)TM(@AZARBAYJAB1)TM(@AZARBAYJAB1)TM(@AZARBAYJAB1)TM(@AZARBAYJAB1)", headers: {Host: google.whatsapp.snapp.torob.basalam.leoshopping77.ir.}}, udp: true, tfo: false}
-  - {name: "[VMess] 🇺🇸 美国 CloudFlare节点 2", server: 141.101.121.250, port: 80, type: vmess, uuid: d967ffca-de90-4daa-bd00-d527e5bae11f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/?BIA_TELEGRAM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1)", headers: {Host: google.whatsapp.snapp.torob.basalam.leoshopping77.ir.}}, udp: true, tfo: false}
-  - {name: "[SS] 🇻🇳 [SS] 🇻🇳 越南|@ripaojiedian", server: 103.186.155.215, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "[SS] 🇻🇳 [SS] 🇻🇳 越南|@ripaojiedian 2", server: 103.186.155.215, port: 38388, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW, udp: true, tfo: false}
 proxy-groups:
   - name: 🚀 全球互联
     type: select
@@ -147,7 +142,7 @@ proxy-groups:
       - 🇹🇼 台湾
       - 🇸🇬 新加坡
       - "[Hysteria2] [Hysteria2] - SE - @freeOnlineVPN #2"
-      - "[Hysteria2] [Hysteria2] - SE - @freeOnlineVPN #3"
+      - "[Hysteria2] [Hysteria2] - SE - @freeOnlineVPN #4"
       - "[Hysteria2] [Hysteria2] @Daily_Configs"
       - "[Hysteria2] [Hysteria2] @Daily_Configs #1"
       - "[Hysteria2] [Hysteria2] @FreakConfig"
@@ -243,20 +238,19 @@ proxy-groups:
       - "[VMess] 🇭🇰 [VMess] 🇭🇰 香港6|@ripaojiedian 2"
       - "[VMess] 🇭🇰 [VMess] 🇭🇰 香港|@ripaojiedian"
       - "[VMess] 🇭🇰 香港 特别行政区"
-      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
+      - "[VMess] 🇭🇰 香港 特别行政区 2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_4"
-      - "[SS] 🇯🇵 [SS] 🇯🇵 日本4|@ripaojiedian"
-      - "[SS] 🇯🇵 [SS] 🇯🇵 日本4|@ripaojiedian 2"
       - "[Trojan] 🇯🇵 [Trojan] 🇯🇵 日本2|@ripaojiedian"
       - "[Trojan] 🇯🇵 [Trojan] 🇯🇵 日本3|@ripaojiedian"
       - "[Trojan] 🇯🇵 [Trojan] 🇯🇵 日本|@ripaojiedian"
-      - "[VMess] 🇰🇷 [VMess] 🇰🇷 韩国|@ripaojiedian"
-      - "[VMess] 🇰🇷 [VMess] 🇰🇷 韩国|@ripaojiedian 2"
       - "[VMess] 🇳🇱 _US_美国->🇳🇱_NL_荷兰"
+      - "[VMess] 🇷🇺 俄罗斯 V2CROSS.COM"
       - "[VMess] 🇸🇦 _US_美国->🇸🇦_SA_沙特阿拉伯"
+      - "[VMess] 🇸🇪 瑞典 V2CROSS.COM"
+      - "[VMess] 🇸🇪 瑞典 V2CROSS.COM 2"
       - "[Trojan] 🇸🇬 [Trojan] 🇸🇬 新加坡2|@ripaojiedian"
       - "[Trojan] 🇸🇬 [Trojan] 🇸🇬 新加坡3|@ripaojiedian"
       - "[Trojan] 🇸🇬 [Trojan] 🇸🇬 新加坡|@ripaojiedian"
@@ -267,10 +261,6 @@ proxy-groups:
       - "[VMess] 🇺🇸 _US_美国_3"
       - "[VMess] 🇺🇸 _US_美国_4"
       - "[VMess] 🇺🇸 _US_美国_5"
-      - "[VMess] 🇺🇸 美国 CloudFlare节点"
-      - "[VMess] 🇺🇸 美国 CloudFlare节点 2"
-      - "[SS] 🇻🇳 [SS] 🇻🇳 越南|@ripaojiedian"
-      - "[SS] 🇻🇳 [SS] 🇻🇳 越南|@ripaojiedian 2"
   - name: 🎥 Netflix
     type: select
     proxies:
@@ -280,7 +270,7 @@ proxy-groups:
       - 🇹🇼 台湾
       - 🇸🇬 新加坡
       - "[Hysteria2] [Hysteria2] - SE - @freeOnlineVPN #2"
-      - "[Hysteria2] [Hysteria2] - SE - @freeOnlineVPN #3"
+      - "[Hysteria2] [Hysteria2] - SE - @freeOnlineVPN #4"
       - "[Hysteria2] [Hysteria2] @Daily_Configs"
       - "[Hysteria2] [Hysteria2] @Daily_Configs #1"
       - "[Hysteria2] [Hysteria2] @FreakConfig"
@@ -376,20 +366,19 @@ proxy-groups:
       - "[VMess] 🇭🇰 [VMess] 🇭🇰 香港6|@ripaojiedian 2"
       - "[VMess] 🇭🇰 [VMess] 🇭🇰 香港|@ripaojiedian"
       - "[VMess] 🇭🇰 香港 特别行政区"
-      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
+      - "[VMess] 🇭🇰 香港 特别行政区 2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_4"
-      - "[SS] 🇯🇵 [SS] 🇯🇵 日本4|@ripaojiedian"
-      - "[SS] 🇯🇵 [SS] 🇯🇵 日本4|@ripaojiedian 2"
       - "[Trojan] 🇯🇵 [Trojan] 🇯🇵 日本2|@ripaojiedian"
       - "[Trojan] 🇯🇵 [Trojan] 🇯🇵 日本3|@ripaojiedian"
       - "[Trojan] 🇯🇵 [Trojan] 🇯🇵 日本|@ripaojiedian"
-      - "[VMess] 🇰🇷 [VMess] 🇰🇷 韩国|@ripaojiedian"
-      - "[VMess] 🇰🇷 [VMess] 🇰🇷 韩国|@ripaojiedian 2"
       - "[VMess] 🇳🇱 _US_美国->🇳🇱_NL_荷兰"
+      - "[VMess] 🇷🇺 俄罗斯 V2CROSS.COM"
       - "[VMess] 🇸🇦 _US_美国->🇸🇦_SA_沙特阿拉伯"
+      - "[VMess] 🇸🇪 瑞典 V2CROSS.COM"
+      - "[VMess] 🇸🇪 瑞典 V2CROSS.COM 2"
       - "[Trojan] 🇸🇬 [Trojan] 🇸🇬 新加坡2|@ripaojiedian"
       - "[Trojan] 🇸🇬 [Trojan] 🇸🇬 新加坡3|@ripaojiedian"
       - "[Trojan] 🇸🇬 [Trojan] 🇸🇬 新加坡|@ripaojiedian"
@@ -400,10 +389,6 @@ proxy-groups:
       - "[VMess] 🇺🇸 _US_美国_3"
       - "[VMess] 🇺🇸 _US_美国_4"
       - "[VMess] 🇺🇸 _US_美国_5"
-      - "[VMess] 🇺🇸 美国 CloudFlare节点"
-      - "[VMess] 🇺🇸 美国 CloudFlare节点 2"
-      - "[SS] 🇻🇳 [SS] 🇻🇳 越南|@ripaojiedian"
-      - "[SS] 🇻🇳 [SS] 🇻🇳 越南|@ripaojiedian 2"
   - name: 📹 Youtube
     type: select
     proxies:
@@ -413,7 +398,7 @@ proxy-groups:
       - 🇹🇼 台湾
       - 🇸🇬 新加坡
       - "[Hysteria2] [Hysteria2] - SE - @freeOnlineVPN #2"
-      - "[Hysteria2] [Hysteria2] - SE - @freeOnlineVPN #3"
+      - "[Hysteria2] [Hysteria2] - SE - @freeOnlineVPN #4"
       - "[Hysteria2] [Hysteria2] @Daily_Configs"
       - "[Hysteria2] [Hysteria2] @Daily_Configs #1"
       - "[Hysteria2] [Hysteria2] @FreakConfig"
@@ -509,20 +494,19 @@ proxy-groups:
       - "[VMess] 🇭🇰 [VMess] 🇭🇰 香港6|@ripaojiedian 2"
       - "[VMess] 🇭🇰 [VMess] 🇭🇰 香港|@ripaojiedian"
       - "[VMess] 🇭🇰 香港 特别行政区"
-      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
+      - "[VMess] 🇭🇰 香港 特别行政区 2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_4"
-      - "[SS] 🇯🇵 [SS] 🇯🇵 日本4|@ripaojiedian"
-      - "[SS] 🇯🇵 [SS] 🇯🇵 日本4|@ripaojiedian 2"
       - "[Trojan] 🇯🇵 [Trojan] 🇯🇵 日本2|@ripaojiedian"
       - "[Trojan] 🇯🇵 [Trojan] 🇯🇵 日本3|@ripaojiedian"
       - "[Trojan] 🇯🇵 [Trojan] 🇯🇵 日本|@ripaojiedian"
-      - "[VMess] 🇰🇷 [VMess] 🇰🇷 韩国|@ripaojiedian"
-      - "[VMess] 🇰🇷 [VMess] 🇰🇷 韩国|@ripaojiedian 2"
       - "[VMess] 🇳🇱 _US_美国->🇳🇱_NL_荷兰"
+      - "[VMess] 🇷🇺 俄罗斯 V2CROSS.COM"
       - "[VMess] 🇸🇦 _US_美国->🇸🇦_SA_沙特阿拉伯"
+      - "[VMess] 🇸🇪 瑞典 V2CROSS.COM"
+      - "[VMess] 🇸🇪 瑞典 V2CROSS.COM 2"
       - "[Trojan] 🇸🇬 [Trojan] 🇸🇬 新加坡2|@ripaojiedian"
       - "[Trojan] 🇸🇬 [Trojan] 🇸🇬 新加坡3|@ripaojiedian"
       - "[Trojan] 🇸🇬 [Trojan] 🇸🇬 新加坡|@ripaojiedian"
@@ -533,10 +517,6 @@ proxy-groups:
       - "[VMess] 🇺🇸 _US_美国_3"
       - "[VMess] 🇺🇸 _US_美国_4"
       - "[VMess] 🇺🇸 _US_美国_5"
-      - "[VMess] 🇺🇸 美国 CloudFlare节点"
-      - "[VMess] 🇺🇸 美国 CloudFlare节点 2"
-      - "[SS] 🇻🇳 [SS] 🇻🇳 越南|@ripaojiedian"
-      - "[SS] 🇻🇳 [SS] 🇻🇳 越南|@ripaojiedian 2"
   - name: ▶️ Disney+
     type: select
     proxies:
@@ -546,7 +526,7 @@ proxy-groups:
       - 🇹🇼 台湾
       - 🇸🇬 新加坡
       - "[Hysteria2] [Hysteria2] - SE - @freeOnlineVPN #2"
-      - "[Hysteria2] [Hysteria2] - SE - @freeOnlineVPN #3"
+      - "[Hysteria2] [Hysteria2] - SE - @freeOnlineVPN #4"
       - "[Hysteria2] [Hysteria2] @Daily_Configs"
       - "[Hysteria2] [Hysteria2] @Daily_Configs #1"
       - "[Hysteria2] [Hysteria2] @FreakConfig"
@@ -642,20 +622,19 @@ proxy-groups:
       - "[VMess] 🇭🇰 [VMess] 🇭🇰 香港6|@ripaojiedian 2"
       - "[VMess] 🇭🇰 [VMess] 🇭🇰 香港|@ripaojiedian"
       - "[VMess] 🇭🇰 香港 特别行政区"
-      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
+      - "[VMess] 🇭🇰 香港 特别行政区 2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_4"
-      - "[SS] 🇯🇵 [SS] 🇯🇵 日本4|@ripaojiedian"
-      - "[SS] 🇯🇵 [SS] 🇯🇵 日本4|@ripaojiedian 2"
       - "[Trojan] 🇯🇵 [Trojan] 🇯🇵 日本2|@ripaojiedian"
       - "[Trojan] 🇯🇵 [Trojan] 🇯🇵 日本3|@ripaojiedian"
       - "[Trojan] 🇯🇵 [Trojan] 🇯🇵 日本|@ripaojiedian"
-      - "[VMess] 🇰🇷 [VMess] 🇰🇷 韩国|@ripaojiedian"
-      - "[VMess] 🇰🇷 [VMess] 🇰🇷 韩国|@ripaojiedian 2"
       - "[VMess] 🇳🇱 _US_美国->🇳🇱_NL_荷兰"
+      - "[VMess] 🇷🇺 俄罗斯 V2CROSS.COM"
       - "[VMess] 🇸🇦 _US_美国->🇸🇦_SA_沙特阿拉伯"
+      - "[VMess] 🇸🇪 瑞典 V2CROSS.COM"
+      - "[VMess] 🇸🇪 瑞典 V2CROSS.COM 2"
       - "[Trojan] 🇸🇬 [Trojan] 🇸🇬 新加坡2|@ripaojiedian"
       - "[Trojan] 🇸🇬 [Trojan] 🇸🇬 新加坡3|@ripaojiedian"
       - "[Trojan] 🇸🇬 [Trojan] 🇸🇬 新加坡|@ripaojiedian"
@@ -666,10 +645,6 @@ proxy-groups:
       - "[VMess] 🇺🇸 _US_美国_3"
       - "[VMess] 🇺🇸 _US_美国_4"
       - "[VMess] 🇺🇸 _US_美国_5"
-      - "[VMess] 🇺🇸 美国 CloudFlare节点"
-      - "[VMess] 🇺🇸 美国 CloudFlare节点 2"
-      - "[SS] 🇻🇳 [SS] 🇻🇳 越南|@ripaojiedian"
-      - "[SS] 🇻🇳 [SS] 🇻🇳 越南|@ripaojiedian 2"
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -680,7 +655,7 @@ proxy-groups:
       - 🇹🇼 台湾
       - 🇸🇬 新加坡
       - "[Hysteria2] [Hysteria2] - SE - @freeOnlineVPN #2"
-      - "[Hysteria2] [Hysteria2] - SE - @freeOnlineVPN #3"
+      - "[Hysteria2] [Hysteria2] - SE - @freeOnlineVPN #4"
       - "[Hysteria2] [Hysteria2] @Daily_Configs"
       - "[Hysteria2] [Hysteria2] @Daily_Configs #1"
       - "[Hysteria2] [Hysteria2] @FreakConfig"
@@ -776,20 +751,19 @@ proxy-groups:
       - "[VMess] 🇭🇰 [VMess] 🇭🇰 香港6|@ripaojiedian 2"
       - "[VMess] 🇭🇰 [VMess] 🇭🇰 香港|@ripaojiedian"
       - "[VMess] 🇭🇰 香港 特别行政区"
-      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
+      - "[VMess] 🇭🇰 香港 特别行政区 2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_4"
-      - "[SS] 🇯🇵 [SS] 🇯🇵 日本4|@ripaojiedian"
-      - "[SS] 🇯🇵 [SS] 🇯🇵 日本4|@ripaojiedian 2"
       - "[Trojan] 🇯🇵 [Trojan] 🇯🇵 日本2|@ripaojiedian"
       - "[Trojan] 🇯🇵 [Trojan] 🇯🇵 日本3|@ripaojiedian"
       - "[Trojan] 🇯🇵 [Trojan] 🇯🇵 日本|@ripaojiedian"
-      - "[VMess] 🇰🇷 [VMess] 🇰🇷 韩国|@ripaojiedian"
-      - "[VMess] 🇰🇷 [VMess] 🇰🇷 韩国|@ripaojiedian 2"
       - "[VMess] 🇳🇱 _US_美国->🇳🇱_NL_荷兰"
+      - "[VMess] 🇷🇺 俄罗斯 V2CROSS.COM"
       - "[VMess] 🇸🇦 _US_美国->🇸🇦_SA_沙特阿拉伯"
+      - "[VMess] 🇸🇪 瑞典 V2CROSS.COM"
+      - "[VMess] 🇸🇪 瑞典 V2CROSS.COM 2"
       - "[Trojan] 🇸🇬 [Trojan] 🇸🇬 新加坡2|@ripaojiedian"
       - "[Trojan] 🇸🇬 [Trojan] 🇸🇬 新加坡3|@ripaojiedian"
       - "[Trojan] 🇸🇬 [Trojan] 🇸🇬 新加坡|@ripaojiedian"
@@ -800,10 +774,6 @@ proxy-groups:
       - "[VMess] 🇺🇸 _US_美国_3"
       - "[VMess] 🇺🇸 _US_美国_4"
       - "[VMess] 🇺🇸 _US_美国_5"
-      - "[VMess] 🇺🇸 美国 CloudFlare节点"
-      - "[VMess] 🇺🇸 美国 CloudFlare节点 2"
-      - "[SS] 🇻🇳 [SS] 🇻🇳 越南|@ripaojiedian"
-      - "[SS] 🇻🇳 [SS] 🇻🇳 越南|@ripaojiedian 2"
   - name: 📲 Telegram
     type: select
     proxies:
@@ -828,7 +798,7 @@ proxy-groups:
       - "[VMess] 🇭🇰 [VMess] 🇭🇰 香港6|@ripaojiedian 2"
       - "[VMess] 🇭🇰 [VMess] 🇭🇰 香港|@ripaojiedian"
       - "[VMess] 🇭🇰 香港 特别行政区"
-      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
+      - "[VMess] 🇭🇰 香港 特别行政区 2"
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -839,7 +809,7 @@ proxy-groups:
       - 🇹🇼 台湾
       - 🇸🇬 新加坡
       - "[Hysteria2] [Hysteria2] - SE - @freeOnlineVPN #2"
-      - "[Hysteria2] [Hysteria2] - SE - @freeOnlineVPN #3"
+      - "[Hysteria2] [Hysteria2] - SE - @freeOnlineVPN #4"
       - "[Hysteria2] [Hysteria2] @Daily_Configs"
       - "[Hysteria2] [Hysteria2] @Daily_Configs #1"
       - "[Hysteria2] [Hysteria2] @FreakConfig"
@@ -935,20 +905,19 @@ proxy-groups:
       - "[VMess] 🇭🇰 [VMess] 🇭🇰 香港6|@ripaojiedian 2"
       - "[VMess] 🇭🇰 [VMess] 🇭🇰 香港|@ripaojiedian"
       - "[VMess] 🇭🇰 香港 特别行政区"
-      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
+      - "[VMess] 🇭🇰 香港 特别行政区 2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_4"
-      - "[SS] 🇯🇵 [SS] 🇯🇵 日本4|@ripaojiedian"
-      - "[SS] 🇯🇵 [SS] 🇯🇵 日本4|@ripaojiedian 2"
       - "[Trojan] 🇯🇵 [Trojan] 🇯🇵 日本2|@ripaojiedian"
       - "[Trojan] 🇯🇵 [Trojan] 🇯🇵 日本3|@ripaojiedian"
       - "[Trojan] 🇯🇵 [Trojan] 🇯🇵 日本|@ripaojiedian"
-      - "[VMess] 🇰🇷 [VMess] 🇰🇷 韩国|@ripaojiedian"
-      - "[VMess] 🇰🇷 [VMess] 🇰🇷 韩国|@ripaojiedian 2"
       - "[VMess] 🇳🇱 _US_美国->🇳🇱_NL_荷兰"
+      - "[VMess] 🇷🇺 俄罗斯 V2CROSS.COM"
       - "[VMess] 🇸🇦 _US_美国->🇸🇦_SA_沙特阿拉伯"
+      - "[VMess] 🇸🇪 瑞典 V2CROSS.COM"
+      - "[VMess] 🇸🇪 瑞典 V2CROSS.COM 2"
       - "[Trojan] 🇸🇬 [Trojan] 🇸🇬 新加坡2|@ripaojiedian"
       - "[Trojan] 🇸🇬 [Trojan] 🇸🇬 新加坡3|@ripaojiedian"
       - "[Trojan] 🇸🇬 [Trojan] 🇸🇬 新加坡|@ripaojiedian"
@@ -959,10 +928,6 @@ proxy-groups:
       - "[VMess] 🇺🇸 _US_美国_3"
       - "[VMess] 🇺🇸 _US_美国_4"
       - "[VMess] 🇺🇸 _US_美国_5"
-      - "[VMess] 🇺🇸 美国 CloudFlare节点"
-      - "[VMess] 🇺🇸 美国 CloudFlare节点 2"
-      - "[SS] 🇻🇳 [SS] 🇻🇳 越南|@ripaojiedian"
-      - "[SS] 🇻🇳 [SS] 🇻🇳 越南|@ripaojiedian 2"
   - name: 🇭🇰 香港
     type: select
     proxies:
@@ -975,12 +940,10 @@ proxy-groups:
       - "[VMess] 🇭🇰 [VMess] 🇭🇰 香港6|@ripaojiedian 2"
       - "[VMess] 🇭🇰 [VMess] 🇭🇰 香港|@ripaojiedian"
       - "[VMess] 🇭🇰 香港 特别行政区"
-      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
+      - "[VMess] 🇭🇰 香港 特别行政区 2"
   - name: 🇯🇵 日本
     type: select
     proxies:
-      - "[SS] 🇯🇵 [SS] 🇯🇵 日本4|@ripaojiedian"
-      - "[SS] 🇯🇵 [SS] 🇯🇵 日本4|@ripaojiedian 2"
       - "[Trojan] 🇯🇵 [Trojan] 🇯🇵 日本2|@ripaojiedian"
       - "[Trojan] 🇯🇵 [Trojan] 🇯🇵 日本3|@ripaojiedian"
       - "[Trojan] 🇯🇵 [Trojan] 🇯🇵 日本|@ripaojiedian"
@@ -1004,8 +967,6 @@ proxy-groups:
       - "[VMess] 🇺🇸 _US_美国_3"
       - "[VMess] 🇺🇸 _US_美国_4"
       - "[VMess] 🇺🇸 _US_美国_5"
-      - "[VMess] 🇺🇸 美国 CloudFlare节点"
-      - "[VMess] 🇺🇸 美国 CloudFlare节点 2"
   - name: 🇹🇼 台湾
     type: select
     proxies:
