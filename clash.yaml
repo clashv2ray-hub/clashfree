@@ -16,8 +16,12 @@ proxies:
   - {name: "[SS] 🇫🇷 _FR_法国", server: 51.158.54.209, port: 443, type: ss, cipher: aes-256-cfb, password: asdKkaskJKfnsa, udp: true}
   - {name: "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1", server: mrb2.shabijichang.com, port: 80, type: vmess, uuid: c458695d-6908-45c3-9512-e0c46418454c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mrb2.shabijichang.com}}, udp: true}
   - {name: "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_2", server: ld2.shabijichang.com, port: 80, type: vmess, uuid: c458695d-6908-45c3-9512-e0c46418454c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ld2.shabijichang.com}}, udp: true}
-  - {name: "[VMess] 🇭🇰 香港 CDN520加速节点(BGP)数据中心", server: sv2.wy888.us, port: 443, type: vmess, uuid: cda69512-ad1b-4f85-b547-b1d545e7cc90, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sv2.wy888.us, network: ws, ws-opts: {path: /vmess, headers: {Host: sv2.wy888.us}}, udp: true}
-  - {name: "[Trojan] 🇭🇰 香港 电讯盈科有限公司", server: 58.152.53.219, port: 443, type: trojan, password: BxceQaOe, sni: t.me%252Fripaojiedian, skip-cert-verify: true, udp: true}
+  - {name: "[VMess] 🇬🇧 英国 V2CROSS.COM", server: gtm1.ktmwan.net, port: 12887, type: vmess, uuid: 1ec49aaf-2990-4c7b-a45c-d190e6ea5438, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: baidu.com}}, udp: true}
+  - {name: "[VMess] 🇬🇧 英国 V2CROSS.COM 2", server: gtm1.ktmwan.net, port: 12889, type: vmess, uuid: 1ec49aaf-2990-4c7b-a45c-d190e6ea5438, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: baidu.com}}, udp: true}
+  - {name: "[VMess] 🇬🇧 英国 V2CROSS.COM 3", server: gtm1.ktmwan.net, port: 12890, type: vmess, uuid: 1ec49aaf-2990-4c7b-a45c-d190e6ea5438, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: baidu.com}}, udp: true}
+  - {name: "[VMess] 🇬🇧 英国 V2CROSS.COM 4", server: 82.198.246.97, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: "[VMess] 🇬🇧 英国 V2CROSS.COM 5", server: gtm1.ktmwan.net, port: 12883, type: vmess, uuid: 1ec49aaf-2990-4c7b-a45c-d190e6ea5438, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gtm1.ktmwan.net}}, udp: true}
+  - {name: "[VMess] 🇬🇧 英国 V2CROSS.COM 6", server: gtm1.ktmwan.net, port: 12883, type: vmess, uuid: 1ec49aaf-2990-4c7b-a45c-d190e6ea5438, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: baidu.com}}, udp: true}
   - {name: "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1", server: 104.17.18.26, port: 80, type: vmess, uuid: 5180444a-4756-43b4-960b-49eb9052e4e8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: a.109420.xyz}}, udp: true}
   - {name: "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2", server: 104.26.8.44, port: 80, type: vmess, uuid: 5180444a-4756-43b4-960b-49eb9052e4e8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: a.109420.xyz}}, udp: true}
   - {name: "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3", server: mm2.shabijichang.com, port: 80, type: vmess, uuid: c458695d-6908-45c3-9512-e0c46418454c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mm2.shabijichang.com}}, udp: true}
@@ -50,8 +54,12 @@ proxy-groups:
       - "[SS] 🇫🇷 _FR_法国"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_2"
-      - "[VMess] 🇭🇰 香港 CDN520加速节点(BGP)数据中心"
-      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM 2"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM 3"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM 4"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM 5"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM 6"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3"
@@ -79,8 +87,12 @@ proxy-groups:
       - "[SS] 🇫🇷 _FR_法国"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_2"
-      - "[VMess] 🇭🇰 香港 CDN520加速节点(BGP)数据中心"
-      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM 2"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM 3"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM 4"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM 5"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM 6"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3"
@@ -108,8 +120,12 @@ proxy-groups:
       - "[SS] 🇫🇷 _FR_法国"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_2"
-      - "[VMess] 🇭🇰 香港 CDN520加速节点(BGP)数据中心"
-      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM 2"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM 3"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM 4"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM 5"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM 6"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3"
@@ -137,8 +153,12 @@ proxy-groups:
       - "[SS] 🇫🇷 _FR_法国"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_2"
-      - "[VMess] 🇭🇰 香港 CDN520加速节点(BGP)数据中心"
-      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM 2"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM 3"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM 4"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM 5"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM 6"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3"
@@ -167,8 +187,12 @@ proxy-groups:
       - "[SS] 🇫🇷 _FR_法国"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_2"
-      - "[VMess] 🇭🇰 香港 CDN520加速节点(BGP)数据中心"
-      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM 2"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM 3"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM 4"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM 5"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM 6"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3"
@@ -194,8 +218,6 @@ proxy-groups:
     proxies:
       - DIRECT
       - "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国"
-      - "[VMess] 🇭🇰 香港 CDN520加速节点(BGP)数据中心"
-      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -213,8 +235,12 @@ proxy-groups:
       - "[SS] 🇫🇷 _FR_法国"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_2"
-      - "[VMess] 🇭🇰 香港 CDN520加速节点(BGP)数据中心"
-      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM 2"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM 3"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM 4"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM 5"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM 6"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3"
@@ -229,8 +255,7 @@ proxy-groups:
   - name: 🇭🇰 香港
     type: select
     proxies:
-      - "[VMess] 🇭🇰 香港 CDN520加速节点(BGP)数据中心"
-      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
+      - DIRECT
   - name: 🇯🇵 日本
     type: select
     proxies:
