@@ -25,7 +25,6 @@
 | [flybit](https://flybit.vip/#/register?code=iV0dLWfT) | [点击进入](https://flybit.vip/#/register?code=iV0dLWfT) |  | 10元 100G/月 | ✔支持 |
 | [快猫](https://cf2.ikuaimao.world/#/register?code=9xg6G0AV) | [点击进入](https://cf2.ikuaimao.world/#/register?code=9xg6G0AV) |  | 10元 100G/月 | ✔支持 |
 | [西瓜云](https://www.xiyou666.xyz/?path=register&code=2mVFWPT1) | [点击进入](https://www.xiyou666.xyz/?path=register&code=2mVFWPT1)|  | 9元 120G/月 |  |
-| [火烧云](https://cn1.huoshaoyun.pro/#/register?code=BP3fNkQd) | [点击进入](https://cn1.huoshaoyun.pro/#/register?code=BP3fNkQd) |  | 18元 100G/月 |  |
 | [冰灵加速](https://c1.bingclub.xyz/#/register?code=3R5DYYrL) | [轻云](https://c1.bingclub.xyz/#/register?code=3R5DYYrL)  |  | 8.9元 129G/月 |  |
 
 ## [简介](#简介)
@@ -121,17 +120,6 @@
 * * *
 
 
-### [火烧云](https://cn1.huoshaoyun.pro/#/register?code=6Y5z9uJk)
-
-点击注册：[点击进入](https://cn1.huoshaoyun.pro/#/register?code=6Y5z9uJk)
-
-
-最便宜的订阅有18元 100G/月。
-
-这家机场是我自己用的，节点质量非常高，解锁大部分主流媒体，可以访问openai，有 emby 和 奈飞 劫持。支持支付宝、微信、USDT支付。
-
-* * *
-
 ### [快猫](https://cf2.ikuaimao.world/#/register?code=9xg6G0AV)
 
 点击注册：[点击进入](https://cf2.ikuaimao.world/#/register?code=9xg6G0AV)
@@ -158,16 +146,6 @@
 
 * * *
 
-
-
-
-
-[【火烧云】](https://cn1.huoshaoyun.pro/#/register?code=iYoHYy6g)
-不限设备数
-
-解锁流媒体、chatGPT
-
-注册地址：[【火烧云官网（点击注册）】](https://cn1.huoshaoyun.pro/#/register?code=iYoHYy6g)
 ##  高速机场推荐1
 
 [【88加速】](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
