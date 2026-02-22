@@ -1,4 +1,4 @@
-## 更新时间 2026-02-21
+## 更新时间 2026-02-22
 # 公益免费 clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  
 ## 每个小时获取1次最新的节点信息
 ## 所有节点信息来自互联网
@@ -23,7 +23,7 @@
 | [狗狗加速器](https://www.dginv.click/#/register?code=yi5aid0d) | [点击进入](https://www.dginv.click/#/register?code=yi5aid0d) |  | 9.9元 140G/月 |  |
 | [flybit](https://flybit.vip/#/register?code=iV0dLWfT) | [点击进入](https://flybit.vip/#/register?code=iV0dLWfT) |  | 10元 100G/月 | ✔支持 |
 | [快猫](https://cf2.ikuaimao.world/#/register?code=9xg6G0AV) | [点击进入](https://cf2.ikuaimao.world/#/register?code=9xg6G0AV) |  | 10元 100G/月 | ✔支持 |
-| [西瓜云](https://www.xiyou666.xyz/?path=register&code=2mVFWPT1) | [点击进入](https://www.xiyou666.xyz/?path=register&code=2mVFWPT1)|  | 9元 120G/月 |  |
+| [西游云](https://www.xiyou666.xyz/?path=register&code=2mVFWPT1) | [点击进入](https://www.xiyou666.xyz/?path=register&code=2mVFWPT1)|  | 9元 120G/月 |  |
 | [冰灵加速](https://c1.bingclub.xyz/#/register?code=3R5DYYrL) | [轻云](https://c1.bingclub.xyz/#/register?code=3R5DYYrL)  |  | 8.9元 129G/月 |  |
 
 ## [简介](#简介)
