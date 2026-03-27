@@ -8,7 +8,6 @@ hosts:
   .googleapis.cn: 142.250.196.131
   .google.cn: 142.250.196.131
 proxies:
-  - {name: "[SS] 亚太地区 V2CROSS.COM", server: chengbai02.ascwt179.com, port: 13223, type: ss, cipher: aes-128-gcm, password: JVrsLLN1tkN8oXZO, udp: true}
   - {name: "[Trojan] 🇧🇬 保加利亚 V2CROSS.COM", server: 78.159.131.12, port: 28259, type: trojan, password: MeaDiUmPlkWbZJ2BON8tz, sni: ads.x5.ru, skip-cert-verify: true, udp: true}
   - {name: "[VMess] 🇨🇦 _CA_加拿大", server: 108.181.10.17, port: 80, type: vmess, uuid: 474e8680-701f-11ee-b436-205c6d5f5d78, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: teams.microsoft.com}}, udp: true}
   - {name: "[SS] 🇨🇭 _CH_瑞士", server: 84.17.53.163, port: 80, type: ss, cipher: aes-256-cfb, password: asdKkaskJKfnsa, udp: true}
@@ -18,6 +17,9 @@ proxies:
   - {name: "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1", server: mrb2.shabijichang.com, port: 80, type: vmess, uuid: c458695d-6908-45c3-9512-e0c46418454c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mrb2.shabijichang.com}}, udp: true}
   - {name: "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_2", server: ld2.shabijichang.com, port: 80, type: vmess, uuid: c458695d-6908-45c3-9512-e0c46418454c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ld2.shabijichang.com}}, udp: true}
   - {name: "[Trojan] 🇬🇧 英国 V2CROSS.COM", server: touching-pigeon.rooster465.autos, port: 443, type: trojan, password: WF42809561, skip-cert-verify: true, udp: true}
+  - {name: "[SS] 🇬🇧 英国 社会保险安全部", server: admin.c1.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 1kVr0KATIJI7mwOF, udp: true}
+  - {name: "[Trojan] 🇭🇰 香港 电讯盈科有限公司", server: 58.152.25.253, port: 443, type: trojan, password: BxceQaOe, sni: t.me/ripaojiedian, skip-cert-verify: true, udp: true}
+  - {name: "[Trojan] 🇭🇺 匈牙利 V2CROSS.COM", server: funky-platypus.rooster465.autos, port: 443, type: trojan, password: WF42809561, sni: funky-platypus.rooster465.autos, skip-cert-verify: true, udp: true}
   - {name: "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1", server: 104.17.18.26, port: 80, type: vmess, uuid: 5180444a-4756-43b4-960b-49eb9052e4e8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: a.109420.xyz}}, udp: true}
   - {name: "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2", server: 104.26.8.44, port: 80, type: vmess, uuid: 5180444a-4756-43b4-960b-49eb9052e4e8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: a.109420.xyz}}, udp: true}
   - {name: "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3", server: mm2.shabijichang.com, port: 80, type: vmess, uuid: c458695d-6908-45c3-9512-e0c46418454c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mm2.shabijichang.com}}, udp: true}
@@ -29,8 +31,8 @@ proxies:
   - {name: "[VMess] 🇺🇸 _US_美国_3", server: 45.199.138.186, port: 30000, type: vmess, uuid: 4ec0ae62-de09-4029-904a-0313d4628ecf, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /path/1696682720138, headers: {Host: www.19229362.xyz}}, udp: true}
   - {name: "[VMess] 🇺🇸 _US_美国_4", server: wnd3.shabijichang.com, port: 80, type: vmess, uuid: c458695d-6908-45c3-9512-e0c46418454c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: wnd3.shabijichang.com}}, udp: true}
   - {name: "[VMess] 🇺🇸 _US_美国_5", server: 104.21.75.246, port: 80, type: vmess, uuid: c458695d-6908-45c3-9512-e0c46418454c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: sbl2.shabijichang.com}}, udp: true}
-  - {name: "[VMess] 🇺🇸 美国 CloudFlare节点", server: sy4.620720.xyz, port: 443, type: vmess, uuid: 516d8a7a-3f0b-41d3-bad0-246116381516, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: sy4.620720.xyz}}, udp: true}
-  - {name: "[VMess] 🇺🇸 美国 CloudFlare节点 2", server: c7.620720.xyz, port: 8443, type: vmess, uuid: 516d8a7a-3f0b-41d3-bad0-246116381516, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: c7.620720.xyz}}, udp: true}
+  - {name: "[VMess] 🇺🇸 美国 CloudFlare节点", server: t1.620720.xyz, port: 8443, type: vmess, uuid: 516d8a7a-3f0b-41d3-bad0-246116381516, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: t1.620720.xyz}}, udp: true}
+  - {name: "[VMess] 🇺🇸 美国 CloudFlare节点 2", server: zdqbk.cmvvb.online, port: 8443, type: vmess, uuid: ef46b74c-b3ef-4633-9818-0af6226c4060, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: zdqbk.cmvvb.online, network: ws, ws-opts: {path: /, headers: {Host: zdqbk.cmvvb.online}}, udp: true}
 proxy-groups:
   - name: 🚀 全球互联
     type: select
@@ -44,7 +46,6 @@ proxy-groups:
       - 🇺🇲 美国
       - 🇹🇼 台湾
       - 🇸🇬 新加坡
-      - "[SS] 亚太地区 V2CROSS.COM"
       - "[Trojan] 🇧🇬 保加利亚 V2CROSS.COM"
       - "[VMess] 🇨🇦 _CA_加拿大"
       - "[SS] 🇨🇭 _CH_瑞士"
@@ -54,6 +55,9 @@ proxy-groups:
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_2"
       - "[Trojan] 🇬🇧 英国 V2CROSS.COM"
+      - "[SS] 🇬🇧 英国 社会保险安全部"
+      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
+      - "[Trojan] 🇭🇺 匈牙利 V2CROSS.COM"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3"
@@ -75,7 +79,6 @@ proxy-groups:
       - 🇺🇲 美国
       - 🇹🇼 台湾
       - 🇸🇬 新加坡
-      - "[SS] 亚太地区 V2CROSS.COM"
       - "[Trojan] 🇧🇬 保加利亚 V2CROSS.COM"
       - "[VMess] 🇨🇦 _CA_加拿大"
       - "[SS] 🇨🇭 _CH_瑞士"
@@ -85,6 +88,9 @@ proxy-groups:
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_2"
       - "[Trojan] 🇬🇧 英国 V2CROSS.COM"
+      - "[SS] 🇬🇧 英国 社会保险安全部"
+      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
+      - "[Trojan] 🇭🇺 匈牙利 V2CROSS.COM"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3"
@@ -106,7 +112,6 @@ proxy-groups:
       - 🇺🇲 美国
       - 🇹🇼 台湾
       - 🇸🇬 新加坡
-      - "[SS] 亚太地区 V2CROSS.COM"
       - "[Trojan] 🇧🇬 保加利亚 V2CROSS.COM"
       - "[VMess] 🇨🇦 _CA_加拿大"
       - "[SS] 🇨🇭 _CH_瑞士"
@@ -116,6 +121,9 @@ proxy-groups:
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_2"
       - "[Trojan] 🇬🇧 英国 V2CROSS.COM"
+      - "[SS] 🇬🇧 英国 社会保险安全部"
+      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
+      - "[Trojan] 🇭🇺 匈牙利 V2CROSS.COM"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3"
@@ -137,7 +145,6 @@ proxy-groups:
       - 🇺🇲 美国
       - 🇹🇼 台湾
       - 🇸🇬 新加坡
-      - "[SS] 亚太地区 V2CROSS.COM"
       - "[Trojan] 🇧🇬 保加利亚 V2CROSS.COM"
       - "[VMess] 🇨🇦 _CA_加拿大"
       - "[SS] 🇨🇭 _CH_瑞士"
@@ -147,6 +154,9 @@ proxy-groups:
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_2"
       - "[Trojan] 🇬🇧 英国 V2CROSS.COM"
+      - "[SS] 🇬🇧 英国 社会保险安全部"
+      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
+      - "[Trojan] 🇭🇺 匈牙利 V2CROSS.COM"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3"
@@ -169,7 +179,6 @@ proxy-groups:
       - 🇺🇲 美国
       - 🇹🇼 台湾
       - 🇸🇬 新加坡
-      - "[SS] 亚太地区 V2CROSS.COM"
       - "[Trojan] 🇧🇬 保加利亚 V2CROSS.COM"
       - "[VMess] 🇨🇦 _CA_加拿大"
       - "[SS] 🇨🇭 _CH_瑞士"
@@ -179,6 +188,9 @@ proxy-groups:
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_2"
       - "[Trojan] 🇬🇧 英国 V2CROSS.COM"
+      - "[SS] 🇬🇧 英国 社会保险安全部"
+      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
+      - "[Trojan] 🇭🇺 匈牙利 V2CROSS.COM"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3"
@@ -206,6 +218,7 @@ proxy-groups:
     proxies:
       - DIRECT
       - "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国"
+      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -215,7 +228,6 @@ proxy-groups:
       - 🇺🇲 美国
       - 🇹🇼 台湾
       - 🇸🇬 新加坡
-      - "[SS] 亚太地区 V2CROSS.COM"
       - "[Trojan] 🇧🇬 保加利亚 V2CROSS.COM"
       - "[VMess] 🇨🇦 _CA_加拿大"
       - "[SS] 🇨🇭 _CH_瑞士"
@@ -225,6 +237,9 @@ proxy-groups:
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_2"
       - "[Trojan] 🇬🇧 英国 V2CROSS.COM"
+      - "[SS] 🇬🇧 英国 社会保险安全部"
+      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
+      - "[Trojan] 🇭🇺 匈牙利 V2CROSS.COM"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3"
@@ -241,7 +256,7 @@ proxy-groups:
   - name: 🇭🇰 香港
     type: select
     proxies:
-      - DIRECT
+      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
   - name: 🇯🇵 日本
     type: select
     proxies:
