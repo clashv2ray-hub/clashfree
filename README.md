@@ -1,4 +1,4 @@
-## 更新时间 2026-8-14
+## 更新时间 2026-8-15
 # 公益免费 clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  
 ## 每个小时获取1次最新的节点信息
 ## 所有节点信息来自互联网
@@ -46,7 +46,7 @@
 
 - 绿牛云 - 稳定高速的绿色云加速服务
 - 绿牛云提供稳定、高速、安全的全球网络加速服务。精选优质线路，覆盖主流区域，帮助跨境办公、学习与娱乐保持顺畅连接。
-- 网站注册地址：【<a href="https://www.nfsq.us/#/register?code=CH8dmRTt" target="_blank">绿牛云（点击注册）</a>】
+### - 网站注册地址：【<a href="https://www.nfsq.us/#/register?code=CH8dmRTt" target="_blank">绿牛云（点击注册）</a>】
 ***
 <h3></h3>
 <h3><span style="color: #ff0000;">🚀 <a style="color: #ff0000;" href="https://www.112112789.xyz/?path=register&code=7Y5uXPTq">飞鸟加速&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 点击注册</a> </span></h3>
