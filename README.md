@@ -1,4 +1,4 @@
-## 更新时间 2026-9-5
+## 更新时间 2026-9-6
 # 公益免费 clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  
 ## 每个小时获取1次最新的节点信息
 ## 所有节点信息来自互联网
@@ -166,6 +166,6 @@
 
 ## clash订阅链接：
 
-<a href="https://yfuye.com/freenode" target="_blank">点击进入订阅</a>
+<a href="https://clashv2ray-hub.github.io" target="_blank">点击进入订阅</a>
 
     https://raw.githubusercontent.com/clashv2ray-hub/clashfree/refs/heads/main/clash.yaml
