@@ -1,4 +1,4 @@
-## 更新时间 2026-9-27
+## 更新时间 2026-9-28
 # 公益免费 clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  
 ## 每个小时获取1次最新的节点信息
 ## 所有节点信息来自互联网
@@ -18,7 +18,7 @@
 
 | 机场名称 | 地址 |  | 最便宜订阅 | 按流量购买 |
 | :-- | :-- | :-- | :-- | :-- |
-| [88云加速](https://qq.88cloud.dpdns.org/#/register?code=n4KLfZJb) | [点击进入](https://qq.88cloud.dpdns.org/#/register?code=n4KLfZJb) |  	 | 10元 200G/月 |✔支持  |
+| [88云加速](https://www.8891888.xyz/#/register?code=n4KLfZJb) | [点击进入](https://www.8891888.xyz/#/register?code=n4KLfZJb) |  	 | 10元 200G/月 |✔支持  |
 | [星辰vpn](https://c.kilxs.cn/#/register?code=jWv0CnPO) | [点击进入](https://c.kilxs.cn/#/register?code=jWv0CnPO) |  | 9.9元 140G/月 |  |
 | [狗狗加速器](https://www.dginv.click/#/register?code=yi5aid0d) | [点击进入](https://www.dginv.click/#/register?code=yi5aid0d) |  | 9.9元 140G/月 |  |
 | [flybit](https://flybit.vip/#/register?code=iV0dLWfT) | [点击进入](https://flybit.vip/#/register?code=iV0dLWfT) |  | 10元 100G/月 | ✔支持 |
@@ -27,18 +27,18 @@
 ## [简介](#简介)
 
 
-### [【88云加速】](https://qq.88cloud.dpdns.org/#/register?code=n4KLfZJb)
+### [【88云加速】](https://www.8891888.xyz/#/register?code=n4KLfZJb)
 
 原生支持解锁流媒体，内容包括 Netflix、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
 
-最便宜的订阅有10元 300G/月
+最便宜的订阅有10元 200G/月
 
 
 
 
 解锁奈飞迪士尼
 
-### 注册地址：[【88云加速（点击注册）】](https://qq.88cloud.dpdns.org/#/register?code=n4KLfZJb)
+### 注册地址：[【88云加速（点击注册）】](https://www.8891888.xyz/#/register?code=n4KLfZJb)
 
 *  *   *
 
@@ -127,12 +127,12 @@
 
 ##  高速机场推荐1
 
-[【88加速】](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
+[【88加速】](https://www.8891888.xyz/#/register?code=LSpR3sOK)
 不限设备数
 
 解锁流媒体、chatGPT
 
-注册地址：[【88加速官网（点击注册）】](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
+注册地址：[【88加速官网（点击注册）】](https://www.8891888.xyz/#/register?code=LSpR3sOK)
 
 
 
