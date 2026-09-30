@@ -1,4 +1,4 @@
-## 更新时间 2026-9-29
+## 更新时间 2026-9-20
 # 公益免费 clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  
 ## 每个小时获取1次最新的节点信息
 ## 所有节点信息来自互联网
@@ -87,9 +87,9 @@
 
 
 
-### [西游云](https://d.xiyou666.xyz/?code=2mVFWPT1)
+### [西游云](https://e.xiyou666.xyz/?code=2mVFWPT1)
 
-点击注册：[点击进入](https://d.xiyou666.xyz/?code=2mVFWPT1)
+点击注册：[点击进入](https://e.xiyou666.xyz/?code=2mVFWPT1)
 
 
 
